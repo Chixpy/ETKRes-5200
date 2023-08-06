@@ -1,0 +1,204 @@
+
+ ASTRO CHASE
+
+ BY PARKER BROTHERS
+
+ OBJECT
+ ------
+
+ Your mission is to save the planet earth from total destruction!  To
+ do it, you must eliminate all 8 mega mines now approaching earth --
+ just one will shatter the earth like glass!  And while you're
+ blasting mega mines, you must also destroy a barrage of enemy ships
+ as they chase you to the ends of the galaxy!  The larger your
+ conquests -- the bigger your reception upon returning home!  Good
+ luck with your mission!
+
+ SETTING THE CONSOLE CONTROLS
+ ----------------------------
+
+ 1.  Place the cartridge firmly into the cartridge slot at the top of
+     the Atari 5200 unit.
+
+ 2.  Press the ON/OFF switch to ON.
+
+ 3.  Once the initial animation scene has ended, press down the #
+     button located on the joystick controller to choose the Chase or
+     skill level desired.  The numbers will appear at the bottom,
+     left-hand side of the screen.  You must press the # button each
+     time in order to advance to the next Chase.  NOTE:  You cannot
+     select Chase 25 through 34.  You must survive Chase 24 to be
+     awarded the opportunity to play Chase 25 or higher.  If you lose
+     at any Chase past 24, the game will automatically return to
+     Chase 23.
+
+ 4.  To begin playing, press down the START button on the joystick
+     controller.
+
+ THE JOYSTICK CONTROLLER
+ -----------------------
+
+ Plug the joystick controller firmly into the Atari 5200 unit at the
+ jack labeled "No. 1."
+
+ Use your joystick to navigate your ship in any direction -- left,
+ right, up, down, or diagonally.  Press the lower FIRE buttons on
+ either side of the joystick controller to shoot lasers at attacking
+ enemy ships or mega mines.  Holding down the FIRE buttons lets you
+ fire in rapid succession.
+
+ PLAYING
+ -------
+
+ The following illustrates the situations which may appear on the
+ screen during the game.
+
+ (illustration omitted for obvious reasons)
+
+ Each time you begin the game for the first time, or begin a new
+ Chase after the earth has been destroyed, you receive 3 saucers,
+ each having 1,000 units of energy.
+
+ FORCE FIELD
+ -----------
+
+ The galaxy is surrounded by an invisible (and inescapable!) force
+ field.  Its perimeters are defined by the 4 Energy Generators located
+ in the four furthermost corners of space, and by the 8 Shield Depots
+ located across the top, sides, and bottom of the field.  If you hit
+ the Force Field, the galaxy sparks - you lose energy -- but bounce
+ back.  You can, however, shoot through the Force Field and destroy
+ enemy ships or Mega Mines.
+
+ SHIELD DEPOTS
+ -------------
+
+ To activate your shields and become invulnerable to all enemy blasts
+ and ramming, simply fly through one of the 8 Shield Depots.  You will
+ hear a short musical cue and your saucer will begin to flash.  Now,
+ if you ram an enemy ship, or if one rams you, it will automatically
+ be destroyed.  The shield lasts for approximately 10 seconds and you
+ will use 100 units of energy upon activating it.
+
+ ENERGY GENERATORS
+ -----------------
+
+ There is an endless supply of energy available from the 4 Energy
+ Generators located just within the four corners of the Force Field.
+ To reenergize, simply fly through one of the generators.  Each
+ horizontal pass through it gives you 12 additional units of energy.
+ Each vertical pass through a generator gives you 24 additional units
+ of energy.  NOTE:  For each second of saucer flight time, and for
+ each single blast of your laser, you use 1 unit of energy.  You also
+ lose energy when your saucer bumps into hot stars and planets.  When
+ your energy level drops to 300 units, a warning will flash on the
+ screen.  Use all your energy and your saucer blows up!  NOTE:  When
+ you have run out of energy, the energy displays on the screen will
+ show an abnormal reading, such as 999999.
+
+ LASERS
+ ------
+
+ To fire lasers, simply hold down the FIRE button on the joystick and
+ simultaneously move the joystick in the direction you want the laser
+ to shoot.
+
+ SINGLE THRUST PROPULSION
+ ------------------------
+
+ This special game feature lets you lock your saucer on course, at a
+ constant speed, and simultaneously continue to shoot in any
+ direction -- regardless of the direction of travel.  To fly, simply
+ tap the joystick in the direction you wish to head.  Then, by holding
+ down the FIRE button, you will continue flying in that direction,
+ but will be able to direct your missiles by moving the joystick.
+
+ SCORING
+ -------
+
+ Destroying Enemy Ships:
+
+ Ramatrons ... 10 points
+ Characteristics: They ram only, and cannot go through planets.  They
+ are slower than jets.
+
+ Ramalons ... 20 points
+ Characteristics: They ram and fire lasers, but cannot go through
+ planets.
+
+ Firetrons ... 50 points
+ Characteristics: They ram and fire lasers, but cannot go through
+ planets.
+
+ Firelons ... 60 points
+ Characteristics: They ram and fire lasers, and can go through
+ planets.
+
+ Ramatron Jets ... 30 points
+ Characteristics: They ram only, but cannot go through planets.  ALL
+ JETS HAVE DOUBLE SPEED.
+
+ Ramalon Jets ... 40 points
+ Characteristics: They ram only, and can go through planets.
+
+ Firetron Jets ... 70 points
+ Characteristics: They ram and fire lasers, but cannot go through
+ planets.
+
+ Firelon Jets ... 80 points
+ Characteristics: They ram and fire lasers, and can go through
+ planets.
+
+ Destroying Mega Mines:
+    Each Mega mine is worth 3 times the point value of the type of
+    enemy ship appearing in that "chase."
+
+    EX.:  In Chase 1, Ramatrons worth 10 points each are the attacking
+          fighters.  Therefore, each Mega mine destroyed is worth 30
+          points (3 X 10 points).
+
+ Bonus Saucers:
+    Whenever you successfully complete a Chase, you will be awarded 2
+    bonus saucers, each with 1,000 units of energy.
+
+ Remaining Energy:
+    When you survive a Chase, the energy remaining in your saucer is
+    converted into points and added to your score.
+
+ SPECIAL JOYSTICK CONTROLS
+ -------------------------
+
+ "Pause" Button
+    While your saucer is moving, depress the "Pause" button on the
+    joystick controller and the action will pause.  To begin the
+    action, simply press the "Pause" button again.
+
+ * Button
+    At any time during the game, while the saucer is moving, you may
+    abort your mission by pressing down the * button on the joystick
+    controller.  You may then press down the "Start" button to begin
+    the preceding Chase again, or depress the # button to choose
+    another chase, and then press the "Start" button to begin playing.
+    NOTE:  Whenever you abort your mission, you will lose all your
+    bonus saucers and points accumulated to this point.
+
+ "0" Button
+    At any time during the game, if you wish to eliminate the music,
+    and hear only the battle sounds, press down the "0" button on the
+    joystick.  To restore the music, simply press the "0" button
+    again.
+
+ Reset Button
+    The Reset button will restart the game beginning with the
+    animation sequence.  The high score will be lost.
+
+ END OF GAME
+ -----------
+
+ The game ends when you lose all of your saucers, or a mega mine
+ reaches the earth and blows it apart!  Press the START button to
+ begin again.
+
+ END
+
+ Typed by Keita Iida (keita@mindspring.com)

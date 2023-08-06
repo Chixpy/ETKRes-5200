@@ -1,0 +1,192 @@
+
+ MS. PAC-MAN
+
+ BY ATARI
+
+ Insert your 5200 game cartridge so the label faces you and reads
+ right-side-up. Be sure the cartridge is firmly seated in the
+ center slot of the console, but do not force it. Then press the
+ POWER switch on. See your owner's manual for further details.
+
+ THE MS. PAC-MAN CHASE
+
+ Here she is...the Queen of Video Games, MS. PAC-MAN! The object
+ of the game is to score as many points as you can while trying
+ to clear the mazes of dots. Use your 5200 controller to guide
+ this fearless beauty around the maze as she gobbles up dots,
+ fruit, pretzels, energy pills, and ghosts. Move your joystick up,
+ down, right, or left to guide MS. PAC-MAN in the same direction.
+
+ Watch out for four feisty ghosts. They scurry around after MS.
+ PAC-MAN, trying to gobble her up. If one of them catches her, you
+ lose a life. When MS. PAC-MAN eats an energy pill, the ghosts
+ turn blue with fright. At this time, MS. PAC-MAN can gobble up
+ the ghosts, racking up even more points with each ghost she
+ gobbles.
+
+ GAME PLAY
+
+ You choose from the following eight skill levels which progress
+ in difficulty:
+ Teddy Bear
+ Cherries
+ Strawberry
+ Orange
+ Pretzel
+ Apple
+ Pear
+ Banana
+ (See GAME SELECTION.) Each time you clear a maze, game play
+ progresses automatically to the next higher skill level.
+
+ After MS. PAC-MAN clears the maze in the Banana skill level, the
+ game difficulty progresses, but the fruit is chosen at random,
+ and the mazes alternate. The random friut ranges from the fruit
+ level at which you start. If you start at Cherries, you could
+ encounter any fruit, but if you start at Bananas, you will only
+ encounter Bananas, since that is the most difficult level.
+
+ There are four different maze patterns and three different cartoon
+ intermissions in the ATARI MS. PAC-MAN game.
+
+ Maze 1
+ This is the easiest maze. It is used in the Teddy Bear, Cherries,
+ and Strawberry skill levels. The first cartton intermission begins
+ after you clear the screen at the Strawberry level
+
+ Intermission 1
+ PAC-MAN and MS. PAC-MAN meet and it's love at first sight.
+
+ Maze 2
+ This is a difficult maze with long twisting corridors and an
+ escape tunnel at the top. Maze 2 is used in the Orange, Pretzel,
+ and Apple skill levels. The second cartoon intermission begins
+ after the Apple level.
+
+ Intermission 2
+ PAC-MAN and MS. PAC-MAN alternately chase each other across the
+ screen.
+
+ Maze 3
+ This is the most difficult maze with a trap at the bottom and only
+ one short escape tunnel. Maze 3 is used in the Pear, Banana, and
+ first two random fruit skill levels. The third cartoon intermission
+ begins after you clear the random fruit maze twice.
+
+ Intermission 3
+ A visit from the stork delights PAC-MAN and MS. PAC-MAN.
+
+ Maze 4
+ This easy maze is used with random fruit(see GAME PLAY).
+
+ The game then continues to progress in difficulty with random fruit,
+ and four screens of maze 3 that alternate with four screens of
+ maze 4.
+
+ Each game starts with five MS. PAC-MAN lives, indicated at the
+ lower left corner of the screen. You score points when MS. PAC-MAN
+ eats dots, energy pills, ghosts, and fruit which appear twice on
+ each screen. Each time the maze is cleared, the screen flashes
+ momentarily, and a new maze of dots appears. The game ends when
+ you lose all your MS. PAC-MAN lives.
+
+ When MS. PAC-MAN eats an energy pill, the ghosts turn blue, and she
+ can gobble them up for more points. Then the eyes of the gobbled
+ ghosts float back to the reincarnation chamber in the center of
+ the screen. Because the effects of the energy pill only last a
+ short time, MS. PAC-MAN has to move fast. The ghosts flash and the
+ music changes just before the energy pill wears off. Then the
+ ghosts return to their original colors, and MS.PAC-MAN loses her
+ ghost-gobbling power.
+
+ USING THE CONTROLLERS
+
+ Plug your 5200 controller firmly into jack 1 for one-player games;
+ plug a second controller into jack 2 for two-player games.
+
+ GAME SELECTION
+
+ When the cartridge is inserted and the POWER is switched ON, the
+ program automatically plays a MS. PAC-MAN game. Use this opportunity
+ to see how the game is played. Press RESET to view a game selection
+ screen with a MS. PAC-MAN billboard at the top. Press the left *
+ key to choose the skill level you would like to play. The skill
+ levels are indicated by fruit symbols on the screen. Press the right
+ # key to choose a one- or two-player game.
+
+ To START, PAUSE, and RESET a game
+ Press START to begin playing a MS. PAC-MAN game.
+
+ Press PAUSE to freeze all game play. Press PAUSE again to resume game
+ play. Press PAUSE and START to start another game at the same skill
+ level. Press PAUSE and RESET to return to the game selection screen.
+
+ Press RESET to reset the game back to the game selection screen.
+
+ Joystick Control
+ Use your joystick to move MS. PAC-MAN around the maze. She moves
+ in the same direction you move the joystick. For a quick escape,
+ guide MS. PAC-MAN out an exit and through an escape tunnel. She'll
+ re-enter the maze on the opposite side.
+
+ SKILL LEVELS
+
+ This ATARI MS. PAC-MAN game contains eight skill levels which are
+ represented by symbols at the lower right corner of the screen. Each
+ skill level progresses automatically to the next highest level when
+ you clear the maze of dots. The easiest level is indicated by a
+ Teddy Bear, and the most difficult level is indicated by a Banana.
+ The Cherries level is the same difficulty as the arcade version of
+ MS. PAC-MAN.
+
+ SCORING
+
+ The score for player 1 or a single player is displayed in the upper
+ left side of the screen. The score for player 2 is displayed at the
+ upper right side of the screen. The current player's score is white;
+ the other player's score is red.
+
+ You score 10 points for every dot and 50 points for every energy pill
+ that MS. PAC-MAN eats. You score extra points when MS. PAC-MAN eats
+ ghosts, floating fruit, and pretzels. The longer MS. PAC-MAN
+ survives, the more valuable the bonus treats will become.
+
+ POINTS
+ DOT               10
+ ENERGY PILL       50
+ TEDDY BEAR        50
+ CHERRIES         100
+ STRAWBERRY       200
+ ORANGE           500
+ PRETZEL          700
+ APPLE           1000
+ PEAR            2000
+ BANANA          5000
+ FIRST GHOST      200
+ SECOND GHOST     400
+ THIRD GHOST      800
+ FOURTH GHOST    1600
+
+ BONUS LIFE at 10,000 points
+
+ HELPFUL HINTS
+ *For a high score: Wait until the ghosts are close to MS. PAC-MAN
+ when she is near an energy pill. Then eat the energy pill and gobble
+ up all the ghosts.
+ *Get to know the different mazes. Each has its own escape tunnels
+ which can often save MS. PAC-MAN at the last second.
+ *Practice clearing the maze of dots before trying to gobble up
+ ghosts. Eventually you'll learn which techniques work best.
+ *When the ghosts start catching up with MS. PAC-MAN, try one of these
+ tips to outrun them: (1) Dots slow down MS. PAC-MAN, so travel on a
+ clear path. (2) MS. PAC-MAN can "cut corners" by turning before she
+ actually reaches them. (3) Use the tunnels; the ghosts don't move
+ as fast in them.
+ *All the ghosts have different personalities and speeds. Watch and
+ learn how they each chase MS. PAC-MAN.
+
+ END
+
+ Typed by Robert "Ferg" Ferguson (wombat2@ix.netcom.com)
+
+ for Atari Gaming Headquarters

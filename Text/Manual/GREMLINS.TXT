@@ -1,0 +1,207 @@
+
+ GREMLINS
+
+ BY ATARI
+
+ ========
+
+ THE PLOT
+
+   Rand Peltzer discovers the Mogwai in a Hong Kong trinket shop.
+ Rand is enchanted by the fluffy little creature and insists on
+ buying it.  "With Mogwai comes much responsibility," warns the
+ wise old owner of the shop.  Three absolute rules for the care
+ and feeding of Mogwai are:
+ 1. Keep them away from water.  Don't ever get them wet.  Water
+ makes them multiply.
+ 2. Keep them out of light.  They hate bright light.  It will kill
+ them.
+ 3. But the most important thing, the thing you must never forget,
+ is that no matter how much they cry, no matter how much they beg,
+ never, never feed them after midnight.  If you do, they'll hatch
+ into Gremlins!
+   Rand presents the Mogwai to his son Billy for Christmas.  Billy
+ names his adorable pet "Gizmo"--in honor of his dad's business,
+ which is inventing gadgets and gizmos.  When Billy's friend
+ accidentally spills water on Gizmo, five Mogwai spring out of the
+ original one!
+   Billy cages the Mogwai in his living room, but they break out
+ for a midnight snack.  As the game opens things look really
+ grim--or is that grem?
+
+ THE CAST
+
+ Introducing
+ Mogwai
+
+ Starring
+ Billy Peltzer
+
+ With thousands of Gremlins cast as villains
+
+ BEHIND THE SCENES
+
+   Insert the GREMLINS cartridge into your ATARI 5200 SuperSystem
+ as explained in your owner's guide and turn on the console.
+   Plug a controller into Jack 1 for a one-player game, and
+ another into Jack 2 for a two-player game.  The player using jack
+ 1 controls game selection and starts the game.
+   Press * to choose a one-player, two-player, or demo game.
+   You can start playing at a higher game level if you wish.
+ Press # to cycle through the twelve difficulty levels.  Night 1
+ is easiest and Night 23 hardest.
+   Press START to begin playing.
+   Press PAUSE to stop and restart the action.
+   Press PAUSE, then RESET during game play to return to the game
+ options display.
+   Press PAUSE, then START to restart the game at the current game
+ options.
+   Use your joystick to move Billy on the screen.  Billy moves up,
+ down, right, and left in the same direction you move the
+ joystick.  To automatically pick up a Mogwai, move Billy over to
+ the pet until he makes contact with it.  To put the Mogwai in its
+ pen, stand next to the pen.  Press either bottom fire button to
+ swing Billy's sword.  Press either top fire button to activate a
+ flash cube.
+
+ ON THE SET
+
+ Oh no!  It's after midnight.  The Mogwai and Gremlins are running
+ wild in Billy's living room.  Help Billy return the Mogwai to
+ their cage and destroy all Gremlins by slashing them with his
+ sword before sunrise at six a.m.
+   You have between thirty seconds and six minutes to complete
+ your task.  A clock located at bottom screen center counts from
+ starting time up to six a.m.  The easier nights are shorter.
+ When you make it through one night, you go on to a harder night.
+ Two ways to make it through a night:
+ 1. Return all Mogwai to their pens and eliminate all Gremlins.
+ 2. Survive until six a.m.
+   You start out with three lives.  Each time a Gremlin touches
+ you, you lose a life.  Remaining lives are displayed next to your
+ score at the top of the screen.  You win a bonus life every
+ 10,000 points.  The maximum lives displayed at once are six;
+ extra lives won after that are held in reserve.
+
+ SPECIAL PROPS
+
+ Mogwai Pen
+   Located at upper screen right, the Mogwai pen is the best place
+ to put the mischievous little Mogwai.  You can only carry one
+ Mogwai at a time in addition to Gizmo, the original Mogwai that
+ Billy carries in a backpack throughout the game.  When you're
+ carrying a Mogwai, a Mogwai head appears at top center of the
+ screen.  Stand beside the pen to put the Mogwai into it.
+ Gremlins let Mogwai out of the pen, so keep them away from it!
+
+ Sword
+   Swing your sword as soon as you're within range of a Gremlin.
+ The sword swings in the direction you're moving.  While it
+ eliminates Gremlins on contact, it swings too high to hurt
+ Mogwai.
+
+ Flash Cubes
+   Mogwai and Gremlins are very sensitive to light.  You can stun
+ them for a second by activating a flash cube.  You start out with
+ three flash cubes and win a new one with each new life.  Flash
+ cube indicators appear as "+"s at lower screen left for Player
+ One and at lower screen right for Player Two.
+
+ Television
+   Located at upper screen left, the TV turns on when Billy,
+ Mogwai or Gremlins touch it.  (But they can't turn it off.)  When
+ it's on all the Gremlins and Mogwai within range stand still and
+ watch it.
+
+ Peltzer Popcorn Popper
+   Invented by Billy's dad, the Peltzer Popcorn Popper stands at
+ lower room right.  It still has a few kinks in it, though.  For
+ one thing, it spews popcorn all over the place!  For another,
+ it's so easy to turn the thing on that all the Mogwai and
+ Gremlins need do is walk up to the machine and it starts popping.
+  The Mogwai eat the popcorn for their night snack and promptly
+ turn into pupas, which shortly hatch into Gremlins.  You can make
+ the pupas disappear by touching them--but it's risky since they
+ hatch so quickly.  Pick up popped corn, and turn off the popper
+ by walking up to it.
+
+ Refrigerator
+   The refrigerator stands at the far left side of the room.
+ Gremlins get into the 'fridge as often as possible:
+   They fling food out for the Mogwai to eat, which, as you
+ already know, results in disaster!  Pick up food by walking over
+ it.
+   Another Peltzer invention-in-progress is the automatic ice cube
+ maker in the freezer section of the 'fridge.  About the only
+ thing the ice cube maker does automatically is spit ice cubes at
+ random onto the living room floor.  The ice cubes melt within a
+ few seconds, forming a puddle that the Gremlins and Mogwai love
+ to play in.  And remember, when the creatures touch water, they
+ multiply!
+
+ NIGHT TYPES
+
+   You'll encounter three different types of night.  There's the
+ mixed night that includes Mogwai, Gremlins, popcorn, and water.
+ There's the Gremlin-only night that features lots of water but no
+ Mogwai or food.  And there's the Mogwai-only night in which there
+ are lots of barriers, food and no water, and a short time to get
+ the Mogwai into the pen.
+
+ THE SCORE
+
+   Player One's score appears at the top left of the screen and
+ Player Two's score is displayed at top right.
+
+ Eliminating Gremlins................................ 100
+
+ Touching pupa....................................... 100
+
+ Picking up food.....................................   7
+
+ Mogwai in pen at end of night ......100 plus 50 for each
+ additional Mogwai
+
+ Bonus for time remaining
+ when all Mogwai are in pen
+ and all Gremlins are gone ........9 (per minute remaining)
+
+ IMPROVISATIONAL TIPS
+
+ *  Use the room dividers to your advantage.  You can swing your
+ sword over a vertical room divider to get the Gremlins on the
+ other side, even as the divider shields you from your enemy.
+
+ * To keep them from throwing out food, eliminate Gremlins
+ standing near the refrigerator as soon as possible.
+
+ * If you think you can control them, let the Mogwai multiply.
+ This gives you the potential for more points at the end of the
+ night.  But don't forget--if they eat food, they'll turn into
+ Gremlins.
+
+ * Use the flashcubes judiciously.  For example, if you're
+ surrounded by Gremlins, activate a flashcube to stun them, and
+ then slash your way out.  You can walk right through a stunned
+ Gremlin, but if it wakes up, you'll be sorry!
+
+ * You can turn on the TV and sneak up on the Mogwai and Gremlins
+ while they're watching TV.
+
+ * Time is worth more than food, so don't go out of your way to
+ pick up pieces of food.
+
+ ATARI
+ Printed in Taiwan
+ (c)1986 Atari, Corp.
+ All rights reserved
+
+ No reproduction of this document or any portion of its contents
+ is allowed without specific written permission of Atari, Corp.
+ Sunnyvale CA 94086
+
+ END
+
+ Typed by Jay Tilton (tiltonj@erols.com)
+
+ for Atari Gaming Headquarters

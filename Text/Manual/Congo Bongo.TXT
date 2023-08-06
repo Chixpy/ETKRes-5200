@@ -1,0 +1,110 @@
+
+ CONGO BONGO
+
+ BY SEGA
+
+ You're a hunter on a jungle safari. The jungle is full of
+ creatures determined to give you a run for your life, but
+ none of them can match the mischief of CONGO BONGO, the
+ gorilla.
+ The object of the game is to get even with CONGO while
+ collecting as many points as possible. But watch your step...
+ one slip and it's safari heaven!
+ CONGO BONGO features:
+ *ONE OR TWO PLAYER JUNGLE FUN
+ *TWO TROPICAL 3-D GRAPHIC GAME SCREENS
+ *MULTIPLE PLAY LEVELS OF INCREASING DIFFICULTY
+
+ USING YOUR CONTROLS
+ Then you turn the game on you see the CONGO BONGO logo screen
+ with the high score. The screen changes and asks you to
+ choose one or two players and if the game is controlled by
+ joystick.
+ "1" is pressed for one player game.
+ "2" is pressed for two player game.
+ When the joystick is used, player one uses the left control
+ and player two uses the right control. The joystick is used to
+ make the hunter walk or climb. The fire button is used to make
+ the hunter jump.
+ In a two player game the players take turns alternately.
+
+ HOW TO PLAY
+ THE SCREEN AND GAME PLAY- CONGO BONGO consists of two separate
+ jungle scenes. Above the jungle scenes you see player scores
+ and to the right of each score is the number of lives that
+ player has left indicated by small hunters. Between each player's
+ score is the player number, one or two. The bonus points and
+ the play level are at the upper right corner of the screen.
+
+ SCREEN #1
+ The first screen takes you to Jungle Mountain. Here you try to
+ reach CONGO BONGO at the top of his perch. You must climb up the
+ mountain while avoiding the coconuts falling from the top of
+ CONGO's perch. You lose one of your three lives when you:
+ *GET HIT BY A COCONUT
+ *FALL INTO THE WATER
+ *FALL OFF A LEDGE
+ *RUN OUT OF BONUS TIME
+ When you jump across the chasm the cliff falls and you can't
+ jump back.
+ You then climb to Monkey Plateau. At the first level of play
+ no monkeys jump on you. At the second level, one monkey can
+ jump on you, preventing you from going farther. After the
+ second level of play, two monkeys can jump on you and actually
+ throw you over the cliff. To get the monkeys off your back, you
+ must jump three times without moving directions.
+ After you cross the river, avoiding the coconuts, you will reach
+ CONGO's perch then automatically move to the next screen.
+
+ SCREEN #2
+ Now you've reached the Great River. Try to cross the lagoon on
+ lily pads, by jumping on islands, hippos and fishes and once
+ you've crossed, watch out for charging rhinos on the other side.
+ Just as in screen #1, the jungle dangers increase as the play
+ levels advance.
+ 1. The lily pads shrink each round.
+ 2. At the first and second levels th fish won't open their mouths
+ to snap at you. At levels three and four only the two fish on
+ the far right open their mouths. From the fifth play level up,
+ all four fish open their mouths to snap at you. When you are
+ on a fish that snaps you lose one life. The fish will warn
+ you before they snap by changing the color of their heads to
+ yellow.
+ When you reach the other side of the river you have to watch
+ for raging rhinos. When you reach the sleeping CONGO, you get
+ to give him the hot foot he deserves. After a brief pause to
+ enjoy your victory you automatically find yourself back at
+ screen #1 but at the next, more difficult play level.
+ On screen #2 you lose a life each time you:
+ *FALL OFF A SHRINKING LILY PAD
+ *GET EATEN BY A FISH
+ *FALL OFF A FISH
+ *GET HIT BY A RAGING RHINO
+ *FALL OFF AN ISLAND
+ *FALL OFF A HIPPO
+ *BONUS TIME RUNS OUT
+
+ SCORING
+ Each step the hunter takes awards 10 points. Jumping onto a
+ hippo, fish, or lily pad awards 100 points. Jumping across the
+ chasm awards 500 points.
+ Each screen begins with a BONUS amount that increases as play
+ level increases.
+ LEVEL         BONUS
+ 1             5000
+ 2             6000
+ 3             7000
+ 4             8000
+ 5-9           9000
+ The BONUS is reduced every tick of the game clock. If the bonus
+ is reduced to 0000 before reaching the screen end the hunter
+ will run out of time and lose one life.
+ The hunter has three lives per game. But if the total score
+ reaches 10,000 points, one additional life will be awarded and
+ the extra play screen will occur immediately.
+
+ END
+
+ Typed by Robert "Ferg" Ferguson (wombat2@ix.netcom.com)
+
+ for Atari Gaming Headquarters

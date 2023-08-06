@@ -1,0 +1,252 @@
+
+ FROGGER II: THREEDEEP!
+
+ BY PARKER BROTHERS
+
+ Look who's resurfaced in an all new adventure.  It's Frogger!  Three
+ distincly different screens take our fearless frog on another
+ homeward bound journey, but this time it's underwater, over water and
+ through the air!  Frogger must swim against strong currents, whisk
+ over wales and hippos, sidestep snapping barracudas, spring from
+ cloud trampolines to high-flying birds and so much more.  So, Frogger
+ lovers, kiss your lily pads good-bye and get set for some fast and
+ frantic fun!
+
+ SETTING THE CONSOLE CONTROLS
+ ----------------------------
+
+ 1.  Place the cartridge firmly into the cartridge slot.
+ 2.  Since this is a one-player game, plug a joystick controller into
+     the #1 jack.
+ 3.  Press the POWER ON/OFF button.
+ 4.  Press * to choose either the joystick or keypad option as
+     indicated at the top of the screen.
+ 5.  Press # to choose to begin at either Level 1 or Level 3 as
+     indicated at the top of the screen.
+ 6.  Press START or RESET to begin.
+
+ At any time during the game, you may start over again by pressing
+ START or RESET.  If you wish to start over with new game options,
+ press either * or #.
+
+ THE JOYSTICK CONTROLLER
+ -----------------------
+
+ Using the joystick option:
+
+ The joystick controls Frogger's movement forward, backward, left or
+ right.  To hop Frogger in these directions, press either (or both)
+ bottom FIRE buttons while you tilt the joystick in the desired
+ direction.  Don't keep the FIRE buttons pressed down.
+
+ Using the keypad option:
+
+ The diagram shows which keypad buttons to press in order to hop
+ Frogger in the desired direction.
+
+           2
+
+           ^
+           |
+           |
+ 4  <------------->  6
+           |
+           |
+           v
+
+           8
+
+ OBJECT
+ ------
+
+ To get Frogger safely into the required number of home berths.  Home
+ berths are dispersed among the three different screens: underwater,
+ on the water's surface, and in the air.  In Level 1, for instance,
+ there are five home berths; three in the underwater screen, and one
+ each in the surface and air screens.  Frogger need not reach any of
+ the home berths in one screen before he goes to the next.  As you'll
+ see, Frogger may travel from one screen to another without loss of
+ life.  To advance to a higher difficulty, however, Frogger must fill
+ all open berths in each of the three screens.
+
+ There are bonus points to be had in each screen, too.  But you'll
+ collect them only if you take Frogger to an open berth on that same
+ sreen!
+
+ PLAYING
+ -------
+
+ In this game, Frogger has five lives.  Remaining lives appear in the
+ form of frogs at the bottom of the screen.  The remaining number of
+ berths to be filled appears at the top of the screen.  Frogger's got
+ a time band to watch out for, too.  If he doesn't make it to a berth
+ by the time the band runs down, it's bye-bye, Frogger.  Before this
+ happens, however, you'll hear a warning sound and see the band at the
+ top of the screen turn red.
+
+ When Frogger loses a life, he returns to the first screen with his
+ remaining lives.
+
+ SCREEN 1: UNDERWATER FROGGER
+ ----------------------------
+
+ Deep down, Frogger knows he's got his work cut out for him on this
+ first leg of the journey.  Here's what Frogger should know as he
+ tries to reach the log berths at the top of the screen:
+
+ Alligators and snapping barracudas:  In a word, "deadly."  Don't
+ touch any part of them.
+
+ Floating off screen:  Floating off screen will finish Frogger off in
+ a flash, so be careful about drifting in the strong current.
+
+ Little fish and tiny fish:  These creatures aren't nearly as nasty as
+ their neighbors.  They won't hurt Frogger, but they can make it a bit
+ more difficult for him to reach the log berths.
+
+ Joe the diving turtle:  Joe is pretty nice to frogs.  When he gives
+ Frogger a free ride on his back, Frogger is safe from everybody else.
+ Also, when he's with Joe, Frogger can't be hurt by drifting off
+ screen.  The two of them will wrap around to the other side.
+
+ Bubbles:  Catch the air bubbles that float up from the bottom, and
+ you'll earn bonus points.  Remember that the bonus points count only
+ if Frogger gets home on this screen!
+
+ Larry the eel:  In all levels except Level 1, Larry the eel blows the
+ bubbles from the ocean floor.  Watch out because Larry can
+ 'eeliminate' you!
+
+ Getting to the surface:  Frogger can reach the next level in two
+ ways:
+ a)  By jumping into a log berth that's already filled.
+ b)  By jumping onto the ends or wooden underside of any log.
+
+ Remember: You do not have to fill any of the log berths in order to
+ reach the next screen.
+
+ SCREEN II: SURFACE FROGGER
+ --------------------------
+
+ Frogger can't swim very well on the surface.  So the only way he can
+ make it to the life preserver berth is to hop from one creature or
+ object in a row to another in the next row.
+
+ If Frogger falls into the water, he sinks all the way down to the
+ bottom of the underwater screen without loss of life.  Remember,
+ however, he may lose valuable time!
+
+ Logs:  Logs always make safe passage.
+
+ Lily pads:  Lily pads are safe to pass on and you earn bonus points
+ each time you do. (The bonus points count ONLY when you take Frogger
+ home on that screen.)  The lily pad disappears when you leave it.
+
+ Alligators:  Alligators are as harmless as logs.
+
+ Baby ducks and Mama Duck:  Baby ducks are happy to give Frogger a
+ lift.  But don't let Mama Duck catch him at it, or she'll come
+ after him!
+
+ Hippos:  Hippos mean well.  They're perfectly safe to ride on, but in
+ higher levels, they like to shake.  If Frogger is on board when they
+ start, it's into the drink for our fearless friend.
+
+ Whales:  Take a ride on a whale.  It's fun!  But if it dives, under
+ the water Frogger goes!
+
+ Turtles:  Frogger is perfectly safe riding turtleback.  Turtles
+ have no tricks up their shells.
+
+ Sharks:  On higher levels, sharks skim the lily pads.  Frogs beware
+ when you hear the shark warning!
+
+ Tugboat:  Try not to hit the tugboat.  It's the life preserver berth
+ Frogger is heading for.
+
+ Floating off screen:  Don't let this happen!
+
+ Super bonus points:  Can you discover how to earn them?
+
+ Getting into the air:  The ONLY way to get airborne is to jump onto
+ Mama duck who flaps her wings and flies Frogger there.  Just remember
+ that she won't do Frogger this favor when he's riding with her
+ babies!
+
+ SCREEN III: AIRBORNE FROGGER
+ ----------------------------
+
+ In this screen, our hero finds himself on a large cloud.  This cloud
+ has a lot of spring, so start bouncing Frogger up and down, holding
+ the joystick UP to bounce higher and higher, DIAGONALLY to bounce
+ sideways and DOWN to stop bouncing. (If you're using the joystick
+ option, you don't need to use the FIRE button to bounce on the cloud.
+ If you're using the keypad option, you must press the #2 button each
+ time you want to bounce higher; the #4 or #6 button to jump
+ diagonally; the #8 button to stop bouncing.)  The trick is to hop
+ onto a bird, then keep hopping from row to row until Frogger reaches
+ the cloud berth.
+
+ Butterflies:  Yum!  Frogger loves to eat butterflies and each time
+ he does, he receives bonus points (and ekeeps them when he makes it
+ home on that screen).  He pays a certain price for it, though,
+ because for each butterfly he gobbles, a hole opens (or widens) in
+ the cloud -- a hole that Frogger might fall through!
+
+ In higher levels Beulah Blackwing, the beautiful black butterfly,
+ appears.  Beulah is nobody's snack, so stay out of her way!
+
+ Clyde the flying dragon:  Because Clyde loves those pretty little
+ butterflies, he stays close by to protect them.  He doesn't do this
+ for Frogger, so don't run into him.
+
+ Birds:  All of the birds are glad to give Frogger a ride.  If Frogger
+ should miss a connection and fall, he may be caught by a cloud,
+ unless, of course, he falls through a hole.
+
+ The Airplane:  In higher levels, an airplane appears at the top of
+ the screen.  Stay away from it!  Little frogs are not meant to ride
+ airplanes.
+
+ The Stork:  Every 10,000 points, a stork appears at the top of the
+ screen.  If Frogger hops a ride with him, what does he get?  Why, a
+ baby frog, of course!  The baby frog gives Frogger another chance to
+ stay in the game.
+
+ Flying or bouncing off screen:  Don't let this happen!
+
+ Falling through a hole in the cloud:  If Frogger falls onto a LOG, he
+ ends up in the surface screen.  If Frogger falls into the WATER, he
+ ends up in the underwater screen.
+
+ DIFFICULTY LEVELS
+ -----------------
+
+ As the game progresses from level to level, the speed and density of
+ obstacles increase, making the game more and more challenging.  There
+ are nine levels in all.
+
+ END OF GAME
+ -----------
+
+ The game ends when Frogger loses his last life.  To play again, press
+ START or RESET.
+
+ SCORING
+ -------
+
+ Reaching a home berth ...................... 1000 points
+ Advancing a row ............................   15 points
+ Time remaining .................... 32 points per second
+
+ Bonus points:
+ Jumping off a lily pad .....................   25 points
+ Eating an air bubble .......................  100 points
+ Eating a butterfly .........................  100 points
+
+ Note:  Bonus points are collected only when Frogger reaches a home
+ berth on that same screen.
+
+ END
+
+ Typed by Keita Iida (keita@mindspring.com)

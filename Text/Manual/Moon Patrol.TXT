@@ -1,0 +1,106 @@
+
+ MOON PATROL
+
+ BY ATARI, INC.
+
+ Let's Be Careful Out There!
+
+ When you signed up with the Luna City Police Department, who would
+ have thought that you'd be assigned to Sector Nine--home of the
+ toughest thugs in the galaxy?  Sure, you've got the finest patrol car
+ on the force--complete with anti-gravity jump buttons and laser
+ bullets--but in the rough terrain of Sector Nine you need more than
+ fancy equipment to survive.  Just evading huge craters and moon rocks
+ is hard enough  without having to deal with hostile UFOs and enemy
+ landmines and tanks.  Getting through your patrol in one piece is
+ almost impossible!
+
+ Starting the Patrol
+
+ Insert your MOON PATROL cartridge in your ATARI 5200 SuperSystem as
+ explained in your owners guide, and turn on your system.
+
+ Plug one 5200 controller into jack 1 for one-player games; plug a
+ second controller into jack 2 for two-player games.  In two-player
+ games, the player using jack 1 will start, pause, and reset the game.
+
+ Press # to choose the BEGINNING or CHAMPIONSHIP course and * to
+ choose a one- or two-player game.
+
+ Press START to begin your patrol.
+
+ Press PAUSE once to pause during a game.  Press it again to resume
+ play.
+
+ Press RESET to return to the game option screen.
+
+ When a game is over, or when you press RESET, you have the option to
+ continue playing on the same section of your beat.  When the word
+ CONTINUE appears on the screen, press number 2 on the keypad to begin
+ the game on the section where you last appeared.  Otherwise, you'll
+ appear at the beginning of the course when you press START.
+
+ Patrol Car Controls
+
+ Use the top fire buttons on your 5200 controller to make your patrol
+ car jump; use the bottom fire buttons to shoot at enemies or
+ obstacles.  Push your joystick right to increase the speed of your
+ patrol car and left to slow it down.
+
+ Patrol Details
+
+ Your beat is divided into two courses:  BEGINNING (for rookies ) and
+ CHAMPIONSHIP (for experienced cops).  Each course is divided into 26
+ segments, marked by points A-Z.  A gauge at the top of the screen
+ indicates your location.  The gauge is divided into five sections:
+ A-E, F-J, K-O, P-T, and U-Z.  At the end of each section, you're
+ awarded bonus points based on your travel time.  The faster you
+ complete a section, the more points you'll score.
+
+ As you travel your beat, the number of obstacles you encounter
+ increases, and it becomes harder to avoid enemy attacks.  You start
+ the game with four patrol cars, and earn a bonus patrol car at
+ 10,000, 30,000, and 50,000 points.
+
+ Hints For Rookie Drivers
+
+ * Play the BEGINNING game variation first, to learn how to control
+   your patrol car.
+ * You'll jump farther when your patrol car is moving fast; be sure
+   you're driving fast enough to jump over an obstacle.
+ * Try taking one long jump over two closely positioned obstacles.
+ * Your laser bullets are only effective a short distance in front of
+   you.  Don't fire too early, or you might miss your target.
+ * Some UFOs drop missiles that form new craters.  Learn to recognize
+   these UFOs and eliminate them quickly.
+ * When an enemy missile appears from behind, jump over it, then
+   blast it when it's in front of you.
+
+ SCORING
+
+   OBSTACLE        Jumping   Shooting  Drinking
+
+   Crater            50          -        -
+   Land Mine         50          -        -
+   Rock             100          50       -
+   Rolling Rock      50          50       33
+   Tank             100         100       -
+   UFO               -          100       -
+   Enemy Missile     -          500       -
+
+   BONUS POINTS
+                                               Points
+      Completing a section under the average   100 per second
+      travel time
+      Completing a section                     1000
+      Completing the course                    5000
+
+      Note:  Bonus points are awarded only if your travel time is
+      less than the average time.  Travel time and average time are
+      displayed on the screen after finishing each section.
+
+ END
+
+ Typed by Jay Tilton (tiltonj@erols.com)
+
+ for Atari Gaming Headquarters

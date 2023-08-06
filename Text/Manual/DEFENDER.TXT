@@ -1,0 +1,429 @@
+
+ DEFENDER
+
+ BY ATARI
+
+ ==========================
+
+ To insert your ATARI 5200 game cartridge, hold the cartridge so
+ the name on the label faces you and reads right-side-up.  Then
+ carefully insert the cartridge into the slot in the center of the
+ console.  Be sure the cartridge is firmly seated, but do not
+ force it in.  The POWER ON/OFF switch is located on the lower
+ right side of the ATARI 5200.  Press this switch to turn the
+ power on AFTER inserting your game cartridge.  See your Owner's
+ Manual for further details.
+
+ ==========================
+
+ TABLE OF CONTENTS
+
+ 1. Commanding Orders
+ 2. Game Play
+ 3. Using the 5200 Controllers
+ 4. TRAK-BALL Option
+ 5. Game Variations
+ 6. Scoring
+ 7. Strategy and Tips
+ 8. Your Best Game Scores
+
+ ==========================
+
+ 1. COMMANDING ORDERS
+
+ TO:  COMMANDING OFFICER
+ FROM:  ASTRO-INTELLIGENCE
+ MISSION:  DEFENDER
+
+ I. CIRCUMSTANCES
+
+ Aliens from a distant solar system are swarming over the planet
+ Humanis.  They're kidnapping Humanoids and mutating them into a
+ permanent part of the alien force.  Their mission is to transform
+ all of the Humanoids before destroying the entire planet.
+
+ First, they infest the planet with Landers which close in on the
+ cities, abducting the Humanoids.  Then the attack intensifies.
+ Baiters, Swarmers, and Bombers terrorize the skys [sic].  And
+ then, when you least expect it, a deadly Pod collides with your
+ Spaceship, and blasts you to pieces.
+
+ II. YOUR MISSION
+
+ As Captain of the Spaceship Defender, your mission is to destroy
+ the alien force and save the Humanoids.  Your speed and skill
+ have earned you this heroic mission.  When Humanoids are
+ abducted, you'll have to destroy the Lander and catch the falling
+ Humanoid before safely returning him to the city below.
+
+ III. DEFENSE STRATEGY
+
+ The Spaceship Defender has full-range scanning equipment which
+ enables you to employ seek-and-destroy tactics.  Defender
+ discharges fatal missile fire at the push of a button.  You also
+ have two escape options for a last resort course of action:
+ hyperspace and smart bombs.  Hyperspace temporarily sends you
+ into a time warp, possibly only to reappear in a more dangerous
+ situation.  Smart bombs can destroy all aliens in sight with a
+ touch of a button.
+
+ Report immediately for this dangerous mission!
+
+ ==========================
+
+ 2. GAME PLAY
+
+ As Captain of the Spaceship Defender, your mission is to destroy
+ the aliens before all of the Humanoids are transformed to
+ Mutants.  You score points for each alien you destroy and for
+ each Humanoid you save.  Try not to shoot your Humanoids; they
+ are worth bonus points at the end of each alien attack wave.
+ (See Section 6, SCORING.)  In one-player games, your object is to
+ top your highest score.  In two-player games, the player with the
+ highest score wins the game.  A game ends when all Defender
+ Spaceships are destroyed.
+
+ Each game begins with three Defender lives and three smart bombs.
+ When Defender collides with an alien or is hit by an alien mine,
+ it explodes with a "blast."  If it's the last life, the game is
+ over.  If any lives remain, another Defender ship appears on the
+ scene.  The number of lives remaining and smart bombs remaining
+ is displayed at the upper portion of the television screen.  (See
+ Figure 1 for lives remaining and smart bombs remaining.)
+
+      [Screenshot with the "Lives Remaining" and "Smart Bombs
+      Remaining" indicators labeled.]
+           Figure 1
+
+ The aliens attack in waves; each wave becomes increasingly more
+ difficult.  When Defender destroys all the aliens in the first
+ wave, another wave of aliens moves in.  The longer that Defender
+ survives, the harder the alien attacks become.  Each time a wave
+ is completed, the number of the completed wave and the amount of
+ bonus points earned flashes in the center of the screen as shown
+ in Figure 2.
+
+      [Screenshot of the end of a wave with the "ATTACK WAVE 1
+      COMPLETED" message and the tally of surviving Humanoids.]
+           Figure 2
+
+ The alien force is made up of six different types of ships:
+ Landers, Bombers, Swarmers, Baiters, Mutants, and Pods.  Landers
+ are the first to appear.  They search the cities for Humanoids to
+ kidnap and mutate.  Bombers lay mines to trap you.  You cannot
+ shoot mines, so it's best to avoid them.  Swarmers are housed in
+ Pods.  Several Swarmers are released each time a Pod is
+ destroyed.  They track you very closely, so kill them the instant
+ they appear.  Baiters usually appear near the end of a wave.
+ They're large, they shoot fast, and they move faster than
+ Defender.  A Mutant is a transformed Humanoid.  Mutants are very
+ dangerous; use all your energy to kill them.  If the Landers
+ kidnap all the Humanoids and carry them to the top of the screen
+ to transform them into Mutants, the entire planet explodes.  The
+ most deadly alien of all is the mother ship, also known as a Pod.
+ When a Pod is destroyed, it releases 5 to 7 deadly Swarmers.
+ (See SCORING to learn what each alien looks like.)
+
+      [Unnumbered figure showing and naming the alien types.]
+
+ YOUR DEFENSE
+
+ Defender fires missiles to blast the alien ships.  But, when
+ things look real bad, Defender can employ one of two last resort
+ weapons.  First, you have three smart bombs which blow up every
+ alien in sight.  With every 10,000 points you score, you earn
+ another smart bomb and another Defender life.  Use smart bombs
+ sparingly and strategically.  It's a good idea to keep one smart
+ bomb in reserve in case you get stuck and need a little help to
+ earn another Defender life.
+
+ When you use a smart bomb, you earn points for every alien it
+ destroys on the screen.  Another weapon that can be used as a
+ last resort is hyperspace, which enables Defender to disappear,
+ warp through time and space, and reappear somewhere on the
+ screen.  You have no control over where you'll reappear.
+ Hyperspace can be tricky and dangerous.  Sometimes invisible
+ space matter can blow up your spaceship during the time warp.
+ Try to use hyperspace only when you have no other alternative.
+ (See Section 3, USING THE 5200 CONTROLLERS for using smart bombs
+ and hyperspace.)
+
+ USING THE SCANNER
+
+ Your scanner is located at the top center of the screen.  It
+ works like a radar screen to reflect alien attacks in your
+ viewing screen and at long range distances.  The scanner provides
+ the following important information:
+
+ *  How many aliens are approaching, what kind of aliens they are,
+    and what their positions are.
+
+ *  Where the Humanoids are being abducted by Landers.
+
+ *  How many Humanoids remain and where they are.
+
+ Each blip on the scanner represents an object in the game.  Your
+ playing area is bracketed by short lines in the center of the
+ scanner.  The blips are colored to help you distinguish between
+ different alien ships.  Get into the habit of monitoring the
+ scanner to help destroy aliens and defend Humanoids.  (See Figure
+ 3 for a diagram of the scanner.)
+
+      [Close-up view of the scanner and a screenshot of a game in
+      progress.  The relationships between each item on the
+      playing field and the scanner are shown with arrows drawn
+      between each.]
+           Figure 3
+
+ RESCUING HUMANOIDS
+
+ Here's where the heroics come in.  Your mission is to destroy
+ aliens while protecting Humanoids.  At the end of a wave, you
+ score 100 bonus points for every Humnaoid [sic] survivor,
+ multiplied by the number of the wave just completed (up to a
+ maximum of 500 bonus points).
+
+ All the Humanoids are stranded helplessly within the cities at
+ the bottom of the screen as shown in Figure 4.  You are their
+ only hope for survival.  Use the scanner to patrol their
+ positions.  When a Humanoid is being abducted by a Lander, you'll
+ hear his cry for help.  Go to his rescue immediately.  The
+ scanner is the fastest way to spot his position.  Look for the
+ Humanoid being lifted from the city as shown in Figure 4.
+
+      [Screenshot of a game in progress with the following items
+      labeled:  scores (players 1 and 2), Humanoid (on the
+      ground), Captured Humanoid (being abducted by a Lander).]
+           Figure 4
+
+ There are two techniques for rescuing a Humanoid:
+
+ *    Destroy the Lander and let the Humanoid fall back to the
+      city.
+
+ *    Destroy the Lander, catch the Humanoid, and carry him back
+      to the city.
+
+      Letting the Humanoid fall to the city is only effective if
+      the Humanoid is close enough to land safely.  Experiment to
+      find out what a safe distance is.  If the Humanoid falls
+      safely to the city, you score 250 points plus 150 points for
+      destroying the Lander.  If he crash lands, you only score
+      the 150 points for destroying the Lander.
+
+ Catching a Humanoid in midair is more difficult and is worth more
+ points.  To catch a Humanoid, shoot the Lander and maneuver
+ Defender to touch the Humanoid, then bring him back to the city.
+ If you succeed, you earn 1000 points plus 150 points for
+ destroying the Lander.  If you catch the Humanoid but don't
+ return him safely, you earn 500 points plus the 150 points for
+ destroying the Lander.  Note:  You may carry any number of
+ Humanoids at a time.  If you are carrying Humanoids at the end of
+ a wave, they count as survivors and the program automatically
+ returns them to the city.
+
+ MUTANT TAKEOVER
+
+ If Defender does not succeed in protecting a Humanoid, a Lander
+ abducts him and carries him up into space and transforms him into
+ a Mutant.  Mutants then return to attack the planet.  When all of
+ the Humanoids become Mutants, the cities blow up and disappear.
+ You continue playing to score points.  If you survive past the
+ next four waves without the cities below, all Humanoids are
+ reincarnated, and the cities below are rebuilt.
+
+ ==========================
+
+ 3. USING THE 5200 CONTROLLERS
+
+      [Photo of a 5200 controller.  You know what it looks like.]
+           Figure 5
+
+ Use one 5200 controller with this ATARI game cartridge.  Be sure
+ to plug the controller cable firmly into jack 1 at the front of
+ the 5200 console.  For two-player games, simply pass the
+ controller between turns.
+
+ KEYPAD OVERLAYS
+
+ For your convenience, two keypad overlays are included with this
+ game.  Slip the tabs into the slots above and below the keypad on
+ your controller.  (See Figure 6 for keypad overlay.)
+
+                  ONE PLAYER
+         EASY       NORMAL       HARD
+       --------    --------    --------
+      |        |  |        |  |        |
+      |        |  |        |  |        |
+       --------    --------    --------
+
+                  TWO PLAYER
+         EASY       NORMAL       HARD
+       --------    --------    --------
+      |        |  |        |  |        |
+      |        |  |        |  |        |
+       --------    --------    --------
+
+          DURING GAME PLAY PRESS ANY
+       KEYPAD BUTTON TO ENTER HYPERSPACE
+
+       --------    --------    --------
+      |        |  |        |  |        |
+      |        |  |        |  |        |
+       --------    --------    --------
+
+                     DEMO
+       --------    --------    --------
+      |        |  |        |  |        |
+      |        |  |        |  |        |
+       --------    --------    --------
+
+           Figure 6
+
+ GAME SELECTION
+
+ The first screen to appear in the ATARI DEFENDER game is a menu.
+ It allows you to choose either a one-player game or a two-player
+ game.  It also gives you three difficulty levels to choose from.
+ If you want to see how the ATARI DEFENDER game is played, select
+ a demonstration game which is automatically played by the
+ program.  (See Figure 7 for the game menu.)
+
+ Press the appropriate button for the game variation you want to
+ play.
+
+      [Screenshot of the game menu screen.]
+           Figure 7
+
+ GAME CONTROL KEYS
+
+ START
+
+ Press START to begin a game.
+
+ PAUSE
+
+ Press PAUSE at any time to freeze the action.  Press PAUSE again
+ to resume game play.  During game play, press PAUSE before
+ pressing START or RESET to start the game over.
+
+ RESET
+
+ Press PAUSE and then RESET to reset the game.
+
+ GAME CONTROLS
+
+ SPACESHIP DEFENDER
+
+ Use the joystick to thrust the Spaceship Defender up, down,
+ right, and left through space.  Also use the joystick to catch
+ falling Humanoids.
+
+ MISSILES
+
+ Press the lower red controller button to fire missiles at aliens.
+
+ SMART BOMBS
+
+ Press the top red button to detonate a smart bomb.
+
+ HYPERSPACE
+
+ Press any keypad button to enter hyperspace.
+
+ ==========================
+
+ 4. TRAK-BALL OPTION (Future Accessory)
+
+ This DEFENDER cartridge offers a TRAK-BALL option.  An ATARI
+ TRAK-BALL may be purchased separately, and will be available in
+ mid-1983.  To play DEFENDER with a TRAK-BALL, plug the TRAK-BALL
+ into jack 1 at the front of the 5200 console.  To select a game
+ variation and to use the keypad, follow the instructions in
+ Section 3, USING THE 5200 CONTROLLERS.
+
+ ==========================
+
+ 5. GAME VARIATIONS
+
+ There are seven game variations in ATARI DEFENDER.  Use the menu
+ to select the variation you wish to play (see Figure 7).  Press
+ the correct number, and the game variation is displayed under the
+ name DEFENDER at the top of the screen.  Regardless of the
+ difficulty you start with, you will automatically progress to
+ more difficult attack waves.
+
+ You also have the option of watching a demonstration game
+ (selection 7 on the menu).  The demonstration game is a good
+ learning tool for first time DEFENDER players.
+
+ ==========================
+
+ 6. SCORING
+
+ Scores appear at the top of the screen.  Player 1, or a single
+ player's score, is on the top left; the score for player 2 is on
+ the right.  Lives remaining and smart bombs remaining are
+ displayed next to these scores.  (See Figure 4 for scores.)
+
+ At the end of each wave, you score 100 bonus points for each
+ surviving Humanoid, multiplied by the number of the wave, up to a
+ maximum of 500 bonus points.
+
+      [The points values table below has pictures of each type of
+      alien or rescue mission.]
+
+ POINT VALUES: Aliens Destroyed
+      Lander  150    Mutant  150    Swarmer 200
+      Baiter  200    Bomber  250    Pod    1000
+
+ POINTS VALUES: Humanoid Rescue Mission
+      Points Plus 150 For Lander
+      Humanoid falls but lives                 250
+      Caught but not brought back to the city  500
+      Caught and brought back to the city     1000
+
+ You earn an additional DEFENDER life and smart bomb every 10,000
+ points.
+
+ ==========================
+
+ 7. STRATEGY AND TIPS
+
+ 1.  One of the most important strategies to remember is to keep
+     moving and firing at the same time.  Your continuous fire
+     will build a "wall of fire" to protect your spaceship.
+
+ 2.  Fly low.  Most good DEFENDER players seldom fly more than two
+     inches above the cities.  This helps in protecting the
+     Humanoids.
+
+ 3.  Destroy the Landers, but don't shoot your Humanoids.
+
+ 4.  Listen to the game sounds.  When you hear a Humanoid's cry
+     for help, immediately go to the rescue.
+
+ 5.  Learn to use the scanner.  Try playing DEFENDER using only
+     the scanner.  When you learn to rely on it, it will help you
+     improve your score.
+
+ 6.  Reversing direction suddenly is good strategy.  It confuses
+     and stops aliens.  By the time the alien recovers, you can
+     reverse directions again, and blast the alien.
+
+ ==========================
+
+ 8. YOUR BEST GAME SCORES
+
+ Name             Date      Score
+ ______________   _______   ________
+ ______________   _______   ________
+ ______________   _______   ________
+ ______________   _______   ________
+ [etc.]
+
+ END
+
+ Typed by Jay Tilton (tiltonj@erols.com)
+
+ for Atari Gaming Headquarters

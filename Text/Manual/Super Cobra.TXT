@@ -1,0 +1,153 @@
+
+ SUPER COBRA
+
+ BY PARKER BROTHERS
+
+ OBJECT
+ Brush off your ace piloting skills because you're about to
+ take off on a hair-raising adventure: air surveillance of
+ unfriendly territory. This means an 11,000 mile obstacle
+ course through ever-changing terrain...over craggy mountain
+ tops, around tall city buildings, through long jagged
+ tunnels. And that isn't all! The course is just rigged
+ with chopper-stopping weapons like igniting rockets, heavy
+ ground artillery, flobbynoids, and flying saucers.
+ Every 1,000 miles of terrain brings ever-increasing
+ challenges and ever-certain...danger. But a handsome payoff
+ lies at the end for anyone who's got what it takes!
+
+ SETTING THE CONSOLE CONTROLS
+ 1. Place the cartridge firmly in the cartridge slot.
+ 2. Plug one or two hand-held controllers into controller
+ jacks labelled "1" and "2." Use the controller in the "1"
+ jack for a one-player game.
+ 3. Press the ON/OFF switch to ON.
+ 4. Press keypad button "#" to choose a one- or two-player
+ game.
+ 5. Press either START or a bottom fire button on the
+ controller in the "1" jack to start the action.
+
+ THE HAND-HELD CONTROLLER
+ Use the joystick on the hand-held controller to fly your
+ chopper up, down, or to the right. Move the joystick left
+ to "hover." Press either of the bottom fire buttons to fire
+ your missiles and to drop bombs. Each press of the fire
+ button fires both missiles and bombs. For rapid fire action,
+ keep both fire buttons pressed down.
+
+ THE PAUSE BUTTON
+ Any time during the game, you may "freeze" the action. To
+ do so, simply press PAUSE. To continue the action, simply
+ press PAUSE again.
+
+ PLAYING
+ You'll start the game with five choppers. The first appears
+ in action while the remaining ones wait "on deck" at the
+ bottom of the screen.
+ When the game begins, fly your chopper down screen to the
+ right. The object is to avoid the obstacles that border
+ around the chopper's air route in order to gain mileage.
+ Hit an obstacle and the chopper goes down. When a chopper
+ goes down, the next one comes up at the beginning of the
+ section where the last one crashed. Each level has two
+ sections, showing two types of terrain.
+ In addition to gaining mileage, try to shoot down for
+ points the weapons scattered throughout the course. You'll
+ find six different types of weapons: rockets, ground artillery,
+ flobbynoids, falling mines, comets, and flying saucers. The
+ types of weapons you'll find and whether they're activated
+ or not will differ, depending on the level at which you're
+ playing. Just remember this: dodge their fire, don't run your
+ chopper into them, and try to shoot them down for points.
+
+ {DIAGRAM- Shows Mileage Gauge, Air Route, Chopper, Fuel Gauge,
+ and Remaining Choppers}
+
+ {DIAGRAM- Shows Rocket, Ground Artillery, Flobbynoid, Falling
+ Mine, Comet, Flying Saucer, Fuel Tank, and Booty}
+
+ FUEL TANKS
+ The yellow bar at the bottom of the screen is your fuel gauge.
+ Keep an eye on it because if your fuel runs out, your chopper
+ is out of luck. You can partially replenish your supply by
+ hitting a fuel tank with missile fire or a bomb. As the fuel
+ depletes to a serious level, you'll hear a warning sound.
+ This tells you to fly to a tank quickly and get more fuel.
+ With each new chopper and with each new level, you'll get a
+ supply of fuel.
+
+ LEVEL 1-11: THE OBSTACLE COURSE
+ Notice the blue band at the top of the screen. Each block
+ in the band represents 1,000 miles of the obstacle course-
+ or one game level. There are 11 levels in all; each level
+ has two sections of terrain. Every time your chopper enters
+ a new level, its corresponding block turns red.
+ Survive one level (with at least one remaining chopper),
+ and you'll hear a brief musical tune and see "mileage
+ cleared." In a moment, you'll cruise into the next level
+ and a different section of the obstacle course.
+ Each level shows not only a different air route, but also
+ displays different combinations of active and inactive
+ weapons. Here's a rundown of what you'll encounter in
+ each game level:
+ Level 1: Rockets and ground artillery both active.
+ Level 2: Rockets and ground artillery both active.
+ Level 3: Rockets inactive, ground artillery active, flobbynoids
+ appear as obstacles.
+ Level 4: Rockets inactive, ground artillery active, flobbynoids
+ appear as obstacles.
+ Level 5: No rockets, ground artillery active, falling mines
+ active.
+ Level 6: Rockets inactive, ground artillery active.
+ Level 7: Rockets inactive, ground artillery active, comets
+ appear as obstacles.
+ Level 8: Rockets inactive, ground artillery active, flying
+ saucers appear as obstacles in first section and fire in the
+ second section.
+ Level 9: Rockets active, ground artillery active.
+ Level 10: Rockets active, ground artillery active.
+ Level 11: Here's where the booty lies. Rockets and ground
+ artillery both active.
+
+ THE BOOTY
+ When you reach Level 11, the object is to pick up the booty
+ by swooping down and landing on it. If you can accomplish this,
+ there will be a slight pause in the action. After a brief
+ musical tune, you'll go back to Level 1.
+
+ END OF GAME
+ The game ends when you run out of choppers.
+ Press Button to Continue: When you see "Press button to
+ continue," immediately press either or both bottom fire
+ buttons (within five seconds). The game will restart at the
+ same section of the level where the last chopper went down.
+ Your score will be reset at "0."
+
+ TWO-PLAYER GAMES
+ The left player goes first; players alternate turns after
+ each one loses a chopper. The left player's score is at
+ the top left side of the screen. The right player's score
+ is at the top right side of the screen.
+
+ SCORING
+ Hitting a rocket..................................50 points
+ Hitting a fuel tank...............................50 points
+ Hitting ground artillery.........................100 points
+ for the first in each level; 200 points for the second in
+ each level; 300 points for the third in each level; 100,
+ 200, 300, etc. for each additional hit.
+ Hitting a flobbynoid.............................100 points
+ Hitting a falling mine............................50 points
+ Hitting a comet..................................100 points
+ Hitting a flying saucer..........................100 points
+
+ High score for all games played while the unit is ON
+ appears at the top center of the screen. Once you turn the
+ unit OFF/ON and begin again, the previous high score is set
+ at zero.
+
+ END
+
+ Typed by Robert "Ferg" Ferguson (wombat2@ix.netcom.com)
+
+ for Atari Gaming Headquarters

@@ -1,0 +1,399 @@
+
+ QIX
+
+ BY ATARI, INC.
+
+ Atari welcomes your comments.  Please address all correspondence
+ to:
+
+ Atari Inc.
+ Customer Relations
+ 1312 Crossman Avenue
+ Sunnyvale, California 94086
+
+ Insert your 5200 game cartridge so the label faces you and reads
+ right-side-up.  Be sure the cartridge is firmly seated in the center
+ of the console, but do not force it.  Then press the POWER switch
+ on.  See your Owner's Manual for further details.
+
+ TABLE OF CONTENTS
+
+ 1. Kick the Qix
+ 2. Game Play
+ 3. Using the 5200 Controllers
+ 4. Game Variations
+ 5. Scoring
+ 6. Winning Strategy
+ 7. Your Best Game Scores
+
+ 1. KICK THE QIX
+
+ Who is QIX*, and what are his powers?  How can he take land that
+ is not his?  Where does QIX come from?  Most important, how can
+ he be stopped?
+
+ He's an erratic eccentric who strikes like lightning.  He travels
+ with patrolmen called Sparx*, who constantly guard the bordering
+ territories.  QIX moves fast, spreading like an infectious disease.
+ His supernatural powers allow him to clone himself, thus doubling
+ his threat.
+
+ Your only defense is to trap QIX and claim your territory.  You
+ must use your chromium electronic marker to partition the land,
+ segment by segment.  You plan your strategy.  You calmly start
+ plotting a path from border to border.
+
+ Then, when you least expect it, you encounter an additional threat
+ called the Fuse.  It hides and waits until you stop moving.  Then it
+ travels along your path, crackling all the way.  If it catches you,
+ it ignites and destroys your marker.  Once you start moving again,
+ it stops and anxiously awaits your next moment of hesitation.
+
+ Now you know what you are up against.  You must be quick,
+ steady, and careful, to diligently reclaim the seized territory.  You
+ cannot be greedy.  Use intelligence to outsmart this devious
+ monster.
+
+ *Trademarks of Taito America Corporation
+
+ 2. GAME PLAY
+
+ The object of the game is to use your marker to partition off
+ segments of the screen.  While you are plotting these segments,
+ you must avoid QIX, Sparx, Super Sparx, and the dreaded Fuse.
+ To complete a screen, you must reach or exceed a threshold
+ percentage of that screen.
+
+ QIX roams erratically around the interior of the screen.  Sparx
+ patrol the borders and the lines which you have drawn.  If you
+ hesitate or draw yourself into a corner, you'll get zapped by the
+ Fuse, who also travels along the path you have drawn.  If you run
+ into any of these foes, you lose a life.
+
+ You use a diamond-shaped marker to draw lines which are called
+ Stix.  When you enclose a segment, these lines become your new
+ bordering territory.  You control the marker with your joystick
+ and fire button by drawing fast or slow lines.  An area claimed by
+ fast draw is filled in blue; an area claimed with slow draw fills in
+ brown.  Note:  Colors may vary on different television sets.
+
+ Strategy is a key element in this game.  An important point to
+ remember is that you cannot destroy QIX, but you can outsmart it.
+ It is helpful to familiarize yourself with the elements of the game.
+ Read the following descriptions and refer to Figure 1.
+
+    [Screenshot with the Sparx, Stix, Time Line, Qix, Fuse, and
+    Marker labeled.]
+       Figure 1
+
+ QIX
+
+ Your main opponent in this game is QIX.  QIX is a multicolored
+ whirling helix that dances around the screen.  QIX can move
+ anywhere on unclaimed territory, to attack your Stix.  If QIX
+ touches any part of an incomplete segment, you lose a life.  Once
+ the segment is completed and filled in, it is safe.
+
+ After you complete the first screen, a second screen appears with
+ an intelligent QIX that chases you more closely.  After you complete
+ the second screen, the third screen provides a further challenge
+ with two QIX.  To complete this screen, you must either reach or
+ exceed the threshold, or split the two QIX.  Luckily, neither of
+ these two QIX is intelligent.  But, from the fourth screen on, you're
+ up against two intelligent QIX.
+
+ SPARX
+
+ Two red and yellow Sparx appear at the beginning of the SKILLED
+ game variation, each traveling opposite directions from the top of
+ the screen.  The right Sparx and the left Sparx each have their
+ own unique characteristics.  Eventually they become Super Sparx,
+ which venture onto the Stix that you've drawn, in the order that
+ you drew them.  If a Sparx touches you, you lose a life, but a
+ Sparx cannot be destroyed.
+
+ TIME LINE
+
+ A red Time Line is located at the top of the screen.  As time
+ passes, it decreases in length with different time settings for each
+ game variation.  When it runs out of time, a new Time Line and two
+ new Sparx appear at the top of the screen.  The maximum number
+ of Sparx is four.  If the Time Line runs out again, a signal sounds,
+ and the Sparx become blue and yellow Super Sparx.  Super Sparx
+ are more vicious and travel faster than regular Sparx.  They home
+ in on your marker, making a beeline for your Stix with the intent
+ to destroy.
+
+ FUSE
+
+ Once you have drawn segments off of the screen border, you can't
+ return to that section of the border, nor can you stop drawing.
+ As soon as you stop, a Fuse appears where your Stix began.  The
+ Fuse crackles as it moves toward your marker.  If the fuse reaches
+ your marker, you lose a life.  To stop the fuse in its tracks, press
+ the fire button and start drawing again.  If you stop again, the
+ fuse reignites where it last stopped.
+
+ STIX
+
+ To draw Stix, use your marker which is located at the bottom of
+ the screen.  You can draw any combination of lines.  Once a
+ segment is partitioned off, you score points and the area claimed is
+ yours.
+
+ 3. USING THE 5200 CONTROLLERS
+
+ Use your 5200 controllers with this ATARI game cartridge.  Be sure
+ to plug the controller cables firmly into the jacks at the front of
+ the 5200 console.  Plug the controller into jack 1 for one-player
+ games.  Use jacks 1 and 2 for two-player games.
+
+    [Photo of a 5200 controller.]
+       Figure 2 - 5200 Controller
+
+ KEYPAD OVERLAYS
+
+ For your convenience, two keypad overlays are included with this
+ game.  Slip the tabs into the slots above and below the keypad on
+ your controller (see Figure 3).
+
+     --------    --------    --------
+    |        |  |        |  |        |
+    |        |  |        |  |        |
+     --------    --------    --------
+
+     --------    --------    --------
+    |        |  |        |  |        |
+    |        |  |        |  |        |
+     --------    --------    --------
+
+     --------    --------    --------
+    |        |  |        |  |        |
+    |        |  |        |  |        |
+     --------    --------    --------
+
+    GAME LEVEL              1-2 PLAYER
+     --------    --------    --------
+    |        |  |        |  |        |
+    |        |  |        |  |        |
+     --------    --------    --------
+
+       Figure 3 - Keypad Overlay
+
+ When not in use, your keypad overlays can be stored on the back
+ of your game cartridge.  Simply slip the tabs into the slots that
+ are provided on the cartridge.
+
+ PLAYER SELECTION
+
+ After you insert the QIX cartridge and turn the console POWER on,
+ the program automatically plays QIX.  Use this opportunity to watch
+ how the game is played.
+
+ When you are ready to begin playing, press RESET and a game
+ selection screen appears.
+
+ Press the right # key to choose a one or two-player game (on your
+ overlay the square marked 1-2 PLAYER).  The screen displays the
+ message--PLAYERS: l or PLAYERS: 2.  (See Figure 4.)
+
+ GAME LEVEL SELECTION
+
+ Press the left * key to select your desired game variation (on your
+ overlay the square marked GAME LEVEL).  The message LEVEL:
+ NOVICE, SKILLED, ADVANCED, or EXPERT is displayed on the screen
+ (see Figure 4).  Refer to Section 4, GAME VARIATIONS, for more
+ information about each level.
+
+    [Screenshot of the starting menu.]
+       Figure 4
+
+ START
+
+ Press START when you're ready to begin playing.  If you press
+ START before selecting a game level or number of players, the
+ program automatically sets to a one-player game at the SKILLED
+ level.  When a game ends, press START to begin the same game
+ variation again.
+
+ PAUSE
+
+ Press PAUSE to suspend the game in progress.  All action instantly
+ freezes.  Press PAUSE again to continue game play.
+
+ RESET
+
+ During game play, press PAUSE and then RESET to reset the game
+ back to the selection screen (see Figure 4).
+
+ CONTROLLER ACTION
+
+ Use the joystick to move your marker around the screen border.
+ Press the fire button while moving the joystick up, down, left, or
+ right to move your marker off the border.  Press the top fire
+ button to draw slow; press the lower fire button to draw fast.  The
+ slow draw scores double points.  Changing fire buttons before
+ completing a segment scores the same points as fast draw.  (See
+ Section 5, SCORING.)
+
+ 4. GAME VARIATIONS
+
+ NOVICE:  This is an easy game for beginners.  The QIX dances
+ slowly around the screen without really chasing you.  The Sparx,
+ Fuse, and Time Line do not appear.  The game threshold
+ (percentage of territory claimed in order to clear the screen) is
+ 50%.
+
+ SKILLED:  In this variation QIX moves at medium speed, but still
+ lacks the intelligence to chase you.  Sparx, Fuse, and a slow Time
+ Line appear, but there are no Super Sparx.  The game threshold is
+ 65%.
+
+ ADVANCED:  This game variation is the same difficulty level as the
+ original arcade version.  The Sparx, Fuse, Super Sparx, and a
+ medium-speed Time Line appear.  The QIX is fast and somewhat
+ intelligent.  The game threshold is 75%.
+
+ EXPERT:  This is the game for all of you expert QIX players.  The
+ Sparx, Fuse, Super Sparx, and a fast Time Line all appear.  The
+ QIX is fast and intelligent.  The game threshold is 85%.
+
+ All game variations begin with one QIX on the first and second
+ screens and are followed by two QIX on each screen thereafter.
+ When a game ends, the message GAME OVER appears on the screen
+ as shown in Figure 5.
+
+    [Screenshot with the GAME OVER message displayed.  Like you'd
+    really need to consult the manual to figure out what this means.
+    Sheesh.]
+       Figure 5
+
+ 5. SCORING
+
+ SCORES
+
+ Scores appear in the upper right corner of the screen.  In
+ two-player games, the first player's score (player 1) appears above
+ the second player's score (player 2).  The game threshold and the
+ percentage you've captured are displayed at the upper left side of
+ the screen.  The game threshold appears above the percentage of
+ territory that you have captured.  (See Figure 6.)
+
+ Points are scored for the color-filled portion of the segment.  You
+ do not score points for the areas covered by Stix.  For example, if
+ you capture 50% of the territory, your score could be 4971.
+
+ Bonus points are scored when the percentage of territory captured
+ exceeds the game threshold.  Additional bonus points are scored
+ after two QIX are split.
+
+ POINTS
+    Fast Draw    =  100 X % of Territory Captured
+    Slow Draw    =  200 X % of Territory Captured
+    Bonus Points = 1000 X % Points Over Game Threshold
+ SPLIT QIX BONUS
+    First Time Qix are Split  = 2 X All Points
+    Second Time Qix are Split = 3 X All Points
+    Third Time Qix are Split  = 4 X All Points, and so on.
+
+ LIVES
+
+ Each game begins with five lives which are indicated by five brown
+ dots displayed to the right of the score.  The white dot indicates
+ which life you are using.  A game ends when each player loses all
+ five lives.  (See Figure 6.)
+
+    [Screenshot with the Threshold %, Captured Territory %, Lives,
+    and Scores labeled.]
+       Figure 6
+
+    [Screenshot of the bonus-award screen between rounds.]
+       Figure 7 (never referenced in the text of the manual)
+
+    [Screenshot with the player about to split the Qix.]
+       Figure 8 (never referenced in the text of the manual)
+
+ 6. WINNING STRATEGY
+
+ Strategy and patience are the keys to winning at QIX.  A good rule
+ of thumb:  Use fast draw to set up a pattern; use slow draw to
+ complete the pattern.  Slow draw scores twice the point value as
+ fast draw.
+
+ Another theory:  Never draw yourself into a corner.  Always avoid
+ drawing a spiral, or you'll wind up in a spiral deathtrap.  You
+ cannot go in reverse, so you will have to stop and wait for the
+ fuse to zap you.  See Figure 9 for an example of a spiral
+ deathtrap.
+
+    [Screenshot demonstrating the Spiral Deathtrap.]
+       Figure 9 - Spiral Deathtrap
+
+ Listed below are several different strategies to help you win at Qix.
+
+ TREE-BRANCH STRATEGY
+
+ 1. Carefully erect a trunk up the center of the screen.  It may
+    take six or seven moves.
+
+ 2. Draw as many branches as you can from the trunk of the tree
+    and from the sides of the screen.  Your primary aim is to leave
+    small spaces that are big enough for QIX to enter, but small
+    enough to seal off quickly.
+
+ 3. When QIX enters one of these spaces, move toward it and use a
+    slow draw to seal off the space.  Thus, you trap QIX and
+    capture the majority of the screen.  (See Figure 10.)
+
+    Figure 10 - Tree-Branch Strategy
+
+ TRIPLE-ARENA STRATEGY
+
+ 1. Use the fast draw to build two columns, one from the top, and
+    one from the bottom.  This splits the screen into three vertical
+    rectangles.
+
+ 2. QIX can move into only one of these areas.  Using slow draw,
+    begin blocking off the area that QIX is not in.
+
+ 3. When only one rectangle remains, move toward QIX and block it
+    into a small space.  (See Figure 11.)
+
+    Figure 11 - Triple-Arena Strategy
+
+ QUADRANT STRATEGY
+
+ Use the same method of dividing the screen as in the Triple-Arena
+ Strategy, but divide the screen into four parts.  (See Figure 12.)
+
+    Figure 12 - Quadrant Strategy
+
+ TWIN QIX STRATEGY
+
+ 1. Start at the bottom of the screen, and build horizontal columns.
+    Try to force both QIX to the top of the screen.
+
+ 2. Use the slow draw to claim the bottom portion of the screen as
+    you continue up.
+
+ 3. After you capture about 1% less than the game threshold, split
+    the QIX with a fast draw up the center of the screen.  Thus,
+    you split the two QIX and can claim most of the screen for a
+    high score.  (See Figure 13.)
+
+    Figure 13 - Twin Qix Strategy
+
+ 7. YOUR BEST GAME SCORES
+
+ Name:            Date:     Threshold:  Score:
+ ______________   _______   _________   _________
+ ______________   _______   _________   _________
+ ______________   _______   _________   _________
+ ______________   _______   _________   _________
+ [etc.]
+
+ END
+
+ Typed by Jay Tilton (tiltonj@erols.com)
+
+ for Atari Gaming Headquarters

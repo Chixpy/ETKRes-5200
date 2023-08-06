@@ -1,0 +1,521 @@
+
+ REALSPORTS SOCCER
+
+ BY ATARI, INC.
+
+ To insert your 5200 game cartridge, hold the cartridge so the name
+ on the label faces you and reads right-side-up.  Then carefully
+ insert the cartridge into the slot in the center of the console.  Be
+ sure the cartridge is firmly seated, but do not force it in.  The
+ POWER ON/OFF switch is located on the lower right side of the 5200
+ console unit.  Press this switch to turn the power on AFTER
+ inserting your game cartridge.  See your Owner's Manual for
+ further details.
+
+ TABLE OF CONTENTS
+
+ 1. Score the Winning Goal
+ 2. Game Play
+ 3. Using the 5200 Controllers
+ 4. TRAK-BALL Option
+ 5. Options and Play Levels
+ 6. Game Tips
+ 7. Game Select Matrix
+ 8. Scorecard
+
+ 1. SCORE THE WINNING GOAL
+
+ The game's all tied up:  Visitors 1, Home Team 1.  The attackers are
+ on the threshold of your goal, and it looks like they'll score the
+ winning point, unless . . . .  You see your chance, steal the ball,
+ and reverse the play.  With brilliant footwork, you dribble the ball
+ into the opponents' goal area.  A defensive back moves in to
+ intercept, but you feint to one side and pass the ball to a
+ teammate.  Now to reposition for a try at the goal on the return
+ pass.  The goalie anticipates the maneuver and runs up to cover
+ the goal, starting a rumble of excitement in the stands.  Tension
+ builds.
+
+ You expect nothing more than a ground pass from your teammate,
+ but soccer is a game of surprises.  As defensive backs move in to
+ tackle the ball, your teammate suddenly backs off and lofts it high
+ over their heads, catching the defenders completely off guard.  The
+ crowd's on its feet now; the rumble crescendos to a roar.  This is
+ it!  Your beautiful once-in-a-lifetime moment.
+
+ High into the air you jump, your body arching back as you lift
+ your head to track the oncoming ball. For an instant you seem to
+ hover in air, then suddenly jacknife [sic] forward, smack the ball
+ perfectly with your forehead, and send it hurtling toward the goal.
+ The goalie dives for it.  He misses.
+
+ The crowd's screaming wildly, out of control.  Breaking through the
+ police barrier, fans stream onto the field and lift you onto their
+ shoulders.  You're a hero! You scored the winning goal!
+
+ 2. GAME PLAY
+
+ OPTIONS
+
+ ATARI 5200 RealSports SOCCER can be played by two players, by
+ one player against the computer, or by the computer against itself
+ (Auto-Play).  Single-player games and Auto-Play games can be
+ played at skill levels from Beginning to Expert.  Halves can last
+ from 5 to 45 minutes.  RealSports SOCCER is set for a 2-player
+ game with 5-minute halves.  If you want to play with different
+ options, change the Options Display (see Figure 1 on the following
+ page).  Instructions are given in Section 3.  Options and skill
+ levels are described in Section 5 and are summarized in the Game
+ Select Matrix (Section 7).
+
+       Figure 1 - Options Display
+
+ OBJECT OF THE GAME
+
+ Your object is to score points by maneuvering the ball past your
+ opponents and into their goal.  You score 1 point for each goal.
+ The team with the highest number of points at the end of the game
+ wins.  A scorecard is provided in Section 8 to help you keep track
+ of your wins and losses.
+
+ When you're ready to start the game, press the START key on your
+ 5200 controller.  The soccer field and score digits will appear, as
+ shown in Figure 2.
+
+       Figure 2 - Start of a Game
+
+ TEAMS
+
+ Each team has 5 players:  4 fielders and a goalie or goalkeeper.
+ Home Team players wear blue shirts; Visitors wear red.  (NOTE:
+ Colors may vary with your television control settings.)
+
+ The team in possession of the ball is the attacking team.  At the
+ start of the game, the Visitors are the attackers and the Home Team
+ the defenders.
+
+ The computer controls all goalie moves.  You control one fielder
+ with the 5200 controller or TRAK-BALL option while the computer
+ controls the other three.  Instructions for using the controller are
+ given in Section 3, USING THE 5200 CONTROLLERS.  See Section 4
+ for TRAK-BALL information.
+
+ When your team is attacking, you control the ball carrier (fielder
+ with the ball).  In defensive play, the computer selects the fielder.
+ You can switch to another fielder by pressing any one of the
+ SWITCH PLAYER keys on the controller keypad (see KEYPAD
+ CONTROLS, Section 3).  The controlled player is identified by his
+ bright shirt.
+
+ REFEREE
+
+ As referee, the computer blows the whistle to call penalties, signals
+ the end of the first half, and places balls for kickoffs and penalty
+ plays.
+
+ THE CLOCK
+
+ As soon as you start the game, the clock at the top of the
+ television screen begins counting down the seconds to the end of
+ the first half.  At the end of the first half, it resets and counts
+ down the second half.  There is no time-out between halves.
+
+ THE PLAY
+
+ At the start of the first half, the ball is placed on the center spot
+ on the halfway line (Figure 2).  Home Team fielders (blue shirts)
+ are on the left side of the line, Visitors (red shirts) on the right.
+ The Visitors' center fielder starts the play by kicking the ball from
+ the center spot.  The center may kick the ball to a teammate or
+ move it toward the goal himself.
+
+ Visitors attack the left goal (Figure 3) while the Home Team tries to
+ intercept the ball and attack the opposite goal.  The defenders can
+ intercept the ball as soon as it's kicked off the center scot.
+
+ Except during the throw-in (see PENALTY PLAYS), fielders never
+ touch the ball with their hands.  The ball is trapped (caught with
+ the feet), kicked, and dribbled with the feet.  Players may also
+ bounce the ball off their heads.  (See Section 3 for ball control
+ information and Section 6 for game tips.)
+
+       Figure 3 - Attacking the Home Team's Goal
+
+ SCORING
+
+ To score a point, a fielder must kick the ball past the goalie and
+ into the goal.  The goalie defends the goal by catching or trapping
+ the ball and kicking it upfield to a teammate.
+
+ When a goal is scored, the ball is returned to the center spot and
+ the team that did not score kicks off.
+
+ SECOND HALF
+
+ In the second half, the goals are reversed.  Home Team fielders
+ take positions on the right side of the halfway line and attack the
+ left goal.  Visitors are positioned on the left side of the line and
+ attack the right goal.  This time, the Home Team kicks off.
+
+ PENALTY PLAYS
+
+ There are three out-of-bounds penalty plays in ATARI 5200
+ RealSports SOCCER:
+
+ * Throw-in
+ * Goal Kick
+ * Corner Kick.
+
+ THROW-IN.  When one team dribbles or kicks the ball over a
+ sideline, the other team throws it back into play at the point it
+ went out of bounds (Figure 4).  The ball may be intercepted as
+ soon as it's thrown in.  The computer positions the fielder for the
+ throw-in.  You trigger the throw-in and control the direction and
+ force of the throw with the 5200 controller (see BALL CONTROL,
+ Section 3).
+
+       Figure 4 - Throw-in Penalty Play
+
+ GOAL KICK.  When the attacking team maneuvers the ball over the
+ defending team's goal line (outside the goal), the ball is placed in
+ front of the goal and the goalie kicks it upfield (Figure 5).  Either
+ team can trap the ball when the kick is completed.  The computer
+ completely controls the goal kick penalty play in all games.
+
+       Figure 5 - Goal Kick Penalty Play
+
+ CORNER KICK.  If the defending team moves the ball over its own
+ goal line, the ball is placed in a corner near the goal and a member
+ of the attacking team kicks it upfield to a teammate (Figure 6).
+ Either team can intercept the ball when the kick is completed.  The
+ computer positions your fielder.  You set the height of the kick,
+ direct the ball, and trigger the kick with the controller (see BALL
+ CONTROL).
+
+       Figure 6 - Corner Kick Penalty Play
+
+ 3. USING THE 5200 CONTROLLERS
+
+ For one-player games or Auto-Play, plug a 5200 controller into jack
+ 1 on the front of the console unit.  For two-player games, plug a
+ second controller into jack 2 (see Figure 7).
+
+       Figure 7 - Controller Connections
+
+ KEYPAD OVERLAYS
+
+ For your convenience, two keypad overlays are included with this
+ game (Figure 8).  Slip the overlay tabs into the slots provided on
+ the controller keypad.
+
+     LOW KICK    MED. KICK   HIGH KICK
+     --------    --------    --------
+    |        |  |        |  |        |
+    |        |  |        |  |        |
+     --------    --------    --------
+      SWITCH      SWITCH      SWITCH
+      PLAYER      PLAYER      PLAYER
+     --------    --------    --------
+    |        |  |        |  |        |
+    |        |  |        |  |        |
+     --------    --------    --------
+      SWITCH      SWITCH      SWITCH
+      PLAYER      PLAYER      PLAYER
+     --------    --------    --------
+    |        |  |        |  |        |
+    |        |  |        |  |        |
+     --------    --------    --------
+      SELECT      GROUND      CHANGE
+      OPTION       KICK       OPTION
+     --------    --------    --------
+    |        |  |        |  |        |
+    |        |  |        |  |        |
+     --------    --------    --------
+
+       Figure 8 - SOCCER Keypad Overlay
+
+ CONTROL KEYS
+
+ START.  Press START on the left controller (plugged into jack 1) to
+ start the game.  To return a game to the opening kickoff, press
+ START on either controller.
+
+ PAUSE.  Press PAUSE to freeze the action temporarily.  Press
+ PAUSE again to continue playing.  Operates on both controllers in
+ two-player games.  (NOTE:  If PAUSE is on longer than 8 minutes,
+ the soccer field will change colors to prevent "burn in" of static
+ images on your television screen.)
+
+ RESET.  Press RESET to reset SOCCER to the Options Display
+ (Figure 1). Operates on both controllers in two-player games.
+
+ RED KICK BUTTONS
+
+ Use the red buttons on either side of your 5200 controller (Figure
+ 9) as follows:
+
+ * Bottom Button:  Ground kick
+
+ * Top Button:  Lofted kick (into the air) and throw-in.
+
+ The left and right sets of buttons function identically.  It doesn't
+ matter which set you use.
+
+       Figure 9 - 5200 Controller
+
+ KEYPAD CONTROLS
+
+ Refer to Figure 8, Keypad Overlay.
+
+ SELECT OPTION (*).  Selects the option to be changed.  The order
+ of selection is:
+
+ 1. Play mode
+ 2. Minutes per half
+ 3. Computer play level.
+
+ The option to be changed appears in red on the Options Display, as
+ shown in Figure 7.  (See Section 5 for descriptions of the options.)
+
+ CHANGE OPTION (#).  Changes the option.
+
+ NOTE:  Before START is pressed, SELECT OPTION (*) and CHANGE
+ OPTION (#) operate only on the left controller (plugged into jack
+ 1).  After START, these keys operate on both controllers.
+
+ HOW TO CHANGE OPTIONS
+
+ 1. Press RESET to see the Options Display (Figure 1).
+
+ 2. The 2 PLAYER play mode option should appear in red.
+
+ 3. Press CHANGE OPTION (#) to change the play mode.  Note that
+    the computer play level option appears when you change the
+    play mode to 1 PLAYER or AUTO-PLAY.
+
+ 4. Press SELECT OPTION (*) to display the minutes per half option
+    in red.
+
+ 5. Press CHANGE OPTION (#) to change the minutes per half.
+
+ 6. Press SELECT OPTION (*) to display the computer play level
+    option in red.
+
+ 7. Press CHANGE OPTION (#) to change the computer play level.
+
+ KICK Keys.  These four keys set different types of kicks, which
+ are triggered by pressing the top red controller button.  A key
+ remains set until another key is pressed.  If you do not select a
+ KICK key, your fielder kicks a medium-high ball when you press
+ the top red button.
+
+  * LOW KICK (1).  Low, short kick for short passes and goal kicks
+    at close range.
+
+  * MED KICK (2).  Medium-height kick for longer passes and goal
+    kicks.
+
+  * HIGH KICK (3).  Long-distance kick.  Lofts the ball high into the
+    air and covers ground.
+
+  * GROUND KICK (0).  Sets a ground kick, duplicating the function
+    of the bottom red controller button.
+
+ SWITCH PLAYER Keys (4 - 9).  These six keys allow you to switch
+ control from one fielder to another when your team is defending.
+ Each time you press a key (any key), the computer lights up a
+ different fielder.  SWITCH PLAYER keys do not select specific
+ fielders and do not operate when a team is attacking.
+
+ CONTROL STICK
+
+ Use the control stick (joystick) to move your fielders around the
+ field and control the ball (see Figure 10).  The control stick rotates
+ 360 degrees for maximum maneuverability.
+
+       Figure 10 - Control Stick Moves
+
+ SPEED CONTROL
+
+ Fielders can move at three speeds:  walk, run, and run fast
+ (Figure 11).  The further from center you move the control stick,
+ the faster they move.  Center the control stick to stop.
+
+       Figure 11 - Controller Speeds
+
+ BALL CONTROL
+
+ Trapping.  A fielder traps the ball when he touches it.
+
+ Dribbling.  Push the control stick in the direction of the goal to
+ dribble the ball down the field.  The further you push the control
+ stick, the faster the ball carrier goes.  That's not all there is to
+ it, however.  You must use evasive tactics to keep opponents from
+ tackling (intercepting) the ball.  A few effective maneuvers are
+ zig-zagging down the field, varying pace, switching direction
+ suddenly, passing the ball to a teammate, and outdistancing the
+ tackle.
+
+ Intercepting.  You can intercept by trapping a kicked ball or by
+ stealing a dribbled ball.  To steal the ball, run your fielder
+ straight into the ball carrier (don't go around him), trap the ball,
+ and dribble it toward your goal or pass it to a teammate.
+
+ Passing.  Passing is an effective way to move the ball downfield
+ and maintain control.  To pass the ball, move the control stick in
+ the direction of your receiver and press the appropriate red kick
+ button.
+
+ Kicking.  Move the control stick in the direction you want the ball
+ to go and press the red kick button (see KICK Keys).  A ground
+ kick is good for short-distance passing, kickoffs, and some goal
+ kicks (see GAME TIPS, Section 6).  Use a lofted kick for
+ long-distance passing and most goal kicks.  (NOTE:  The faster
+ your fielder moves when he kicks the ball, the further the ball
+ goes.)
+
+ Throw-in.  Using the control stick, direct the ball to a teammate.
+ Press the top red controller button to make the throw.  The
+ further from center you move the control stick, the more forceful
+ the throw and the further the ball goes.
+
+ Corner Kick.  Choose a KICK key.  Using the control stick, direct
+ the ball to a teammate.  Press the top red controller button to
+ make the kick.
+
+ CAUTION!  Be careful not to kick the ball out of bounds on a
+ corner kick.
+
+ See also Section 6 for tips on ball handling and teamwork.
+
+ 4. TRAK-BALL OPTION (Future Accessory)
+
+ ATARI 5200 RealSports SOCCER offers a TRAK-BALL option that may
+ be purchased separately.  To play the game with a TRAK-BALL,
+ plug the TRAK-BALL into controller jack 1 on the front of the 5200
+ console unit.  Follow the instructions in Section 3 for changing
+ options, switching players, kicking, and controlling the ball.
+
+ For two-player games, you can use two TRAK-BALLS or a 5200
+ controller and a TRAK-BALL.  Plug the second TRAK-BALL or 5200
+ controller into jack 2.
+
+ TRAK-BALL ACTION
+
+ Move the TRAK-BALL with your hand.  Fielders move in any
+ direction you move the TRAK-BALL.  The faster you spin the
+ TRAK-BALL, the faster they go.  Press the red buttons to kick the
+ ball.  (See your TRAK-BALL Owner's Manual for additional
+ information.)
+
+ 5. OPTIONS AND PLAY LEVELS
+
+ A summary of options is provided in the Game Select Matrix in
+ Section 7.  Instructions for changing options are given in Section
+ 3.
+
+ OPTIONS
+
+  * Play Mode. One or two players or Auto-Play.  Auto-Play is for
+    spectators or RealSports SOCCER players who want to study
+    game techniques at various skill levels.
+
+  * Minutes per Half.  Halves can be anywhere from 5 to 45 minutes
+    long.
+
+  * Computer Play Level(for One Player and Auto-Play).  Beginning,
+    Novice, Intermediate, Expert.  Start at Beginning level.  Change
+    the play level when the computer becomes easy to beat or you
+    want to study faster, more expert games.
+
+ COMPUTER PLAY LEVELS
+
+  * Beginning.  Computer teams walk through games and respond
+    slowly.  Teamwork is poor, ball control is loose.  In one-player
+    games, balls are easy to intercept and pass, and goals are easy
+    to penetrate.  Good level for practicing ball control, kicks, and
+    strategy with minimum opposition.
+
+  * Novice.  Computer teams are more energetic.  Teamwork is
+    better, ball control is tighter, and interceptions are more
+    difficult.  Goalies are more alert.
+
+  * Intermediate.  The computer gives you plenty of trouble in
+    one-player games at this level.  Games are fast, teamwork is
+    good, and balls are hard to intercept.  Unless you're an
+    experienced player, you'll have trouble holding onto the ball, let
+    alone scoring.  Auto-Play games are exciting at this level.
+
+  * Expert.  World Cup soccer.  The computer team would even give
+    Pele trouble.  Recommended for expert ATARI 5200 RealSports
+    SOCCER players and spectators.
+
+ 6. GAME TIPS
+
+ KICKING A GOAL
+
+ A straight kick into the goal will almost always be blocked by the
+ goalie.  Try to position your fielder for a diagonal kick.  In Figure
+ 12, the ball carrier is centered to the goal and can kick the ball
+ diagonally right or diagonally left into the goal.
+
+       Figure 12 - Goal Kick Strategy
+
+ Normally, it is easier to score goals with lofted kicks.  However, if
+ the ball carrier is very close to the goal,, he can often sneak the
+ ball past the goalie with a short ground kick.
+
+ PASSING
+
+ At Beginning and Novice skill levels, you may not be able to pass
+ the ball directly to your receiver.  In that case, lay the ball in his
+ path, close enough for him to overtake and trap it before
+ opponents can intercept.
+
+ At Intermediate and Expert skill levels, pass the ball frequently to
+ prevent interceptions and maintain control of the ball.
+
+ DEFENDING YOUR FOAL
+
+ When the attackers are close to your goal, try to intercept the ball
+ and pass it to your goalie.  He'll kick it upfield and move the play
+ away from the goal.  Make the pass at close range with a short
+ ground kick, but be very careful not to penetrate the goal and
+ score a point for your opponents!
+
+ WRAPAROUND
+
+ When your team is defending, you can move your fielder off the
+ side of the screen and "wrap around" to the opposite side.  This
+ may put your fielder in a better position to intercept the ball.
+
+ 7. GAME SELECT MATRIX
+
+    Play Mode   2 Players     1 Player      Auto-Play
+
+    Minutes     5 to 45       5 to 45       5 to 45
+    per Half
+
+    Computer    Not           Beginning     Beginning
+    Play Level  Applicable    Novice        Novice
+                              Intermediate  Intermediate
+                              Expert        Expert
+
+ 8. SCORECARD
+
+    Game No.     Teams      Score      Date
+
+    _________  _________  _________  _________
+
+    _________  _________  _________  _________
+
+    _________  _________  _________  _________
+
+    _________  _________  _________  _________
+ [etc.]
+
+ END
+
+ Typed by Jay Tilton (tiltonj@erols.com)
+
+ for Atari Gaming Headquarters

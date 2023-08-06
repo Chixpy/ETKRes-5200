@@ -1,0 +1,122 @@
+
+ BERZERK
+
+ BY ATARI, INC.
+
+ GOING BONKERS?
+
+ Try to keep from going bonkers as you dodge robot fire and elude the
+ robot gang leader, Evil Otto.  Your objective: Destroy robots, rack
+ up as many points as possible, and stay alive as you move through a
+ multitude of maddening BERZERK mazes.
+
+ Use your joystick controller to move through the electrified maze --
+ but don't touch the walls, or you'll fry!  Press any red fire button
+ to shoot lasers at the robots.
+
+ Watch out for Evil Otto!  He's invincible; nothing can destroy him.
+ Once he catches you, you'll never escape.  He'll pound you to a pulp,
+ grinning like a maniac all the while.  Your only hope is to get out
+ of the maze before Evil Otto reaches you.  Then you'll be in a new
+ maze, facing a new set of robot goons.  And Evil Otto will pursue
+ you again!
+
+ Each round is completed when you exit from the maze.  The game ends
+ when you lose your last life.
+
+ CONTROL YOURSELF
+ ----------------
+
+ Insert the BERZERK cartridge as explained in your Atari 5200 (tm)
+ owner's guide, and turn on your console.
+
+ Plug one 5200 controller into jack 1 for a one-player game; plug a
+ second controller into jack 2 for two-player games.  The player
+ using jack 1 controls game selection and starts the game.
+
+ Use your joystick to move through the maze.  You can shoot lasers in
+ any direction you move the joystick, although you cannot shoot while
+ running or with the joystick set in the neutral position.
+
+ Your Self-Control Buttons --
+    Press START to begin the battle.  Press PAUSE to stop and restart
+    the action.  Press PAUSE, then RESET during game play to return to
+    the title screen.  To restart the game at the same skill levl you
+    last played, press PAUSE, then START.
+
+ Game Options --
+    Press the * key to cycle through the eleven progressively more
+    challenging skill levels.  The skill level appears next to your
+    life indicators at the bottom of the screen.  If you wait a few
+    seconds after selecting a skill level, the robot you'll encounter
+    in that game appears on screen to demonstrate its shooting
+    ability.  You can then see what you're up against before you start
+    the action.
+
+    Press the # key to select a one-or two-player game.
+
+ Hearing Voices --
+    The built-in voice is automatically activated when you start the
+    game.  To silence the voice, press the 9 key on your controller --
+    the voice will say, "Chicken! Fight like a robot!"  To reactivate
+    the voice, press the 7 key on your controller -- the voice will
+    say, "The humanois must not escape!" to tell you it is on again.
+    Listen to the built-in voice for valuable cues.  For example,
+    "Intruder alert!  Intruder alert!" is a warning that Evil Otto is
+    coming to get you.
+
+
+ FIGHT OR FLIGHT
+ ---------------
+
+ You start the game with three lives.  You lose a life if you get hit
+ by laser fire, touch an exploding robot, run into a robot, touch the
+ wall, or get caught by Evil Otto.
+
+ Lives remaining are displayed next to your score.  You win a bonus
+ life at 5000 and 10,000 points, but the maximum number of reserve
+ lives you can have is four.
+
+ Initially, the robots move and shoot slowly, but as the game
+ progresses, you reach more challenging skill levels.  In these higher
+ levels, the robots move faster, shoot faster, and fire more shots at
+ once.  As explained under GAME OPTIONS, you can start game play at a
+ higher skill level if you choose.
+
+ When you lose a life, you start with your next life at the same level
+ you last played.  In two-player games, players alternate turns each
+ time a life is lost.
+
+ SCORING
+ -------
+
+ GET THE ROBOTS!
+
+ You score 50 points for each robot destroyed.  When all the robots in
+ a single maze are destroyed, you score ten bonus points per robot.
+ Robots explode when they're hit by your laser or the lasers of other
+ robots, and when they run into maze walls, collide with each other,
+ or get pounded by Evil Otto.  You can score a total of 999,990 points
+ before the score rolls over.
+
+ A-MAZING TIPS
+
+ *  As you move from one maze to another, continue pressing the fire
+    button.  It takes the robots a moment to start their attack -- you
+    can often zap them first when you enter shooting.
+
+ *  Evil Otto always enters in the same place you do.  Try to get away
+    from this danger zone and near an exit as soon as possible.
+
+ *  Because Evil Otto bounces up and down, it's easier to escape him
+    through the side exits than the top or bottom exits.
+
+ *  In difficult levels where there are a lot of fast-moving, fast-
+    whooting robots, head for the cover of a maze wall immediately.
+    Allow the robots to collide with each other and to shoot one
+    another or to walk into your firing range.  But don't wait too
+    long or you'll be trapped!
+
+ END
+
+ Typed by Keita Iida (keita@mindspring.com)

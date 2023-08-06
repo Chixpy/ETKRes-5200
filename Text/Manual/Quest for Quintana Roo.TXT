@@ -1,0 +1,158 @@
+
+ QUEST FOR QUINTANA ROO
+
+ BY SUNRISE SOFTWARE INC.
+
+ Help Yucatan Sam explore the dozens of terror filled chambers that
+ create the mystical temple of the Mayan god Quintana Roo.  You must
+ use your supplies as well as your cat-like reactions to avoid the
+ sleeping snakes, overcome the mummy curse, and eliminate the other
+ adversaries while attempting to solve the mystery that will deliver
+ the hidden treasure to you and Yucatan Sam.  Since a different
+ solution is required each time the game is started, you will be
+ assured hours of mind-challenging, reflex-testing entertainment.  Do
+ you dare to get involved?
+
+ OBJECT OF GAME
+
+ Yucatan Sam explores the temples of Quintana Roo searching for the
+ keys to open the ceremonial vault and acquire the riches inside.
+
+ LEVEL SELECT SCREEN
+
+ On this screen you select the level of play at which you wish to
+ start.  Press the proper key sequence (secret code discovered during
+ play) for upper levels.  Press START button for first level.
+
+ OUTSIDE TEMPLE SCREEN
+
+ On this screen Sam must evade the poisonous snakes while climbing
+ the outside of the temple to reach the portals to the rooms inside.
+ Beware of the moon god's wrath reflecting from the eyes of the
+ temple.  Use the joystick left, right, left-up or right-up to move
+ around the outside of the temple.  Pressing a bottom fire button
+ causes Sam to duck if he is outside a portal.  Pressing a bottom
+ fire button causes Sam to enter the temple if he is in a portal.
+
+ CHUTE SCREEN
+
+ On this screen Sam is entering or exiting a temple room.  The
+ joystick is not used on this screen.
+
+ INSIDE A TEMPLE ROOM
+
+ On this screen Sam can move around the floor of the room using the
+ various tools and weapons.  Press the joystick in any of the eight
+ directions to move Sam.
+
+ Pressing the 1 key causes Sam to draw his gun.  Pressing a bottom
+ fire button, while the gun is drawn, fires the gun.  The number of
+ bullets Sam has left is shown at the bottom right of the screen.
+
+ Pressing the 2 key causes Sam to grasp a flask of acid.  Pressing a
+ bottom fire button, while the acid is in Sam's hand, causes Sam to
+ throw the acid.  The amount of acid Sam has left is shown at the
+ bottom left of the screen.
+
+ Pressing the 3 key causes SAM to grasp his chisel.  Pressing a
+ bottom fire button, while Sam is holding the chisel, causes Sam to
+ use his chisel.
+
+ Pressing the 4 key causes Sam to read his Geiger counter.  The
+ Geiger counter reading is shown at the bottom center of the screen.
+ A low value indicates nothing exciting.  A mid value indicates that
+ there is an object in the room above or below the one Sam is in.  A
+ high value indicates that there is an object in the room.
+
+ Pressing the 5 key causes Sam to drop whatever he is carrying.
+
+ Pressing the 6 key causes Sam to pick up a map rock if he is
+ standing over one.
+
+ Pressing a bottom fire button causes Sam to squat and pick up
+ objects if he has nothing in his hand.  This will also allow Sam to
+ exit a room if he is standing in the doorway.
+
+ ADVERSARIES
+
+ Inside the temple Sam will encounter the following enemies:
+
+ Snakes -- destroyed by shooting
+ Spiders -- destroyed by shooting
+ Mummies -- destroyed by acid
+
+ TREASURES
+
+ Inside the vaults Sam will find the following objects:
+
+ Map rocks -- Used to open vault
+ Treasures -- used to score points
+ Acid -- Restocks Sam's supply
+
+ MAGIC HERBS
+
+ If Sam is bitten by a snake or spider he has one minute to find the
+ magic herbs and pick them up thereboy curing himself.  The amount of
+ time Sam has left before he dies is shown at the bottom center of
+ the screen.
+
+ TEMPLE AIR
+
+ The air in the temple is very stale.  When Sam enters the temple he
+ has only one and a half minutes of breathable air.  He must exit the
+ temple before this time is gone or he will die.  The time remaining
+ is shown at the bottom left of the screen.
+
+ MAP VAULT
+
+ In order to open the map vault Sam must graps a map rock and place
+ it in the proper map rock hole.  This is done by positioning Sam
+ under the desired hole and pressing a bottom fire button.  If the
+ rock is the proper one the hole will disappear, if it is incorrect
+ the map rock will be relocated somewhere in the temple.
+
+ OPENING VAULT
+
+ There are two ways to open a vault door.  The first is using the
+ chisel.  If Sam strikes the secret rock with the chisel the vault
+ will open.  In order to hit the secret rock Sam must be standing as
+ near to the wall as possible.  The second method uses the acid.  If
+ Sam stands as near to the wall as possible and throws the acid onto
+ the wall, the vault door will be opened.
+
+ SCORING
+
+ Killing enemies           100 points
+ Opening valut             100 points
+ Picking up treasure       1000 pints
+ Inserting map rock        1000
+ Opening map vault         5000
+
+ HELPFUL HINTS
+
+ -- Bring all five map rocks to the map vault room before inserting
+ them.  This will make it easier to remember which ones you have
+ tried.
+
+ -- Save one flask of acid as a defense against the mummy.
+
+ -- Leave one cache of acid flasks in an exosed vault room as an
+ emergency supply.
+
+ -- Sam can only carry five flasks of acid at a time.  If you pick up
+ more you will lose the excess.
+
+ -- When you are exploring the long columns of rooms keep an eye on
+ your air timer.  Only explore half of the rooms at a time.
+
+ -- Remember where the magic herbs are.
+
+ -- Position your torch handle over the hole you wish to try when
+ attempting to insert map rocks.
+
+ -- For a much needed break in the ACTION, press the pause key.  To
+ restart the game press any key or keypad.
+
+ END
+
+ Typed by Keita Iida (keitai@mindspring.com)

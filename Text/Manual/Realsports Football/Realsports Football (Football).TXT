@@ -1,0 +1,579 @@
+
+ REALSPORTS FOOTBALL (FOOTBALL)
+
+ BY ATARI
+
+ 1. YOUR BALL and GOAL-to-GO
+ As always, it's freezing cold and wet in Buffalo. Terrible
+ conditions for playing football! The field's a snowy mess. The
+ temperature's so low that the receivers have to wear gloves,
+ and everybody else in the stadium is wearing ski masks.
+ But all that matters very little to you. Right now you're
+ sitting warm and cozy in your own home. And as the quarterback
+ of the ATARI offensive team, you're facing a fourth down situation
+ inside your opponent's 20-yard line during the closing seconds of
+ your own football game. The big decision confronting you: What
+ play are you going to call up?
+ The defense has been rough all day. You wish that you would have
+ spent more time practicing those pass patterns and learning the
+ exact moments when you have the best chance of completing a pass.
+ But it's too late now. These are game conditions, rookie, and
+ that other guy is out for blood-yours.
+ A field goal could tie things up. But that's pretty chancy at any
+ distance. Besides, like Vince Lombardi, you believe there is no
+ tomorrow, so you're going for the touchdown to win. Time's
+ running out though. Think fast. What will work?
+ You call a short pass with two eligible receivers. Defense sets
+ up for a long pass. Good. Maybe you'll get a break. Nah, scratch
+ that. Defense is changing its play at the line of scrimmage.
+ No problem. You quick-snap the ball while your opponents are still
+ in motion. Sneaky, but legal. Oh, look! You've fooled the
+ linebacker into committing himself to the sideline receiver. Great!
+ Now you have to evade those blitzing linemen until the precise
+ moment when your other receiver can most likely catch a pass. You
+ know it's only gonna be a few microseconds when he'll be in the
+ clear, so your timing has to be good. Real good.
+ Darn! Where is all that pass protection when you need it the most?
+ These characters who are supposed to be blockers act more like
+ ghosts. That's OK, though. You can pass from any position behind
+ the line of scrimmage and the ball will still go toward your
+ intended receiver. Close enough, anyway.
+ Ah, there he is. Quick! Fire that ball! Thread the needle! Uh-oh,
+ it looks like it's a little behind him. Better shift control to
+ the receiver to adjust his position and give him an even better
+ chance to gobble up that pigskin.
+ Good work! He's got it. Now-quick as a wrist flick-make the
+ upfield cut that evades the defensive safety and fly for pay dirt.
+ Just get that first step on him, and you're long gone. Yes, yes,
+ good move, hero. It's touchdown time....
+ Oh, no. Your opponent has switched control to that pesky,
+ pursuing safety. Persistent bulldog! You know you can't outrun
+ him. Better try to dodge him and angle into the end zone for the
+ winning score. Move that joystick controller, speed demon. Cut a
+ path only a shadow could follow.
+ Ouch! Wrong turn, turkey. You're grounded on his 7-yard line.
+ Never mind. You did get a first down. Now you've got a goal-to-go
+ situation. Hurry! Call your next play before the clock runs out.
+ Get out there and win this one for the Gipper!
+
+ 2. GAME PLAY
+ The basic rules of football apply with some modifications that
+ you should find intriguing.
+ Like regular football, the object of ATARI RealSports Football
+ in two-player contests is to score more points than your
+ opponent. You do this by getting touchdowns, field goals, and
+ safeties. In one-player games, you'll want to become proficient
+ in the main features of the game, especially in the art of passing
+ the ball successfully.
+ Each team has six players, one of which is always controlled by the
+ joystick. Under certain circumstances, you can transfer joystick
+ control to another player. A lot of game strategy involves knowing
+ when and how to execute that transfer.
+ You can run the ball, but you'll never fumble. You can pass it, but
+ you risk having it intercepted. You can kick field goals and punts
+ as good as the pros, but you can't kick the ball out-of-bounds
+ (like they occasionally do!).
+ There are no two-minute warnings and no (legal) time outs. There
+ are no penalties either- unless, of course, you elbow your
+ competitor and he or she socks you back. (If you want half-time
+ entertainment and refreshments, you'll simply have to supply your
+ own!)
+ Pay attention to the scoreboard, since it will display the
+ instructions you'll need to play the game- once you've learned the
+ basic rules. The home team (pink, or orange) gets all its signals
+ on the left side of the scoreboard; the visiting team (blue, or
+ light purple) gets all its cues on the right. (Note: Colors may
+ vary on different TV sets.)
+ The scoreboard clock runs twice as fast as normal time, so remember
+ to synchronize your heartbeat whenever you play ATARI RealSports
+ Football.
+
+ 3. USING THE 5200 CONTROLLERS
+ Use two 5200 controllers with this ATARI game cartridge. Plug the
+ controllers into jacks 1 and 2 on your console. In all games, you
+ can activate your player selection options, your game selection
+ options, and the START, RESET, and PAUSE functions only with the
+ controller plugged into jack 1.
+
+ KEYPAD OVERLAYS
+ For your convenience, two keypad overlays are included with this
+ game. Slip the overlay tabs into the slots provided on the
+ controller keypad.
+
+ PLAYER SELECTION
+ When you turn the POWER switch ON, a flashing scoreboard will
+ appear, instructing you to "SELECT OPTIONS OR START GAME." You
+ can play a practice game for one player only, or you can play a
+ competitive game between two players. Press the * key (or, the
+ square marked 2 PLAYERS/PRACTICE on your overlay) until your
+ choice is indicated on the scoreboard.
+
+ GAME SELECTION
+ You can choose to play a regulation game of 15 "minutes" per
+ quarter, or you can play a short game of "6-minute" quarters.
+ Press the # key (or, the square marked REGULATION/SHORT GAME
+ on your overlay) to indicate your preference.
+
+      1               2               3
+ XXXXXXXXXXX     XXXXXXXXXXX     XXXXXXXXXXX
+ X         X     X         X     X         X
+ X         X     X         X     X         X
+ XXXXXXXXXXX     XXXXXXXXXXX     XXXXXXXXXXX
+
+      4               5               6
+ XXXXXXXXXXX     XXXXXXXXXXX     XXXXXXXXXXX
+ X         X     X         X     X         X
+ X         X     X         X     X         X
+ XXXXXXXXXXX     XXXXXXXXXXX     XXXXXXXXXXX
+
+ XXXXXXXXXXX     XXXXXXXXXXX     XXXXXXXXXXX
+ X         X     X         X     X         X
+ X         X     X         X     X         X
+ XXXXXXXXXXX     XXXXXXXXXXX     XXXXXXXXXXX
+
+  2 PLAYERS                       REGULATION
+ XXXXXXXXXXX     XXXXXXXXXXX     XXXXXXXXXXX
+ X         X     X         X     X         X
+ X         X     X         X     X         X
+ XXXXXXXXXXX     XXXXXXXXXXX     XXXXXXXXXXX
+  PRACTICE                       SHORT GAME
+
+          FIGURE 3 - KEYPAD OVERLAY
+
+ START
+ As soon as you have displayed your game choices on the
+ scoreboard, press START. The players will charge onto the
+ field and go into a huddle formation, ready to receive your
+ first commands to play ball.
+
+ RESET
+ The RESET function has a safety mechanism built into it which
+ requires you to press it twice before you can select game
+ options and begin a new game. When you press RESET once, the
+ scoreboard will present you with a choice: HIT RESET AGAIN TO
+ SELECT GAME OR HIT PAUSE TO CONTINUE. By pressing RESET a second
+ time, you will return to the pre-game selection mode where you
+ can then select new game options or begin a new game by pressing
+ START.
+
+ If-in your excitement-you happened to hit RESET by accident and
+ don't want to begin a new game, press PAUSE to return to the place
+ you left off. Avoid hitting RESET that second time unless you're
+ sure you want to send the current game into the annals of football
+ history, because you won't be able to recall it after that.
+
+ PAUSE
+ Press PAUSE to suspend the game; press it again to return to the
+ exact place you left off. PAUSE cannot be used to "freeze" the
+ action during any single play.
+
+ CONTROLLER ACTION
+ Your joystick controls the movement of the odd-colored player on
+ your team. This control-player will be green (or yellow) for the
+ home team, and dark blue/purplish (or black) for the visitors team.
+ Move the joystick in the direction you want this control-player to
+ go. (NOTE: Colors may vary on different TV sets.)
+ The red fire buttons-especially the lower ones!-have several
+ functions. Use them to pass, to kick, to hike the ball early, to
+ free-up the defensive control-player before the snap, and to
+ transfer control from one player to another. The fire buttons on
+ either side have identical functions and are designed as a
+ convenience for right- and left-handed players.
+ The numbered buttons (from 1 to 6 only) are used by both offensive
+ and defensive teams to select formations and to call up plays.
+
+ 4. TRAK-BALL OPTION (FUTURE ACCESSORY)
+ This ATARI RealSports FOOTBALL cartridge offers an option to play
+ with a TRAK-BALL controller. (Available for purchase in mid-1983.)
+ You will need two TRAK-BALL controllers to play ATARI RealSports
+ FOOTBALL, or you can employ a joystick and a TRAK-BALL in
+ combination. Plug them into jacks 1 and 2 on your console. You can
+ switch from one type of controller to another in mid-game without
+ altering the current game situation. You can also change the jacks
+ you plug each controller into without affecting game play.
+ Each type of controller has different characteristics. Some games
+ are better played with a joystick; others with a TRAK-BALL.
+ Experiment to find which feels more comfortable for you.
+ Follow the instructions in Section 3, USING THE 5200 CONTROLLERS,
+ regarding player selection,game selection, and use of the START,
+ PAUSE, and RESET buttons. The numbered buttons on either side of
+ the ball can be used to call up plays during any single scrimmage.
+ The inside fire buttons (those nearest the ball) correspond to
+ the lower fire buttons on the joystick controller and have
+ identical functions. The outer fire buttons (those furthest from
+ the ball) function exactly like the upper fire buttons on the
+ joystick.
+
+ TRAK-BALL ACTION
+ Rotate your TRAK-BALL controller in the direction you want your
+ control-player to go. Spinning the ball faster will not affect
+ running speed in any way, but if you don't turn the ball, the
+ control-player can't run at all.
+
+ 5. CALLING PLAYS
+ As illustrated in the accompanying PLAYBOOK, there are 18 offensive
+ plays and six defensive plays to choose from.
+ In the one-player practice version, you play offense only. You do
+ not play against the computer for high scores. Instead, you
+ alternate playing offense on both the home team and the visitor's
+ team to become familiar with the features of the game. You control
+ the quarterback with your joystick, while the computer takes care of
+ executing the defensive play and directing the movement of the
+ defensive control-player. However, you must call up both the
+ offensive and defensive plays by using the appropriate controller
+ for each side. When the ball changes hands, simply use the other
+ controller to call up the plays for the new offensive team.
+
+ In the two-player version, each person calls up his own play and
+ directs the movement of the control-player with the joystick.
+
+ OFFENSE
+ All 18 offensive plays are executed from three formations. Within
+ these formations, you can run, pass, or kick, according to the
+ specific play you select.
+
+ Ofensive picks its plays in a two-step process:
+ (a) Select a number (from 1 to 3) in response to the "PICK
+ FORMATION" cue on the scoreboard.
+ (b) Select another number (from 1 to 6) in response to the "PICK
+ PLAY" cue.
+ When offense lines up for the scrimmage, the control-player will
+ be the quarterback. Except when you decide to punt or kick a field
+ goal, one or two pass-eligible receivers will be designated,
+ according to the specific play you select. The other players will
+ be linemen functioning as blockers.
+
+ RUNNING
+ Except for the field goal play, all the offensive plays (including
+ the punt) offer running possibilities. The ball carrier is faster
+ and more maneuverable than the defensive linemen who pursue him.
+ But he is slightly slower than the defensive control-player, who
+ can eventually overtake him unless he shows some fancy footwork.
+
+ In one-player games, the computer automatically transfers this
+ speed advantage to the defensive player closest to the ball carrier
+ once the running back has crossed the line of scrimmage. (You'll
+ notice this when you see the color change occur.) In two-player
+ games, the defensive side can transfer control and assign this
+ speed advantage to the defender nearest the ball carrier by
+ pressing the lower fire button. This transfer of joystick control
+ can only be made once during any single play.
+
+ PASSING
+
+ Except for the field goal and the punt plays, all the offensive
+ plays offer passing possibilities. The differences between the
+ plays occur primarily in the number of pass-eligible receivers in
+ each play and in the variety of pass patterns these receivers run.
+
+ After the snap, use your joystick to direct the movement of the
+ quarterback away from the charging linemen long enough to get the
+ pass off. Look for your receivers as they run through their
+ patterns, and pass the ball by pressing one of the red fire buttons.
+
+ In pass plays, the lower fire button on either side will release
+ the ball to the receiver designated as I in the PLAYBOOK diagrams;
+ the upper fire button will pass the ball to the receiver designated
+ as II.
+
+ Look over the plays and you'll notice that the receivers run
+ patterns that are consistent in their positioning to each other.
+ For example, during any particular quarter of play, if the I
+ receivers run patterns in the top part of your screen, the II
+ receivers will run patterns that lead them into the lower part of
+ the screen.
+
+ The art of successful passing is a matter of proper timing. Poor
+ timing will result in incompleted passes, or worse-interceptions.
+ If you complete a pass, the receiver will immediately become the
+ control-player whose movements you can then direct with your
+ joystick. As the ball carrier, the receiver can now run the ball
+ until he scores a touchdown, runs out-of-bounds,or is tackled by
+ one of the pursuing defenders.
+
+ PUNTING
+
+ You can call up a punt by pressing button 2 in response to the
+ "PICK FORMATION" cue and then pick button 1 in response to the
+ "PICK PLAY" cue on the scoreboard.
+
+ After the hike, press the lower fire button and the ball will be
+ kicked a random distance, then scooped up and returned by a
+ defensive player.
+
+ Be careful when you punt, though. If the linemen get too close to
+ the kicker, they can block the kick. The ball will the be blown
+ dead and returned to the line of scrimmage for the next series of
+ plays.
+
+ KICKING FIELD GOALS
+
+ You can kick a field goal by pressing button 3 in response to the
+ "PICK FORMATION" cue and then button 1 in response to the "PICK
+ PLAY" cue.
+
+ After the hike, the ball will automatically be kicked a finite
+ distance with a limited degree of accuracy toward the goal posts-
+ depending on your proximity to the goal line. Your chances of
+ kicking a successful field goal are as good as the pros, since
+ the completion percentages displayed in the PLAYBOOK are drawn
+ upon a full NFL season's statistics. Consult that chart when you
+ need to make an intelligent decision about whether to take a
+ chance on kicking a field goal.
+
+ If the defense can organize its blitz well enough, the field goal
+ kick can occasionally be blocked. On a missed field goal, the ball
+ will come out to the line of scrimmage, or to the 20-yard line if
+ the scrimmage was inside the twenty.
+
+ If you want to fake a field goal and then go for it, press 3 and
+ then 2. You'll get a running/passing situation with two eligible
+ receivers.
+
+ DEFENSE
+
+ The defensive team has six basic strategies, each with slightly
+ different characteristics that can be mastered only with
+ experience.
+
+ Defense selects its play by pressing a number from 1 to 6 in
+ response to the "PICK PLAY" cue on the scoreboard:
+ 1 - For a tight line defense against the up-the-middle run and
+     medium-range pass plays
+ 2 - For a wide line defense that provides a good rush and coverage
+     against the medium-range pass
+ 3 - For a wide line defense against a long pass
+ 4 - For a 5-man line that provides the best blitzing capabilities
+     and the best field goal defense
+ 5 - For short pass defense and goal line defense
+ 6 - For punt defense
+
+ When the defensive team lines up, the linemen will be assigned to
+ charge the ball carrier wherever he goes; the safeties will track
+ the pass-eligible receivers during their pattern; the control-player
+ will be initially designated as the middle linebacker.
+
+ However, by pressing the lower fire button before the ball is
+ snapped. you can free-up the control-player from his computer-
+ assigned position as a middle linebacker, and reposition himself
+ anywhere else on the field. If he touches the line of scrimmage,
+ though, he will be frozen until the ball is hiked.
+
+ CHANGING PLAYS
+ After each side has selected its play, the teams will assemble
+ at the line of scrimmage. The scoreboard will then offer an
+ opportunity for each side to "CHANGE PLAY?". You have to be quick,
+ though, because the ball will be automatically hiked within about
+ 8 "ATARI football-seconds" after the line-up.
+
+ Offense can change its play, but not its formation at this juncture.
+ For example, offense can change from play 1-2 to 1-4 (or any other
+ play in the series 1 formation), but it can't go from 1-2 to any
+ play beginning with formation 2 or 3.
+
+ Defense can change its formation, but while it does, offense can
+ immediately hike the ball by pressing the lower fire button. If
+ that button is not pushed, the ball will be automatically snapped.
+
+ 6. SCORING
+ Touchdowns count for seven (7) points. After a score, the ball
+ will automatically be brought out to the twenty-yard line to begin
+ the next series of plays.
+
+ Field goals count for three (3) points, with the ball brought out
+ to the twenty.
+
+ Safeties score two (2) points for the defensive team, with the ball
+ brought out to the fifty-yard line in their possession.
+
+ 7. STRATEGY
+
+ SCOREBOARD CLOCK
+ As in professional football rules, the scoreboard clock operates
+ continuously following run plays and completed passes; it stops
+ after incompleted passes, interceptions, kicks, scores, running
+ out-of-bounds, turnovers, and dead balls.
+
+ However, in order to compensate for "running-out-the-clock" tactics
+ by dastardly villains and other unscrupulous players, the clock
+ will stop at the end of one play and begin again as soon as the
+ defense calls its next play. The clock will run down for no more
+ than thirty seconds. If the offense hasn't made up its mind within
+ that span of time, the clock will freeze 30 seconds after the
+ defense called its play. The clock will resume at the snap.
+
+ To gain some control over the clock, master the sideline passes
+ that can be effective as short-gainers and clock-stoppers, too.
+
+ PLAYER RUNNING SPEEDS
+ The players run across the gridiron at different speeds relative
+ to each other. The order of their speed from fastest to slowest is:
+ *Receiver in a pass pattern (the fastest player only while still
+  in his pattern)
+ *Defensive control-player
+ *Offensive control-player
+ *Defensive safeties who cover the receivers
+ *All other linemen, and receivers after completing their pass
+  patterns
+
+ RUNNING PLAYS AND BLOCKING STRATEGIES
+ Running plays are an integral part of the game and should not be
+ overlooked. In the plays specifically designated as "run" plays
+ in the PLAYBOOK-namely, 1-2, 1-5, and 1-6-the blockers have
+ superior strength for a random amount of time and can actually
+ open up a hole for a fleet-footed running back. As in real life,
+ these blockers also get fatigued, so you can't expect that hole
+ to be there all the time. Sorry, no guarantees!
+
+ You can also make effective use of your blockers downfield by
+ weaving your ball carrier behind and around them to gain extra
+ yardage. Since the linemen are programmed to follow the ball and
+ are slower than the ball carrier, you can't hide behind any
+ "flying wedges" or other blocking formations like that, though.
+
+ Thanks to the miracles of electronic circuitry, you'll soon observe
+ that in running downfield, the straightest line is not necessarily
+ the quickest way to zip across the field toward your goal. Try
+ running on a slight diagonal to the yard lines. Develop the
+ technique of cutting back on your own beeline path by making
+ U-turns and curlicues to evade your pursuers. You'll be amazed at
+ the extra life this will put in your game!
+
+ THE ART OF PASSING
+ In a pass play, the ball is thrown to certain "cut-points." The
+ art of completing a pass involves timing the release of the ball
+ to coincide with the arrival of the intended receiver at one of
+ those cut-points.
+
+ You can throw the ball to match the receiver's arrival at his
+ first cut-point; or you can toss it after he makes that cut and
+ runs to his second cut-point; or you can even try to connect with
+ him after he completes his pattern and begins to run back toward
+ the ball carrier.
+
+ Keep in mind, though, that it becomes increasingly difficult to
+ complete a pass if you throw the ball after the receiver has run
+ through the prearranged pattern. If you throw the ball after the
+ intended receiver has run beyond his last cut-point (and therefore
+ completed his pass pattern), the ball will travel to where the
+ receiver was at the moment you pressed the fire button.
+
+ Meanwhile, the defensive safety-obligated to track the receiver
+ only while he was in his pattern-is now free to rush for the ball
+ that is heading in their direction. And since he is now faster
+ than the receiver, chances are, the defensive safety will intercept.
+ This means that, there is a limited amount of time in which you
+ could throw a successful "buttonhook" pass; but the chances of
+ getting the ball intercepted increase as soon as the defensive
+ safety's running speed exceeds the receiver's.
+
+ Ultimately, it's all a matter of practice and timing. Learn the
+ pass patterns in the one-player version and you'll be a tough
+ competitor when the opening whistle blows.
+
+ You can complete some pass plays, like the long "bombs," by
+ throwing the ball at an angle to the receiver. If your quarterback
+ lines up directly behind your intended receiver, the chances are
+ greater that the safety can come in between the passer and the
+ receiver and thus intercept the pass.
+
+ Interceptions occur when a defender is both in the direct line of
+ fire of a thrown pass and within two yards of the intended receiver.
+ If a thrown pass appears to have gone "through" a defender, it means
+ he was not close enough to the intended receiver to intercept the
+ ball, and that it went "over his head."
+
+ In the screen plays-numbered 1-4, 2-4, and 3-4-the offensive
+ blockers bait the attacking linemen by offering no resistance at
+ the line of scrimmage. Within a short time, a receiver emerges
+ from that pack, ready to catch a pass, and-unless the defense has
+ "read the screen correctly"-completely in the clear.
+
+ TRANSFERRING JOYSTICK CONTROL
+ Transferring Joystick control after the ball is hiked is one of the
+ key features of ATARI RealSports FOOTBALL. If you intend to win, you
+ should become very familiar with this feature. You can transfer
+ joystick control by pressing the lower fire button under the following
+ circumstances:
+
+ OFFENSE
+ While the ball is in mid-flight to an intended receiver, you can
+ transfer control to that receiver to adjust his position and thereby
+ improve your chances of completing that pass. If the intended receiver
+ is I and you already pressed the lower fire button once to pass the
+ ball, you have to press it a second time to transfer control while the
+ ball is in mid air.
+
+ DEFENSE
+ Defense can transfer joystick control to the player closest to the
+ ball at the following times:
+ *After the ball carrier has crossed the line of scrimmage
+ *As soon as a pass is completed
+ *As soon as a pass is intercepted
+ *As soon as a punt is scooped up and is being returned
+
+ Whether you are on offense or defense, remember: You can only make
+ this transfer of joystick control once during any single play, so
+ pick your moment well.
+
+ 8. FOOTBALL GLOSSARY
+ Blitz. A defensive strategy in which the linebacker joins the
+ linemen in rushing the quarterback behind the line of scrimmage.
+ Down. The basic unit of game play; one scrimmage play. (The
+ offensive team has four plays, or downs, in which to gain 10 yards
+ and keep possession of the ball.)
+ Downfield. The playing area beyond the line of scrimmage.
+ End Zone. The 10-yard area beyond the goal line where a receiver
+ can catch a pass and score a touchdown.
+ Field Goal. Kicking the ball through the goal posts; worth 3 points.
+ Interception. A pass that the defense catches and is allowed to
+ run with.
+ Linebacker. The defensive leader, positioned just behind the front
+ line.
+ Linemen. The players at the line of scrimmage at the beginning of
+ each play.
+ Pass. Throwing the football.
+ Pattern. A prearranged route run by a pass receiver.
+ Punt. Giving up the ball by kicking it downfield to the other team;
+ a strategic move on a fourth down situation when getting a first
+ down appears risky or hopeless.
+ Quarterback. The offensive leader who receives the snap from the
+ center. He can run or pass with the ball.
+ Receiver. An offensive player who is eligible to catch a pass.
+ Runner. The player who is in possession of the ball; the ball
+ carrier.
+ Safety. Tackling a ball carrier in his own end zone; worth 2 points
+ for the defensive team; also a defensive back covering a receiver.
+ Scrimmage. The action that occurs when a play starts with the center
+ hiking the ball and ends with a dead ball; amounts to one down. The
+ line of scrimmage is the starting point for each play.
+ Snap. Hiking the ball to begin the scrimmage.
+ Tackle. The act of stopping the ball carrier.
+ Touchdown. Crossing the defensive team's goal line by running the
+ ball into the end zone or completing a pass; worth 7 points in
+ ATARI RealSports FOOTBALL, since the extra point is automatically
+ added.
+
+ 9. SCORECARD
+
+   TEAMS           SCORE           DATE
+
+ Home Team        _______         ______
+ Visitors         _______         ______
+
+ Home Team        _______         ______
+ Visitors         _______         ______
+
+ Home Team        _______         ______
+ Visitors         _______         ______
+
+ Home Team        _______         ______
+ Visitors         _______         ______
+
+ etc.
+
+ END
+
+ Typed by Robert "Ferg" Ferguson (wombat2@ix.netcom.com)
+
+ for Atari Gaming Headquarters

@@ -1,0 +1,7 @@
+This was a special copy of the game Castle Blast that was awarded in the Castle Blast Label Contest.
+
+It differs from the regular version in the following ways:
+
+1. The winner's initials and a serial number are displayed on the top of the screen when * is pressed.
+2. The winner's initials and a serial number are displayed as a moving message at the bottom of the screen when the game is over.
+3. There is a cheat mode so the player can begin at any level.

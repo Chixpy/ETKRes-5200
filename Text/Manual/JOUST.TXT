@@ -1,0 +1,175 @@
+
+ JOUST
+
+ BY ATARI
+
+ #CX5240 Released for the Atari 5200 SuperSystem (C)1983
+
+ An Exciting Medieval Battle from the arcade classic...Joust
+
+ Page 1)
+
+ Insert your 5200 game cartridge so the label faces you and reads
+ right-side-up.  Be sure the cartridge is firmly seated in the center
+ slot of the console, but do not force it in.  Then press the POWER
+ switch.  See your owner's manual for further details.
+
+ KNIGHTS ON BIRDBACK!
+
+ How on Earth did you fall into this alien world?  Look around you--
+ the sky is full of knights astride enormous armored buzzards.  These
+ characters look mean, and the buzzards they ride don't look very
+ friendly either!
+
+ To defend yourself, and to score points, you must unseat each of your
+ opponents in a joust.  The winner of a joust is the rider whose mount
+ is highest at point of contact.  If the mounts are of equal height,
+ the joust is a draw.
+
+ The Buzzard Riders:
+
+ Your opponents are the Buzzard Riders.  There are three types,
+ each more dangerous than the last:  the Bounders (wearing red), the
+ Hunters (wearing grey), and the Shadow Lords (wearing blue).
+
+ Page 2)
+
+ When you unseat a Buzzard Rider, in a joust, his mount turns into
+ an egg.  If you or your mount grabs the egg, you'll score points and
+ the egg will disappear. (For even more points, try to catch the egg
+ before it hits the ground).  It will eventually hatch into an even
+ more dangerous opponent.
+
+ You and the Buzzard Riders materialize on grey regeneration pads at
+ the tops of the ledges.  Until a bird and rider completely
+ materialize, they're protected from attack.  Once moved, however,
+ they become fair game for a joust.
+
+ The Lava Troll and the Pterodactyl
+
+ In the fire pits of the lowest ledge lives the Lava Troll.  After
+ the second wave of game play, the fire pits are uncovered and any
+ jouster who flies close to the pits may be captured by the Troll,
+ but as the game progresses the Troll's grip become stronger.
+
+ At certain times during the game, a deadly pterodactyl appears.
+ Pterodactyls will try to eat you, but if you have the skill to hit
+ one directly on the beak, you'll destroy it and earn bonus points.
+
+ Page 3)
+
+ SPECIAL WAVES
+
+ When all of the Buzzard Riders have been unseated, a new wave of
+ game play begins.  The longer you play, the harder the game
+ becomes; you'll have more opponents to fight, and you'll need more
+ skill to successfully joust them.  Certain waves allow you to earn
+ special bonus points.  The waves are:
+
+ Survival Wave (one player) or Team Wave (two player)--In the
+ one-player version, you are awarded 3000 points if your player
+ stays alive through the entire wave.  In the two-player mode
+ version, both players are awarded 3000 points if neither player
+ unseats the other.
+
+ Gladiator Wave (two player)--the first player to unseat the other
+ is awarded 3000 points.
+
+ Egg Wave--All the buzzard Riders begin this wave as eggs.  Collect
+ the eggs quickly before they hatch.
+
+ Pterodactyl Wave--This wave starts with the pterodactyl on the
+ screen.
+
+ Each player's current score and number of lives are shown at the
+ bottom of the screen.  You start the game with five lives and earn
+ an additional life every 20,000 points.
+
+ Page 4)
+
+ SCORING
+
+ Feat                                   Points
+ Unseating a Buzzard Rider
+   Bounder                               500
+   Hunter                                700
+   Shadow Lord                          1500
+
+ Collecting Eggs
+   1st Egg                               250
+   2nd Egg                               500
+   3rd Egg                               750
+   4th Egg, and every egg thereafter    1000
+
+ Catching an egg in midair        Bonus  500
+ Losing a life                            50
+ Unseating another player (two-player)  1000
+ Surviving a Survival Wave              3000
+ Cooperating in a Team Wave             3000
+ Unseating another player in the Gladiator level  3000
+ Destroying a pterodactyl               1000
+
+ Page 5)
+
+ USING THE CONTROLLERS
+
+ Plug one 5200 controller firmly into jack 1 for one-player games;
+ plug a second controller into jack 2 for two-player games.  The
+ player using jack 1 controls game selection and starts the game.
+
+ Use your joystick to move your bird left or right.  Use the lower
+ fire buttons to make your bird flap its wings.  To make your bird
+ fly, press any lower fire button repeatedly, or hold in the button.
+
+ CONTROL KEYS
+
+ Press START to begin the game.
+ Press PAUSE to freeze the action;
+ press PAUSE again to resume game play.
+ Press PAUSE then RESET to return to
+ the game option screen.
+
+ Press the * key to choose a skill level.
+ Press the # key to select a one- or two- player game.
+
+ Page 6)
+
+ GAME OPTIONS
+
+ There are four options in JOUST: NOVICE, SKILLED, ADVANCED, and
+ EXPERT levels.  In the novice level, the pterodactyl and the lava
+ troll do not appear, and the eggs do not hatch into Buzzard Riders.
+ In the SKILLED, ADVANCED, and EXPERT levels, game play becomes
+ increasingly difficult: The number of opponents increases, the Lava
+ Troll's grip becomes stronger, and the pterodactyl appears more
+ often.
+
+ HELPFUL HINTS
+
+ --Play the NOVICE version first to learn how to control the bird.
+ Try keeping your flight even and steady, rather than bouncing
+ off of ledges.
+
+ --Stay away from the sides of the jousting arena, since a Buzzard
+ Rider or Pterodactyl could appear unexpectedly.
+
+ --Collect eggs quickly after they reach the ground.  If you wait too
+ long, they'll hatch into new Buzzard Riders.
+
+ --Clear your screen of opponents as quickly as possible.  The
+ pterodactyl will appear if you wait too long.
+
+ --Stay as high as possible on the screen, then drop down on your
+ opponents.
+
+ Atari welcomes your comments.  Please address all correspondence
+ to: Atari, INC. , Customer Relations, 1312 Crossman Avenue,
+ Sunnyvale, CA 94086
+
+ (c) Atari 1983 Model CX5240 All Rights Reserved
+
+ END
+
+ Typed by Dan Reinholtz (sammy97@niu.edu)
+
+ for Atari Gaming Headquarters

@@ -1,0 +1,146 @@
+
+ Q*BERT
+
+ BY PARKER BROTHERS
+
+ OBJECT
+ To score as many points as possible by changing the color of
+ the cubes on the pyramid from a starting color to a destination
+ color. You'll do this by hopping Q*bert from cube to cube
+ while avoiding the "nasty" characters who will try to stop him.
+ Each time you complete a pyramid, you'll proceed to a new
+ pyramid--or round.
+
+ SETTING THE CONSOLE CONTROLS
+ 1. Place the cartridge firmly into the cartridge slot.
+ 2. Push the POWER ON/OFF button. Power is on when the red light
+ below the button is on.
+ 3. Press the number of the game you want to play (see Game
+ Selection Box). The number will appear briefly in the lower
+ right hand corner of the screen. If you skip this step,
+ you'll automatically start playing Game 1.
+ 4. To begin play, press down on the START button.
+
+ THE JOYSTICK CONTROLLERS
+ Plug the joystick controllers into the jacks labelled "1" and
+ "2." For one-player games, use only the "1" joystick.
+ To move Q*bert from cube to cube press down on the Fire Button
+ and move the joystick in the direction you want Q*bert to hop.
+ Remember, Q*bert can only hop in a diagonal direction.
+ To stop action press the PAUSE button. Press it again to
+ resume play.
+
+ [diagram of controller]
+
+ PLAYING
+ Q*bert
+ You'll start the game with a set number of Q*berts (see GAME
+ SELECTION BOX). The first Q*bert will appear on the topmost
+ cube when the game starts. Remaining Q*berts are shown to the
+ left of the pyramid.
+ Try to hop Q*bert onto every cube so he changes the entire
+ pyramid to the destination color. The destination color
+ indicator is on the left of the screen.
+ Be careful not to hop Q*bert off the sides or off the bottom
+ of the pyramid. If you do, he falls and you lose that Q*bert.
+ When this happens, the next Q*bert will appear on the topmost
+ cube.
+
+ Red Ball
+ When Red Ball starts rolling, get Q*bert out if its path or
+ it will squash him! If this happens, the next Q*bert will
+ appear on the cube where the last one was squashed.
+
+ Purple Ball
+ Poses the same kind of danger as Red Ball, except that when
+ Purple Ball reaches the bottom of the pyramid, it hatches
+ Coily the snake!
+
+ Coily
+ He's the snake with the perilous pounce! The only way to get
+ rid of Coily is to lure him off the pyramid by hopping a
+ flying disc.
+ Hop Q*bert onto the exit cube. (there is only one correct exit
+ cube for each flying disc.) Then, as soon as Coily approaches
+ the exit cube, hop Q*bert aboard the flying disc.
+
+ Flying Discs
+ When Q*bert's in trouble, he can board a flying disc that will
+ whisk him off to safety at the top of the pyramid. The number
+ of discs and their placement to the sides of the pyramid will
+ differ, depending on the level and round.
+ Just make sure Q*bert boards the flying disc from the correct
+ exit cube or else he'll fall off the pyramid.
+
+ Ugg and Wrong Way
+ Ugg and Wrong Way appear on the lower portion of the pyramid
+ and travel sideways and upwards, ready to jump on Q*bert.
+ If one of them does, the next Q*bert will appear on the cube
+ where the last one was jumped.
+
+ Sam
+ Sam can't catch Q*bert, but he changes the cubes' colors so
+ Q*bert's got to retrace his tracks. If Q*bert stops him,
+ however (by running into him), you'll earn bonus points.
+
+ Green Ball
+ Green Ball can't catch Q*bert either. But if Q*bert catches
+ Green Ball, all the characters except Q*bert freeze for a
+ moment, Q*bert can continue to hop, and you'll earn bonus
+ points.
+
+ END OF ROUND
+ The round ends when you complete the pyramid. As long as you
+ have a Q*bert remaining, a new pyramid will appear with a new
+ destination color.
+
+ ROUND PROGRESSION
+ As you progress from round to round, Q*bert's speed, the speed
+ of the other characters, and the frequency of the other
+ character's appearances will increase.
+
+ END OF GAME
+ The game ends when you run out of Q*berts.
+ To play the same game level press START or the Fire Button.
+ To choose a different game level press SYSTEM RESET, then
+ refer to Setting the Console Controls.
+
+ TWO-PLAYER GAMES
+ Games 4-6 are two-player games.
+ The left player goes first; players alternate turns. Your
+ turn ends when you lose a Q*bert.
+
+ GAME SELECTION BOX
+ Game 1  One-player  You start with 5 Q*berts
+ Game 2  One-player  You start with 4 Q*berts
+ Game 3  One-player  You start with 3 Q*berts
+ Game 4  Two-player  You each start with 5 Q*berts
+ Game 5  Two-player  You each start with 4 Q*berts
+ Game 6  Two-player  You each start with 3 Q*berts
+
+ SCORING
+ Q*bert changes cubes to destination color...25 points
+ Q*bert changes cubes to intermediate color..15 points
+ Q*bert catches Sam.........................300 points
+ Q*bert catches Green Ball..................100 points
+ Q*bert lures Coily off pyramid.............500 points
+ Extra points for unused flying discs........50 points
+                                         for each disc
+ Bonus points..............................1000 points
+                       for completing the first round;
+                  amount increases 250 points for each
+                   successive round, up to 5000 points
+ Bonus Q*berts.....................In Games 1, 2, 4, 5
+            --one for the first 8000 points you score;
+                   thereafter, one every 14,000 points
+                                         In Games 3, 6
+               --one for every 14,000 points you score
+
+ Q*bert is a trademark of D. Gottleib & Co., All rights reserved
+ Rules (c) 1983 Parker Brothers, Beverly, MA, 01915.
+
+ END
+
+ Typed by T.J. Rappel (trappel@athenet.net)
+
+ for Atari Gaming Headquarters

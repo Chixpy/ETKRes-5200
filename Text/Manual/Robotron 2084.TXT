@@ -1,0 +1,147 @@
+
+ ROBOTRON: 2084
+
+ BY ATARI, INC.
+
+ 5 JUNE 2084
+ ORIGINATOR: MOONBASE 0712Z
+ CLASSIFICATION: TOP SECRET
+ MISSION: OPERATION ROBOTRON
+
+ BACKGROUND
+ ----------
+
+ At first, it was a technological breakthrough.  Mankind created the
+ Robotrons -- a species of robots so advanced they no longer needed
+ their human creators to think and act.  But the Robotrons have turned
+ on their creators!  They're now determined to destroy humanity -- or
+ reprogram the survivors, turning them into destructive mutants!
+
+ ALERT:
+ ------
+
+ Recently intercepted Robotron communiques reveal that only a few
+ clones of the last human family remain alive on earth!
+
+ YOUR MISSION:
+ -------------
+
+ Prepare immediately to step up the counter-attack.  Save the
+ surviving humans!
+
+ PRELIMINARY INSTRUCTIONS:
+ -------------------------
+
+ Insert the Robotron: 2084 cartridge in your Atari 5200 SuperSystem as
+ explained in your owner's guide, and turn on your system.
+
+ You can play with either one controller or two.  For a two-player
+ game, simply trade the one or two controllers back and forth between
+ players.  To use one controller, plug it into jack 1.  Fire your
+ anti-robot laser gun by pressing the bottom red button on the
+ controller.
+
+ To use two controllers, plug one into jack 1 and another into jack 2.
+ Use the plastic tray from your Robotron: 2084 package as a dual
+ controller holder.  Set the controller plugged into jack 1 into the
+ left side of the holder and the controller plugged into jack 2 into
+ the right side.  Maneuver with the left joystick.  Use the right
+ joystick to fire -- your laser gun will shoot in the direction you
+ move the joystick.  Press the * button on the controller to set the
+ level of difficulty.  Level 0 is the easiest, level 5 is the hardest.
+
+ Press the # button to choose a one- or two-player game.
+
+ Press START to begin your mission.
+
+ Press PAUSE to pause during a game.  Press it again to resume play.
+
+ Press RESET to return to the beginning of the game if you want to
+ select a different level of difficulty or number of players.
+
+ EXTEME DANGER:
+ --------------
+
+ The Robotrons know of you -- the only one immune to their
+ reprogramming.  They will stalk you relentlessly.
+
+ TECHNICAL DATA:
+ ---------------
+
+ Your only weapon is your anti-robot laser gun.  With it you can
+ destroy all the Robotron species except the Hulk.
+
+ The Robotrons attack in waves, with different species of Robotrons
+ in each wave.  A new wave appears each time you destroy all the
+ Robotrons on your screen -- except the invincible Hulk.  You have
+ five lives, but for every 20,000 points you score, you earn another
+ chance to complete your mission.
+
+ STRATEGY:
+ ---------
+
+ By saving as many of the remaining humans as you can, you'll rack up
+ the most points.  To do this, quickly get clear of the middle of the
+ screen at the start of each wave of Robotrons, but avoid the corners.
+ Concentrate on wiping out the Spheroids and Quarks first.  Eliminate
+ most of the rest of the Robotrons -- leaving a few Grunts alive.
+ Then pick up the remaining humans before you destroy the last
+ Robotrons.  Good luck!
+
+ Commit this data to memory.  You are the only hope for saving
+ humanity.
+
+ 16:23 MOONBASE
+ 0712Z DISCONNECT
+
+ SCORING
+ -------
+
+ THE ROBOTRONS
+
+ The Mindless Grunts:
+ The Grunts are beastly robots.  they have one mission: to do you in.
+ Annihilate the Grunts for 100 points each.
+
+ The Indestructible Hulks:
+ Alone of all the robot species, Hulks cannot be destroy but can
+ annihilate the human clones.  Your laser gun only slows them down.
+ Avoid the Hulks at all cost.
+
+ The Giant Brains:
+ Launched every fifth wave, the brains can electrocute you where you
+ stand.  Destroy the Brains for 500 points each.  If a Brain catches
+ a human, it reprograms the victim, who turns against you viciously as
+ a mutant PROG.  Blast the Prog immediately with your laser gun for
+ 100 points.  The Brain also fires deadly Cruise Missiles that seek
+ you out mercilessly.  Zap them for 25 points each.
+
+ The Sinister Spheroids and Their Deadly Spawn:
+ Explode the Spheroids for 1000 each before they bring forth the
+ Enforcer Embryos, which grow into evil Enforcers.  Stop the Enforcers
+ for 150 points each.  Those that survive will heighten their attack
+ by launching Enforcer Sparks.  Destroy the Sparks for 25 points each.
+
+ The Galvanizing Electrodes:
+ The Electrodes block your path, changing form with each new wave.
+ They're not worth any points, but you must vaporize them with your
+ laser gun or they'll destroy you.
+
+ The Cubic Quarks and Torturing Tanks:
+ Blast the Quarks for 1000 points, or face the beastly tanks they
+ swifty beget.  Tanks are worth 200 and the Bounce Bombs that arise
+ from them are worth 25 each.
+
+ THE LAST SURVIVING FAMILY
+
+ Man, Woman and Child:
+
+ Only a handful of human clones remain on earth.  Touch as many as you
+ can to place them under your protective powers.  In each wave you
+ earn 1000 points for the first human you save, 2000 for the second,
+ 3000 for the third, 4000 for the fourth, and 5000 for each human you
+ save after that.
+
+ END
+
+ Typed by Keita Iida (keita@mindspring.com)

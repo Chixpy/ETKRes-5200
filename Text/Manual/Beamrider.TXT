@@ -1,0 +1,192 @@
+
+ BEAMRIDER
+
+ BY ACTIVISION
+
+ BEAMRIDER
+ ---------
+
+ The Restrictor Shield, 99 sectors deep, now surrounds the Earth.  You
+ are the Beamrider, on a mission to clear the Shield.  There you must
+ demolish an onslaught of alient frights as you dodge from beam to
+ beam.  Sector after sector, the deluge deepens...
+
+ INITIAL SET-UP
+ --------------
+
+ 1.  Insert cartridge into your game system with the power OFF.  Then
+     turn power ON.
+
+ 2.  2600 users, skip to number 10.
+
+ 3.  Select number of players by pressing the appropriate number,
+     1-4, on controller keypad.
+
+ 4.  Select level of difficulty by pressing its corresponding numer on
+     the keypad.
+
+          Level:              Begins at sector:
+            1                         1
+            2                         5
+            3                        10
+
+ 5.  To start the action, move the Control Stick up.  The hatch doors
+     will open, thrusting you through hyperspace to the Restrictor
+     Shield.
+
+ 6.  Your Light Ship will move left or right when you move the Control
+     Stick left or right.  To fire laser larials, press the left side
+     button.  To fire torpedoes, press the right side button.
+
+ 7.  To begin a new game at any time, START on the hand controller.
+
+ 8.  Pause the action whenever you like by pressing PAUSE on the
+     hand controller.  Screen will go to black.  To resume the game,
+     press PAUSE again.
+
+ 9.  To drop out of a multi-player game without interrupting the other
+     players, press 5 on the hand controller when your turn begins.
+     Your score will be omitted and the sequence of play will adjust
+     to the remaining players.
+
+ 10. On the 2600: Press reset and move Joystick to restart the action.
+     Laser lariats are fired by pressing the red button: to fire
+     torpedoes, push Joystick forward.
+
+ 11. Use the left difficult switch to select 2600 level of difficulty:
+     A=Advanced, B=Basic.
+
+ 12. Turn power OFF before removing cartridge.
+
+ BEAM BEARINGS
+ -------------
+
+ The Space Station
+ Whenever your ship is destroyed or when you complete a sector, you
+ will return via hyperspace to the space station.  When you're ready
+ to continue, move the Control Stick up.  The hatch doors will open
+ and you'll be on your way.  The Space Station does not appear in the
+ 2600 version.
+
+ Enemy Saucers
+ There are 15 enemy saucers in each sector.  They all must be
+ destroyed before you can go to the next sector.  Every time a saucer
+ is hit, the number in the upper left corner of the screen will count
+ down by one.
+
+ The Sector Sentinel
+ When all 15 white enemy saucers have been destroyed in a sector,
+ their Sentinel ship will cruise across the top of the beans.  Only a
+ torpedo can destroy it.
+
+ Weapons
+ Laser lariats are only effective against certain invaders (see
+ "Dangerous Encounters").  Torpedoes, however, will destroy the first
+ object they meet on a beam.  You are only given 3 torpedoes per
+ sector.  Use them sparingly since they are your only weapon against
+ the Sector Sentinel.
+
+ Yellow Rejuvenators
+ Occasionlly, yellow rejuenators will float through the beam matrix.
+ Allow them to land on your deck, as each connection will add a bonus
+ ship to your fleet.  If you shoot or torpedo a rejuvenator by
+ mistake, it will turn red from the heated blast.  Get out of the way!
+ The wreckage will destroy you on contact.
+
+ DANGEROUS ENCOUNTERS
+ --------------------
+
+ With the first swing of your laser lariat, the white enemy saucers
+ approach.  But there's more.  As you progress through the Restrictor
+ Shield, a sinister collection of aliens will materialize.  A new
+ danger is added with every other sector, up to sector 16.
+
+      SECTOR              CRAFT                VULNERABLE
+         1           White Enemy Saucers          Yes
+         2           Brown Space Debris            No
+         4          Yellow Chirper Ships          Yes
+         6           Green Blocker Ships           No
+         8             Blue Chargers              Yes
+        10            Orange Trackers              No __
+        14             Big Zig Bombs              Yes   |__ not in
+        16            Magnetic Mines               No __|   2600
+                                                            version
+
+ Only "vulnerable" objects are affected by laser lariats (saucers and
+ chirpers are destroyed; chargers and zig bombs are deflected).
+ Everything else can only be dodged or, in extreme cases, torpedoed.
+ Magnetic Mines will pull you over unless you keep moving the Control
+ Stick in the direction opposite the mine.
+
+ SCORING
+ -------
+
+ Points are scored each time an enemy saucer, chirper ship or Sector
+ Sentinel is destroyed.  Point values increase as you progress to
+ higher sectors.
+
+ The exact point value for each hit appears in red, briefly replacing
+ your score the moment an enemy craft is destroyed (on 5200 version
+ only).
+
+ Also, if you manage to destroy the Sector Sentinel, you'll receive an
+ additional bonus for each ship in your fleet.
+
+ JOIN THE ACTIVISION "BEAMRIDERS"
+ --------------------------------
+
+ Beamriders are a breed all their own.  Part warrior, part astronaut
+ and part daredevil.  If that sounds like you, and if you've made it
+ to sector 14 with a score of 40,000 points or more, join the club.
+ Send us a photo of your TV screen showing your sector and score,
+ along with your name and address, and we'll send you the emblem that
+ will identify you as an official Beamrider.  Be sure to write
+ "Beamrider" and your score on the bottom corner of the envelope.
+ Indicate 2600 or 5200.
+
+ HOW TO BE A BEAMRIDER
+ ---------------------
+
+ Tips from Dave Rolfe, designer of Beamrider
+
+ Dave Rolfe is a seasoned software designer, with an academic
+ background in engineering and computer science.  In his spare time,
+ he can be found bicycling or listening to rock 'n roll.
+
+ Greetings from sector 26 and moving!  If you want to make it to the
+ outer sectors, pay attention to these tips.
+
+ Maintain precise control by learning to TAP the Control Stick to move
+ your ship a single beam at a time.  And stay near the center beams so
+ you won't get boxed into a corner with nowhere to run.
+
+ Zap the white enemy saucers as early in their approach as possible.
+ And check this out: You can hit them when they're slightly off the
+ beam, before they can drop their missiles.
+
+ When you see a yellow rejuvenator, don't abandon all caution as you
+ move to catch it or you'll likely wreck your ship.  If an enemy
+ object is blocking the rejuvenator, you can use a torpedo to blast it
+ out of the way.  Then, catch the rejuvenator.  But remember, you only
+ have three torpedoes and they're your only weapon against the Sector
+ Sentinel.
+
+ And while we're on the subject, when the Sentinel is about to
+ approach, don't sit on the beam you plan to shoot from.  Green
+ Blockers will swarm onto it immediately!  Instead, wait on a beam
+ you're NOT going to shoot from (like the one nearest the Sentinel's
+ first sighting).  As soon as the Blockers are 'locked' onto that
+ beam, zip over to an unblocked beam and torpedo the ship.
+
+ Last, but not least, take time to notice the enemy attack movements.
+ They generally follow a pattern of motion that allows you to
+ anticipate many of their moves.
+
+ With practice, you'll be in the outer sectors before too long.  If
+ you get TOO far out, come down to Earth for a while and drop me a
+ line.  Because reading your letters is the next best thing to
+ designing games.
+
+ END
+
+ Typed by Keita Iida (keita@mindspring.com)

@@ -1,0 +1,390 @@
+
+ SUPER BREAKOUT
+
+ BY ATARI, INC.
+
+ To insert your 5200 game cartridge, hold the cartridge so the name
+ on the label faces toward you and reads right-side-up.  Then
+ carefully insert the cartridge into the slot in the center of the
+ console unit.  Be sure the cartridge is firmly seated. but do not
+ force it.  The POWER ON/OFF switch is located on the bottom right
+ side of the ATARI 5200.  Press this switch to turn the power on
+ AFTER inserting your game cartridge.  See your Owner's Manual for
+ further information.
+
+ TABLE OF CONTENTS
+
+ 1. Super Assignment
+ 2. Game Play
+ 3. Using The 5200 Controllers
+ 4. Trak-Ball Option
+ 5. Paddle Action
+ 6. Game Variations
+ 7. Rating Your Score
+ 8. Helpful Hints
+ 9. Your Best Game Scores
+
+ 1. SUPER ASSIGNMENT
+
+ You're the pilot of a super-powered space shuttle and you're
+ blazing a path through distant superclusters at incredible space-
+ age speed.  The uncharted planet Ieris is your destination.  You
+ know from preliminary briefing that Ieris is surrounded by a
+ mysterious, colorful force field.  Astronomers have photographed
+ the iridescent force field with high-powered telescopic cameras.
+ There is much conjecture on Earth as to what the wall of colors
+ around Ieris might be, but no one is certain.
+
+ Your mission is to break up the force field.  Your space ship is
+ equipped with special hardware to help you complete this important
+ assignment.  As you smash out the bright-colored matter, sensors
+ will analyze it, grade it and relay the results back to scientists on
+ Earth.  You, too, will see the scores.
+
+ Your computer signals that Ieris is dead ahead.  A brilliant band of
+ colors flashes into view.  Wow!  This is more startling and
+ impressive than any of the photos you saw back on Earth.  Your
+ hands eagerly grip the controls as you prepare to blast through!
+
+ 2. GAME PLAY
+
+ SUPER BREAKOUT contains the following game variations:
+   * BREAKOUT
+   * DOUBLE
+   * CAVITY
+   * PROGRESSIVE
+
+ Each game may be played by one to four players.  For a detailed
+ description of each game, check Section 6--GAME VARIATIONS.
+
+ The object in all of the games is to keep the ball in play while
+ scoring the highest possible number of points, or to score more
+ points than your opponent.
+
+ Points are scored by hitting the ball into the rows of bricks.  The
+ bricks crumble and disappear, one at a time, when hit.  The point
+ value in all games is determined by brick color, as follows:
+   Gold = 1 point
+   Red = 3 points
+   Blue = 5 points
+   Green = 7 points
+
+   NOTE: Colors may vary slightly on different television sets.
+
+ In DOUBLE and CAVITY it is possible to score double or triple your
+ normal point value when two or three balls are in play
+ simultaneously (see Section 6, GAME VARIATIONS).  Players get five
+ serves or turns in all games.  The turn or ball number is displayed
+ at the far, left side of the screen.  Figure 1 shows what a
+ four-player BREAKOUT game looks like.
+
+   [Screenshot with the ball number, player scores, and brick point
+   values labeled.]
+     Figure 1 - 4-Player Breakout
+
+ Before each player's turn, the message:  PLAYER 1 UP (or, PLAYER
+ 2 UP, etc.) is displayed at the bottom of the screen.  The message
+ disappears when the serve button is pressed; then the score is
+ activated for the player who is up.
+
+ Each turn ends when the ball is missed and disappears off the
+ bottom of the screen.  In games with two or three balls in play, a
+ turn ends when the last ball is missed.
+
+ 3.USING THE 5200 CONTROLLERS
+
+   [Photo of a 5200 controller with the bottom side button labeled
+   "Serve Button."]
+     Figure 2 - 5200 Controller
+
+ Use one, two, three, or four 5200 controllers with this ATARI game
+ cartridge.  For one-player games plug the controller into controller
+ jack 1 on your console.
+
+ KEYPAD OVERLAYS
+
+ For your convenience, two keypad overlays are included with this
+ game.  Slip the tabs into the slots above and below the keypad on
+ your controller.
+
+   EXTRA GAMES
+    --------    --------    --------
+   |        |  |        |  |        |
+   |        |  |        |  |        |
+    --------    --------    --------
+
+    --------    --------    --------
+   |        |  |        |  |        |
+   |        |  |        |  |        |
+    --------    --------    --------
+
+    --------    --------    --------
+   |        |  |        |  |        |
+   |        |  |        |  |        |
+    --------    --------    --------
+
+   1-4 PLAYERS             GAME SELECT
+    --------    --------    --------
+   |        |  |        |  |        |
+   |        |  |        |  |        |
+    --------    --------    --------
+
+     Figure 3 - Keypad Overlay
+
+ PLAYER SELECTION
+
+ Press the * key (or, on your overlay, the square marked 1-4
+ PLAYERS) to cycle through 1 to 4 players.  Stop at the number of
+ players you want.
+
+ GAME SELECTION
+
+ Press the # key (or, on your overlay, the square marked GAME
+ SELECT) to select the game of your choice.  It will cycle through
+ the game names in the following order:  BREAKOUT, PROGRESSIVE,
+ DOUBLE, CAVITY.
+
+ TO START GAME
+
+ Press the START key to begin game play.
+
+ TO SERVE BALL
+
+ Press either one of the bottom, red buttons on the front right and
+ left sides of the controller to serve the ball (see Figure 2).  The
+ top, red buttons on the front right and left sides of the controller
+ do not function in this game.
+
+ RESET
+
+ Press the RESET key to return to the first option, which is one-
+ player BREAKOUT.
+
+ SPECIAL OPTIONS
+
+ * PAUSE
+ To suspend a turn in progress, press the PAUSE key.  The ball
+ will immediately freeze in its present position on the screen and
+ the game will be in a temporary state of suspension.  To continue
+ play, press the PAUSE key again.
+
+ NOTE: The PAUSE feature can only be activated when a ball is in
+ play.
+
+ * EXTRA SERVES
+ If you wish to extend your current game, you may do so by
+ acquiring five new balls.  To receive five extra serves, press the
+ number 1 key (or, on your overlay, the square marked EXTRA
+ GAMES) before the fifth ball is served in a one-player game.  In a
+ multiple-player game, this must be done before player 1 serves the
+ fifth ball.  Each player will then receive five new serves.
+
+ When this feature is activated, a solid square appears on the
+ screen below the ball or serve number, as shown in Figure 4.
+
+ NOTE:  The 5-extra-serves option can only be used once per game.
+
+   [Screenshot with the Extra Serve Indicator labeled.]
+     Figure 4 - Extra Serves
+
+ 4. TRAK-BALL OPTION (Future Accessory)
+
+ This SUPER BREAKOUT cartridge offers a TRAK-BALL option.  A
+ TRAK-BALL may be purchased separately.  To play any of the game
+ variations with a TRAK-BALL, plug the TRAK-BALL into the far, left
+ (number 1) controller jack on your console.  To select the number
+ of players and game, follow the instructions in Section 3, USING
+ THE 5200 CONTROLLERS.  You do not need a separate TRAK-BALL
+ for each player.  Simply pass the TRAK-BALL from player to player
+ as each turn comes up.
+
+ NOTE:  You can use only a TRAK-BALL or a 5200 controller in any
+ one game.  If you switch from one type of controller to the other
+ mid-game, plug in the new controller and press START.  You will
+ restart the game you last played.  To serve the ball, press the fire
+ button on your TRAK-BALL.  See your TRAK-BALL Owner's Manual
+ for details.
+
+ 5. PADDLE ACTION
+
+ After serving the ball, to make contact and keep the ball in play,
+ push your joystick or TRAK-BALL right or left.  This will move
+ your paddle horizontally back and forth across the bottom of the
+ screen.
+
+ The angle of the ball as it rebounds off the paddle depends on
+ which part of the paddle it hits.  The paddle is divided into four
+ sections.  For the first through fourth hits, the ball will bounce off
+ the paddle as shown in Figure 5-A.  After the fifth hit, the ball
+ will deflect as shown in Figure 5-B.  At this time, the ball will
+ appear to speed up slightly.  Figure 5-C shows how the ball reacts
+ after the ninth hit.  After the thirteenth hit, the ball will speed up
+ again and bounce as shown in Figure 5-D.  The ball will also speed
+ up after hitting any blue or green bricks (last four rows).
+
+ Whenever you break through the last row of bricks and the ball
+ makes contact with the boundary at the top of the playfield, the
+ paddle is reduced to half its original size.  The paddle returns to
+ normal size when a new turn begins.
+
+   [Figure showing the angles the ball deflects off the paddle in the
+   four cases described above.]
+     Figure 5 - Paddle Deflections
+
+ 6. GAME VARIATIONS
+
+ There are four separate games contained in this SUPER BREAKOUT
+ game cartridge.  The rating system and score breakdown are
+ explained in Section 7, RATING YOUR SCORE.
+
+ BREAKOUT
+
+ Each player has his own wall of bricks and corresponding score,
+ which are displayed on the screen during that player's turn.
+ Figure 6 shows a typical BREAKOUT playfield.
+
+ Each wall of bricks contains eight rows with 14 bricks in a row.  If
+ you knock out all the bricks within five turns, a new wall will
+ appear on the screen.  Each wall of bricks is worth 448 points.
+ (See Figure 1 for individual point values.)  The number of times a
+ new wall of bricks can be reset during a game is infinite.
+
+ The maximum attainable score for BREAKOUT is infinite since the
+ wall of bricks will reset indefinitely.  However, since the screen
+ display has room for only four digits per score, a player's score
+ will reset to 0000 if it passes 9999.
+
+   Figure 6 - BREAKOUT Playfield
+
+ PROGRESSIVE
+
+ The playfield in PROGRESSIVE is set up somewhat differently than
+ BREAKOUT.  When the game begins, the playfield contains four rows
+ of bricks at the top of the screen, followed by four blank rows,
+ and then four more rows of bricks, as shown in Figure 7.  There
+ are 14 bricks per row and the point value for these is defined by
+ color, as explained in Section 2, GAME PLAY
+
+ Once PROGRESSIVE game play begins, the brick walls move down or
+ "scroll" toward the bottom of the screen.  As the bricks are
+ knocked out and the walls progress toward your paddle, new
+ bricks enter the playfield at a progressively faster rate.  Four
+ rows of bricks are always separated by four rows of blank space.
+ As the brick walls progress downward, their colors change, but
+ point values for each color remain the same.
+
+ The maximum score for PROGRESSIVE is infinite, although the score
+ will reset to 0000 when it passes 9999, as in BREAKOUT.
+
+   Figure 7 - Progressive Playfield
+
+ DOUBLE
+
+ The DOUBLE playfield is the same as the BREAKOUT playfield,
+ except that there are two paddles and two balls served.  The
+ paddles are stacked one on top of the other, as shown in Figure 8.
+ The point value for each brick is defined by color, as in BREAKOUT
+ and PROGRESSIVE, except when two balls are in play, then each
+ brick is worth twice its normal amount.  When only one ball is in
+ play, point value returns to normal.
+
+ If you miss the first ball served, it counts as a miss and goes
+ against your allotted serves (turns) per game.  Otherwise, the
+ second ball is served.  If you miss the second ball after hitting the
+ first ball, play continues until you miss the first ball.  After both
+ balls are in play (have been hit at least once), one may be missed
+ while the other remains in play.
+
+ The wall of bricks will reset two additional times after the initial
+ wall is knocked out.  The maximum score possible for DOUBLE is
+ 2688.
+
+   Figure 8 - Double Playfield
+
+ CAVITY
+
+ The CAVITY playfield contains slightly fewer bricks than other
+ SUPER BREAKOUT games.  This allows room for two "cavities", each
+ of which contains a ball (see Figure 9).  When the game begins, the
+ balls bounce inside each cavity but are held captive.  There are
+ two paddles, as in DOUBLE.
+
+ A ball is served.  Point values of the bricks remain the same as in
+ other games when only one ball is in play.  However, when enough
+ bricks are broken out to release a captive ball, each brick is then
+ worth twice its normal amount when hit.  If the second captive ball
+ is freed and three balls are kept in play, bricks are worth triple
+ their normal amount.
+
+ If any one of the three balls is missed, the scoring returns to
+ double points.  If the second ball is missed and only one ball
+ remains on the playfield, the point value of the bricks returns to
+ normal.
+
+ The wall of bricks will reset two additional times, making a maximum
+ score possibility of approximately 3500 points.
+
+   Figure 9 - Cavity Playfield
+
+ 7. RATING YOUR SCORE
+
+ At the conclusion of each game a "rating" is alternately displayed
+ on the screen in the same position as your total score.  In
+ multiple-player games, the ratings are alternately displayed with
+ each player's total score.
+
+ The following chart gives a point breakdown of the various ratings:
+
+                     RATING CHART
+
+          BREAKOUT  PROGRESSIVE  DOUBLE     CAVITY
+
+   OOPS      0-99       0-199      0-199      0-199
+   FAIR    100-199    200-399    200-399    200-399
+   GOOD    200-599    400-799    400-599    400-799
+   ACE     600-999    800-1399   600-999    800-1199
+   PRO    1000-1599  1400-2199  1000-1399  1200-1799
+   STAR   1600-2499  2200-3199  1400-1999  1800-2399
+   WOW!   2500-3599  3200-4399  2000-2599  2400-2699
+   BEST   3600 and   4400 and   2600 to    2700 and
+            above      above    2688 max.    above
+
+ 8. HELPFUL HINTS
+
+ When playing any of the SUPER BREAKOUT games, your best bet is
+ to work your way out through the right or left corner of the
+ playfield.  The corners seem to be the easiest points at which to
+ establish a "groove".
+
+ Be prepared for the ball to return at a faster speed when it hits
+ the bricks in the last four rows (or the upper rows of bricks in
+ PROGRESSIVE).  You can miss a lot of shots simply by not being
+ prepared.
+
+ Don't panic when the ball reaches the top boundary of the playfield
+ and your paddle reduces to half its original size.  All it takes to
+ keep the ball in play at this point is a little more concentration,
+ and a finer touch on the controller.  In time you'll have no trouble
+ at all keeping the ball in play when your paddle is reduced in size.
+
+ Learn to anticipate where the ball is going to be. Anticipation can
+ be a key factor, particularly when the ball bounces off one of the
+ side boundaries near the bottom of the playfield. When the ball is
+ traveling at high speed, you won't always have time to react and
+ move your paddle to the right position. Your paddle will have to be
+ in the correct position in advance.
+
+ 9. YOUR BEST GAME SCORES
+
+ Name:             Date:    Score:
+ _______________   ______   ________
+ _______________   ______   ________
+ _______________   ______   ________
+ _______________   ______   ________
+ [etc.]
+
+ END
+
+ Typed by Jay Tilton (tiltonj@erols.com)
+
+ for Atari Gaming Headquarters

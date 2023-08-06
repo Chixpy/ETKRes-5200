@@ -1,0 +1,106 @@
+
+ H.E.R.O.
+
+ BY ACTIVISION
+
+ by John van Ryzin
+
+ DOWN AND DIRTY!
+ Reach miners trapped miles under the surface of the earth! Use
+ the Prop-pack to maneuver through a maze of mineshafts! Blast
+ vile vermin with the Microlaser Beam! Dynamite walls! Negotiate
+ across the lethal lava flow! Rescue all the miners you can
+ before running out of lives or power!
+
+ Insructions for the Atari 5200
+
+ GETTING STARTED
+ *Insert cartridge. Turn power ON.
+ *Press a number 1-5 to select one of the five one-player games.
+ The higher the number, the greater the challenge.
+ *To begin, press START and move Joystick.
+ *RESERVES. Begin with one life in use and three in reserve.
+ Acquire an additional life, to a maximum of six in reserve, for
+ every 20,000 points earned.
+ *POWER GAUGE. Power begins to diminish when you move the Joystick
+ after Rod Hero appears onscreen. If power runs out and a reserve
+ life remains, you return to the top of that level.
+ *Game ends when you run out of lives.
+
+ VARIATIONS
+ Game Number            Starting Level
+ 1                             1
+ 2                             5
+ 3                             9
+ 4                             13
+ 5                             17*
+ *All following levels are random and no level number appears.
+ In games 1-4, the word PRO appears in place of the level
+ number after level 20.
+
+ EQUIPMENT CHECK
+ Prop-pack.
+ *To fly up or run or fly left or right: Push Joystick in that
+ direction.
+ *To hover: Tap Joystick forward.
+ *To fly down a shaft: Step off the ledge.
+ Microlaser Beam. Your helmet's Microlaser Beam can blast
+ creatures or slice through small walls.
+ *To fire: Press either bottom side button. Hold for continuous
+ fire.
+ Dynamite. Each of the six sticks you begin with can blow up all
+ or part of a small wall.
+ *Land or move near a wall.
+ *To place and ignite: Press either top side button. Then move
+ fast or be blown up!
+ Raft. Ride the raft whenever it appears.
+ Lanterns. Careful! Touch or shoot out a lantern and that section
+ of the mine goes dark.
+
+ SCORING:
+ *Shoot a critter:                   50 points
+ *Each dynamite stick remaining
+  when miner is rescued:             50 points
+ *Dynamite a wall:                   75 points
+ *Rescue miner:                    1000 points
+ *Earn points for every unit of power left when a miner is rescued.
+ The higher the level number, the more each power unit is worth.
+ You've saved the day when the score reaches 1,000,000.
+
+ Join the "Order of the H.E.R.O."
+ Score 70,000 points or more and join the "Order of the H.E.R.O.!"
+ Fill out the attached coupon and send us a picture of your TV
+ screen showing your score. We'll send you an official emblem.
+ Be sure to write "H.E.R.O. 5200" on the front corner of the
+ envelope, and include $1.00 per emblem to cover shipping and
+ handling.
+
+ H.E.R.O. adapted by The Softworks
+
+ coupon (VOID)
+ My H.E.R.O. score is at least 70,000. I have attached a picture
+ of my TV screen displaying the score. I am including $1.00 per
+ patch for shipping and handling. Please enroll me and send my
+ emblem to:
+ NAME(Please print):
+ ADDRESS(Street or P.O. Box):
+ CITY:
+ STATE:
+ ZIP CODE:
+ Please circle those systems you own: Atari2600, 400, 800, 5200;
+ Coleco; Commodore 64; Intellivision.
+
+ Mail your complete form, picture and check or money order
+ (no cash please) to:
+ ACTIVISION, INC.
+ P.O. Box 7287
+ Mountain View, CA 94039
+
+ For information about new releases, call 800-633-4263 anytime
+ on the weekend. In California, call (415) 940-6044/5.
+
+ END
+
+ Typed by Robert "Ferg" Ferguson (wombat2@ix.netcom.com)
+
+ for Atari Gaming Headquarters

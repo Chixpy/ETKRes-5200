@@ -1,0 +1,263 @@
+
+ POLE POSITION
+
+ BY ATARI, INC.
+
+ Insert your 5200 game cartridge so the label faces you and reads
+ right-side-up.  Be sure the cartridge is firmly seated in the center
+ of the console, but do not force it.  Then press the POWER switch on.
+ See your Owner's Manual for further details.
+
+ TABLE OF CONTENTS
+ -----------------
+
+ 1.  Grand Prix Finish
+ 2.  Game Summary
+ 3.  Game Play
+ 4.  Options
+ 5.  Using the Controller
+ 6.  Trak-Ball Option
+ 7.  Scoring
+ 8.  Helpful Hints
+
+ 1.  GRAND PRIX FINISH
+ ---------------------
+
+ You're on the final lap.  Grand prix driver Nick Moneti is holding
+ first place like grim death but you're determined to get him.  You
+ slip in behind him and put on the pressure, dodging right and left,
+ backing off, closing in.  But try as you will, you can't get by him.
+ Moneti stays fixed and unshakable, and time is running out.
+
+ Coming up is the dangerous right-hand curve before the finishing
+ straight, a chance to pass if you're lucky and lunatic enough.  If
+ only Moneti would make a mistake, just one!  Then like the answer to
+ a prayer, it happens: Moneti brakes too late going into the curve and
+ skids to the outside lane.  That's it!  You jam your foot to the
+ floor and go for an inside pass.  But Moneti recovers in time,
+ switches back to the inside, and forces you onto the shoulder.
+ You're heading straight for a road sign at 180 mph.
+
+ You miss the sign by a screech, and swerve back onto the track, but
+ the damage is done: Moneti has a 1-second lead going into the final
+ straight.  Flat out at 195 mph, you pull up wheel-to-wheel and fight
+ down to the finish line.  Then coaxing forth a final burst of speed,
+ you shoot past and cross with the flag... victor by a hair!
+
+ 2.  GAME SUMMARY
+ ----------------
+
+ The object of POLE POSITION is to finish the big race in the shortest
+ possible time and score maximum points.  But before you can enter the
+ race, you have to qualify for it by completing the Qualifying Lap in
+ 73 seconds or less.  If you qualify, you're assigned one of eight
+ positions in the starting lineup and you earn a Position Bonus.  The
+ faster your lap time, the better your position, and the more bonus
+ points you score.  Try for the number one spot, the Pole Position.
+
+ If you don't qualify, you can race until the Race Timer runs out
+ after 90 seconds.  You score 50 points ever 5 meters and earn 50
+ bonus points every time you pass a car.  When the timer runs out,
+ your passing bonus is added to your score.  Then GAME OVER (plus the
+ race and lap options) appears on your screen.  Press the START button
+ to repeat the Qualifying Lap.
+
+ NOTE: POLE POSITION goes into Auto-Play mode approximately 1 minute
+ after GAME OVER appears on your television screen.
+
+ In the big race, you're racing against time as well as other cars.
+ If you fail to beat the Race Timer on any lap, you're dropped out of
+ the race.  After your passing bonus is added to your score, the game
+ ends.  Press START and qualify for the next race.
+
+ If you complete the final lap and cross the finish line, you're a
+ real winner!  You score high on distance covered, collect a passing
+ bonus, and earn 200 bonus points for each second left on the Race
+ Timer.
+
+ 3.  GAME PLAY
+ -------------
+
+ QUALIFYING LAP
+
+ The Qualifying Lap is one complete circuit of the race course:
+
+ Your starting position and Position Bonus appear in the center of the
+ screen at the end of the Qualifying Lap when you qualify for the big
+ race.
+
+ A lap time of 73 seconds (73"00) qualifies you for eighth place in
+ the starting lineup and earns you 200 bonus points.  To win the
+ Pole Position and 4000 bonus points, you must do the lap in 59 1/2
+ seconds (58"50) or less.  See Section 7, SCORING, for other Position
+ Bonuses.
+
+ THE RACE
+
+ Four starting lights blink the countdown.  Shift into low gear on the
+ red lights and move out fast on the green.  Shift into high gear
+ when you're up to speed.  See Section 5, USING THE CONTROLLER, for
+ car controls.
+
+ Complete the first lap in 75 seconds or less to earn Extended Play
+ time and go on racing.  Each time you beat the Race Timer, you earn
+ more racing time until you're on the final lap.  A race can have as
+ many as eight laps (see Section 4, OPTIONS).  The lap you're on and
+ your lap timer appear at the top right of the screen.
+
+ PASSING BONUS
+
+ Your passing bonus (50 points per car) appears in the center of the
+ screen at the end of the race, or at the end of the Qualifying Lap if
+ you fail to qualify for the race.
+
+ THE FINISH
+
+ Victory is at hand when crossing checkered flags flash on your
+ screen, but you're not a winner until you cross the finish line.
+
+ TIME BONUS
+
+ If seconds remain on the Race Timer at the end of the race, you earn
+ a time bonus of 200 points per second.  The time bonus appears in the
+ center of the screen and is followed by your total lap time for the race.
+
+ SMASHUPS
+
+ If you smash into another car or a road sign, your car explodes.  You
+ live to continue the race, but you lose a lot of time.  Lost time
+ means lost points.
+
+ DRIVING OFF THE TRACK
+
+ You can drive onto the red-and-white shoulder and the grass but it
+ slows you down.
+
+ 4.  OPTIONS
+ -----------
+
+ RACES
+
+ In order of difficulty, the races are:
+
+ * Pracice Run
+ * Malibu Grand Prix
+ * Namco Speedway
+ * Atari Grand Prix
+
+ The level of difficulty depends upon the number of cars on the track.
+ POLE POSITION is set for the Malibu Grand Prix.
+
+ There are no other cars on the track in the PRACTICE RUN.  YOu're
+ racing against the Race Timer to improve your lap time and driving
+ skills.  Total time for the run appears on your screen at the end of
+ the final lap.
+
+ LAPS
+
+ You can choose from one to eight laps per race or practice run.  POLE
+ POSITION is set for four laps.
+
+ SELECTING OPTIONS
+
+ Press the * key on the keypad to select races or the practice run.
+ Press the # key to select the number of laps in the race.
+
+ 5.  USING THE CONTROLLER
+ ------------------------
+
+ Plug a 5200 controller into jack 1 on the front of the console unit.
+
+ GAME CONTROLS
+
+ START.  Press START to begin the Qualifying Lap.  Press PAUSE before
+ START to interrupt the race and return to the Qualifying Lap.
+
+ PAUSE.  Press PAUSE to stop the race temporarily.  Press it again to
+ continue.
+
+ RESET.  Press RESET to display the options.  Press PAUSE before RESET
+ to interrupt a race and display the options.
+
+ CAR CONTROLS
+
+ TO START AND ACCELERATE:  Press and hold in one or both of the bottom
+ red buttons on your controller.  Always start in low gear.
+
+ TO SHIFT GEARS:  Move the joystick up for low gear, down for high
+ gear.  Top speeds are 105 mph for low gear, 195 mph for high gear.
+
+ TO STEER:  Move the joystick right or left.
+
+ TO BRAKE:  Press one or both of the top red controller buttons.
+
+ TO SLOW DOWN:  Shift into low gear, take your finger off the
+ accelerator button, or press the brake button.
+
+ 6.  TRAK-BALL OPTION
+ --------------------
+
+ POLE POSITION can be played with an ATARI TRAK-BALL controller, which
+ may be purchased seperately.  Plug the TRAK-BALL controller into
+ jack 1 on the front of the console.
+
+ Use the ball to steer your car.  Hold in one of the red fire buttons
+ to start your car and keep it moving.  Press one of the red auxiliary
+ buttons to brake (see diagram).
+
+ On the keypad (left or right pad), press the 1 key to shift into low
+ gear, the 7 key to shift into high gear, the * key to select your
+ race or practice run, and the # key to select the number of laps.
+
+ START, PAUSE and RESET operate as described in Section 5, USING THE
+ CONTROLLER.
+
+ 7.  SCORING
+ -----------
+
+ *  50 points for every 5 meters driven.
+ *  Passing Bonus: 50 points per car.
+ *  Time Bonus: 200 bonus points for each second left on the Race
+    Timer at the finish.
+
+                         POSITION BONUS
+ Position              Lap Time (seconds)        Points
+
+ POLE POSITION             58"50                 4000
+ 2nd                       60"00                 2000
+ 3rd                       62"00                 1400
+ 4th                       64"00                 1000
+ 5th                       66"00                  800
+ 6th                       68"00                  600
+ 7th                       70"00                  400
+ 8th                       73"00                  200
+
+ 8.  HELPFUL HINTS
+ -----------------
+
+ MAKE A FAST START
+ In the Qualifying Lap, be prepared to take off as soon as your
+ Formula 1 racer appears on the screen.  The start is everything when
+ you're qualifying for position.
+
+ USE THE INSIDE TRACK
+ Stay on the inside lane as much as possible.  You can travel faster
+ and maneuver more easily around other cars.  on curves, it's easier
+ to cross from the inside to the outside than the other way around.
+
+ GO FLAT OUT ON STRAIGHTS
+ This is where you can make time.
+
+ AVOID SKIDS
+ Try to keep your car on the road to prevent skids.  Skidding slows
+ you down and gives other cars a chance to outdistance you.  Remember,
+ you earn 50 points for every car you pass.
+
+ PASS ON THE SHOULDER
+ Running on the red-and-white shoulder slows you down, but it can
+ sometimes be the fastest and easiest way to overtake cars.  Just be
+ careful not to run into any road signs.
+
+ END
+
+ Typed by Keita Iida (keita@mindspring.com)

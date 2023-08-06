@@ -1,0 +1,81 @@
+
+ CHOPLIFTER
+
+ BY ATARI, INC.
+
+ SAVE THE HOSTAGES!
+
+ Get ready for the most heroic adventure imaginable!  Sixty-four
+ frightened United Nations diplomats are being held hostage behind
+ enemy lines, and it's up to you to rescue them.  In the dead of
+ night, you pilot your smuggled helicopter from the isolated post
+ office serving as rescue-mission headquarters, past defending tanks,
+ jets, and guided missiles.  You pick up as many people as your
+ chopper will hold and carry them to freedom.  Keep a sharp eye out,
+ though -- the enemy, a nation of lunatics called Bungelings, will be
+ there at every turn to thwart you!
+
+ GETTING STARTED
+ ---------------
+
+ Insert the CHOPLIFTER! cartridge as explained in your 5200
+ SuperSystem owner's guide, and turn on your system.
+
+ Plug a joystick controller into jack 1 to play.
+
+ Press START to begin your mission.
+
+ Press PAUSE to stop during a game; press it again to resume play.
+
+ Press RESET to start the game over when you're in the middile of it.
+
+ MISSION INSTRUCTIONS: MANEUVERING YOUR CHOPPER
+ ----------------------------------------------
+
+ The hostages are being held in barraks inside enemy territory.  Use
+ your joystick to pilot your chopper.  Press either top fire button
+ to blast at oncoming enemy targets.  Press either bottom fire button
+ to turn your helicopter forward to shoot tanks, or to turn your
+ chopper completely around.
+
+ Some of the barracks have been blown open by enemy fire -- you can
+ see the hostages scrambling to be saved, waving frantically for your
+ attention.  Use your joystick to set down your chopper and pick them
+ up.  Once aboard, it's your job to pilot them safely back to rescue-
+ mission headquarters and drop them off.
+
+ Your mission consists of a total of three sorties to save as many
+ hostages as you can.  Of course, the people of the world are
+ depending on you to rescue them all.  The game ends when you lose
+ your third helicopter, or the 64 hostages are saved or lost to the
+ enemy.
+
+ SCORING
+ -------
+
+ A tally at the top of your screen shows, from left to right, the
+ number of hostages lost, the number inside the helicopter (which
+ has a seating capacity of 16), and the number successfully rescued.
+
+ STRATEGY CLUES
+ --------------
+
+ * Don't land on the hostages -- it's a deadly maneuver.
+
+ * Guided enemy missiles can attack you on your side of the barrier;
+   tanks and jets can't.
+
+ * You can only pick up those hostages that have been freed from the
+   locked barracks.  One way to help them escape, is to position your
+   chopper in front of a barrack and wait for a tank to fire a shot
+   towards you.  In many instances the tank will blow a hole in the
+   side of the barrack and the hostages will come running out.
+
+ * The hostages are extremely frightened and need assistance in
+   getting out of the helicopter.  Make sure you land directly on the
+   cement landing pad next to the post office, or they'll refuse to
+   get out.
+
+ END
+
+ Typed by Keita Iida (keita@mindspring.com)

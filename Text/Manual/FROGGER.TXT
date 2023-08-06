@@ -1,0 +1,217 @@
+
+ FROGGER
+
+ BY PARKER BROTHERS
+
+ Leapin' Frogger!  Home may look like it's only a hop, skip, and a
+ jump away, but looks can be deceiving.  First, there's a dangerous
+ highway to hop across.  Then there's a raging river to leap, full of
+ tricky diving turtles and frog-eating creatures.  How's Frogger going
+ to get home safely?  By letting YOU guide him through his perilous
+ journey!
+
+ OBJECT
+ ------
+
+ The object of the game is to hope as many frogs to safety as you
+ can -- and to score the most points along the way!
+
+ SETTING THE CONSOLE CONTROLS
+ ----------------------------
+
+ 1.  Make sure the cartridge is placed firmly into the cartridge slot.
+     Then plug one or two hand-held controllers into controller jacks
+     labeled "1" and "2."  Use the controller in the "1" jack for a
+     one-player game.
+
+ 2.  Press the OFF/ON switch to ON.
+
+ 3.  Place a keypad overlay onto each keypad, as shown in the
+     illustration, then select the game options you desire:
+
+     * Press down the "1-2 PLAYER" button (keypad button "#") to
+       choose a 1- or 2-player game.  You'll see "2 UP" on the bottom
+       center of the screen to indicate a 2-player game.
+
+     * Press down the FAST/SLOW button (keypad button "*") to choose
+       the speed of the game -- slow or fast.  The speed is indicated
+       in the upper left-hand corner of the screen.
+
+     * Press down the JOYSTICK/KEYPAD button (keypad button "O" to
+       choose whether you'll play with the joystick or the keypad.
+       You'll see your choice indicated next to the speed at the top
+       of the screen.
+
+ 4.  Press down the START or RESET button on the controller on the "1"
+     jack to begin play.
+
+ USING THE KEYPAD OR JOYSTICK
+ ----------------------------
+
+ Keypad:  Using four keypad buttons to control the direction of
+ Frogger's movement.  Press button #2 to hop Frogger forward, button
+ #8 to hop Frogger backward, button #4 to hop Frogger left, and button
+ #6 to hop Frogger right.
+
+ Joystick:  Use the joystick to turn Frogger in the direction you wish
+ him to hop.  Then press AND COMPLETELY RELEASE the lower fire button
+ on the side of the controller to hop Frogger once in that direction.
+
+ Note:  The frantic pace of Frogger may leave you breathless, but
+ don't try to catch your breath with the PAUSE button.  There's no
+ stopping the fast-paced action of the game!
+
+ PLAYING
+ -------
+
+ This illustration shows the journey Frogger has to make -- from the
+ grass to the home bay.
+
+ You'll start the game with 5 frogs.  The first frog is shown on the
+ grass below the traffic.  The remaining frogs are shown on the upper
+ right-hand corner of the screen.
+
+ TIME BAND
+ ---------
+
+ You have only a limited amount of time to move your frogs from the
+ grass and into a home bay.
+
+ Time is monitored by the time band, and line located next to the word
+ "TIME" at the bottom of the screen.  You have approximately 30
+ seconds to move each frog home.  When you have only a short amount
+ of time left, you'll hear a warning sound and see the word "TIME" and
+ the time band change colors.  If you run out of time before you get
+ a frog hom, you'll hear a "splat" sound and see a skull and
+ crossbones symbol on the spot where the frog was when the time ran
+ out.
+
+ FROM GRASS TO SIDEWALK
+ ----------------------
+
+ Your frogs start on the grass, facing four lanes of traffic.  As soon
+ as the music starts to play, the time band starts to move -- so start
+ your frog hopping!
+
+ Try to get through the lanes of traffic to the sidewalk.  Traffic
+ travels in alternating directions and at different speeds, so be
+ careful.  Your frog will get "splatted" if he touches any part of a
+ vehicle or is run over!
+
+ FROM SIDEWALK TO RIVER
+ ----------------------
+
+ Because the current in the river is too strong, your frogs have to
+ hop onto objects on the river to get to their home.  There are three
+ different objects your frogs can use:
+
+ 1.  Logs: Your frog can hop from side to side on a log; h can also
+     jump forward and backward onto another floating object.  But he
+     can't jump onto another floating object from the left or right
+     off a log.
+
+ 2.  Turtles: Your frog can hop onto a turtle's back, as well as
+     between a group of two or three of thm.  He can jump forward or
+     backward from a turtle onto another floating object.  But he
+     can't jump onto another floating object from the left or right
+     off either of the end turtles.
+
+ 3.  Diving Turtles: These tricky turtles can float on the water and
+     dive under the water!  It's okay to jump your frog onto the back
+     of a partially submerged turtle.  However, be prepared to hop
+     onto another object fast before the turtle dives!
+
+ While crossing a river, here are some other things to watch for:
+
+ 1.  Pink Frog: Occassionally, you'll see a pink "lady" frog on a log.
+     Hope your frog onto her to pick her up.  Now try to get her --
+     and your frog -- home to safety.  When you do, you'll see the
+     amount of bonus points you earned in white numerals in the home
+     bay.
+
+ 2.  Alligators: It's safe for your frog to jump onto an alligator's
+     back, but your frog's a goner if he jumps onto the alligator's
+     jaws!
+
+ 3.  Snakes: Snakes will appear on the sidewalk and logs as the game
+     gets more difficult.  It's safe for your frog to jump onto a
+     snake's body, but not onto a snake's head.
+
+ FROM RIVER TO HOME BAY
+ ----------------------
+
+ Successfully hop a frog into a home bay, and he's home safe and
+ sound!  You score points each time you bring a frog home, and you'll
+ get extra points every time you bring five frogs home.
+
+ When leaping a frog into a home bay, here are some things to watch
+ for:
+
+ 1.  Jumping Home: Hop your frog into a home bay when he's DIRECTLY
+     in front of it.  If your frog hits any part of the shrubbery on
+     the sides of the home, you'll lose him.
+
+ 2.  Occupied Home Bay: A frog can't jump into a home bay that's
+     occupied by another frog.
+
+ 3.  Alligator's Head: When an alligator's head is showing in a home
+     bay, it's not safe for your frog to jump in.
+
+ 4.  Bonus Fly: When you hop your frog into a home bay that has a fly
+     in it, your frog gets a free meal! -- and you get bonus points.
+
+ GAME DIFFICULTY
+ ---------------
+
+ Every time you bring five frogs home, you'll hear a short tune.
+ Then the game will continue at a more difficult game level with your
+ remaining frogs.  The speed of the cars will vary from lane to lane.
+ The speed of the cars will vary from lane to lane.  Traffic patterns
+ will change.  There will be fewer floating objects on the river, and
+ the speed of the objects will vary from fast to slow.  Frog-eating
+ snakes will also appear on the sidewalk and on some of the logs.
+
+ END OF GAME
+ -----------
+
+ The game ends when no frogs are left.
+
+ To Play Again: Press the START or RESET button on the controller in
+ the "1" jack to play again at the same speed and with the same number
+ of players.  To change the game's speed or number of players, refer
+ to the instructions under "Setting the Console Controls."
+
+ TWO-PLAYER GAMES
+ ----------------
+
+ The left player goes first; players then alternate turns.  At the
+ start of your turn, you may press the FAST/SLOW button to change the
+ speed at which you play your portion of the game.
+
+ The left player's score is on the bottom left side of the screen; the
+ right player's score is on the bottom right side of the screen.  The
+ score will show in white numerals during a player's turn; the other
+ player's score will be shown in green numerals.
+
+ Your turn ends when you lose a frog; you begin your turn again with
+ your remaining frogs.  The game ends once both players have lost all
+ their frogs.
+
+ SCORING
+ -------
+
+ In a one-player game, your score is displayed throughout the game in
+ white numerals at the bottom of the screen.  Points accumulate as
+ follows:
+
+ Successfully jumping frog forward ................... 10 points
+ Successfully jumping a frog into a home bad.......... 50 points
+ Successfully jumping five frogs home .............. 1000 points
+ Rescuing a pink "lady" frog ........................ 200 points
+ Eating a bonus fly ................................. 200 points
+ Taking a frog home before its time is up ............ 10 points
+                                            per remaining second
+
+ END
+
+ Typed by Keita Iida (keita@mindspring.com)

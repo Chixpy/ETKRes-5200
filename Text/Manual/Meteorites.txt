@@ -1,0 +1,107 @@
+
+ METEORITES
+
+ BY ELECTRA CONCEPTS
+
+ NOTE: Always turn the console power switch off when inserting or
+ removing game cartrige from console.
+
+ OBJECT OF THE GAME
+
+ Meteorites is a series of rounds in which the game player(s) tries to
+ score as many points as possible by breaking up various size
+ meteorites until they are completely destroyed.  New rounds begin
+ with more numerous waves of meteorites.  Alien ships make attack runs
+ on your ship during game play.  These attack ships can be destroyed
+ by your Photon Cannon or be avoided until they leave the screen or
+ collide with the meteorites themselves.
+
+ GETTING READY TO PLAY
+
+ Meteorites is for one or two players.  In a two player mode, rounds
+ alternate with only one player on the screen at a time.  Both players
+ use the same controller.  Set Game Select (1 or 2 players) by
+ pressing any numbered key (0-9) or # on the Atari analog controller.
+ A second white zero appears in the upper right corner of the screen
+ for second player scoring totals.  "START", "RESET" and "PAUSE"
+ buttons control their respective functions.  Pressing "PAUSE" a
+ second time restarts the game.  The number of ships left in the game
+ for each player appears on the bottom left or right corners of the
+ screen.
+
+ CONTROLLING THE SHIP
+
+ Your ship's flight altitude, speed and photon cannon are controlled
+ by the joystick and both (upper and lower) fire buttons.  Pushing the
+ joystick forward ignites the main engine thrusters providing
+ acceleration in the direction your ship is pointing.
+
+ Moving the joystick to the right engages clockwise rotation of the
+ ship.  Moving the joystick to the left engages counter-clockwise
+ rotation of the ship.  The photon cannon fires forward when the
+ primary fire button (lower button) is pressed.
+
+ HYPERSPACE.  When collision with a traveling meteorite appears
+ likely, the secondary fire button (upper button) can be used to
+ engage your ship's hyperspace engines to get out of danger.  But
+ beware, frequent escapes to hyperspace may cause your engines to
+ overheat, causing a chance of re-entry explosion when your ship
+ reappears on the screen.
+
+ SCORING
+
+ Player points total from the following hits or destroys by your
+ photon cannon.
+
+ Large meteorites     20 PTS.
+ Normal meteorites    50 PTS.
+ Small meteorites    100 PTS.
+ Large alien ships   200 PTS.
+ Small alien ships  1000 PTS.
+
+ Extra ships are awarded to players every 10,000 points scored.
+
+ FLYING TIPS
+
+ Game action takes place in Deep Space with almost no gravity or
+ inertia.  Even short bursts of engine thrusters are enough to move
+ your ship across the screen.  To stop the ship, it must be rotated
+ until engines face the direction the ship is moving and a retro-fire
+ burn must be used to slow down the ship until it is near a
+ standstill.  The existing gravity will be enough to bring it to a
+ complete stop.
+
+ HELPFUL HINTS
+
+ 1.  Beware of radar ghosting which can create phantom meteorites on
+ the edges of the screen.  Your photon missiles may appear to pass
+ through these meteorites, but they will be tracked accurately once
+ they move towards the center.
+
+ 2.  Keep your ship away from the edges where meteorites and alien
+ ships may take you by surprise.
+
+ 3.  For accurate firing and thrusting, view the direction of the ship
+ as the imaginary line defined by the navigation lights on the bow
+ (front) and stern (back) of the ship.
+
+ 4.  Fire continuously while the ship is in hyperspace.  This will
+ make it easier to locate the ship when it reappears on the screen.
+
+ SPECIAL NOTE
+
+ Meteorites will respond as well as any 5200 cartridge to the analog
+ controller supplied with the 5200 system.
+
+ Much of the development programming was done with a digital (Atari
+ 2600 type joystick) and a Masterplay 5200 Interface.
+
+ We highly recommend the game player compare playing Meteorites both
+ with and without the 5200 interface and your favorite 2600 compatible
+ joystick.  Our engineers and programmers found this latter set-up
+ afforded the fast response time and accuracy of movement for more
+ enjoyable and exciting game play.
+
+ END
+
+ Typed by Keita Iida (keita@mindspring.com

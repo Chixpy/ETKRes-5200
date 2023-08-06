@@ -1,0 +1,323 @@
+
+ CENTIPEDE
+
+ BY ATARI, INC.
+
+ To insert your 5200 game cartridge, hold the cartridge so the name on
+ the label faces you and reads right-side-up.  Then carefully insert
+ the cartridge into the slot in the center of the console.  Be sure
+ the cartridge is firmly seated, but do not force it in.  The POWER
+ ON/OFF switch is located on the lower right side of the 5200 console
+ unit.  Press this switch to turn the power on AFTER inserting your
+ game cartridge.  See your Owner' Manual for further information.
+
+ TABLE OF CONTENTS
+
+ 1. The Enchanted Forest
+ 2. Game Play
+ 3. Using the 5200 Controllers
+ 4. TRAK-BALL Option
+ 5. Scoring
+ 6. Game Variations
+ 7. Helpful Hints
+ 8. Score Ledger
+
+ 1. THE ENCHANTED FOREST
+
+ One glorious spring day you hike into a dense forest that you've
+ never before explored.  As you push deeper into the woods, the trees
+ close up behind you and the forest grows increasingly dark and
+ ominous.  You get a creepy feeling and decide to go back.  A chill
+ plays up and down your spine when you turn and realize you're lost.
+ You collapse onto a flat rock beneath an enormous spreading tree and
+ try to regain your sense of direction.  A grey squirrel chatters at
+ you.
+
+ "How do I get out of here?" you sigh out loud.  To your amazement,
+ the squirrel speaks!
+
+ "Help us and we'll show you the way home," promises the squirrel.
+
+ "What?"
+
+ "This is an enchanted forest," explains the squirrel. "We
+ peace-loving animals must suffer the hostile attacks of an evil
+ centipede, a deadly spider, a venomous flea, and a poisonous
+ scorpion.  We've waited a long time for a heroic human to enter our
+ realm and release us from the centipede's cruel dominion.  Will you
+ help?"
+
+ "I guess so.  But how?"
+
+ The forest rustles as dozens of small animals rally around you.
+ Rabbits, birds, deer, raccoons, muskrats, butterflies--and more
+ creatures than you can name--appear.  A bird flies over, releasing
+ three white feathers.
+
+ "Catch those," the squirrel instructs.
+
+ As you catch the feathers, they transform into three glowing wands.
+ "Now you can go to battle for us," says the squirrel.  "With those
+ magic wands, you can shoot sparks at the centipede.  When any section
+ of the centipede is hit, it turns into a powerless mushroom.  You can
+ also stun the spider, flea, and scorpion with sparks, and they will
+ disappear for a short time.  But, if one of them bites you before you
+ spark it, you lose consciousness and your magic wand is snatched
+ away."
+
+ Suddenly, you hear a leaf-shaking shriek and the animals scurry about
+ in a frenzy of terror.
+
+ "Look out!" cries the squirrel, "Here comes the centipede!"
+
+ 2. GAME PLAY
+
+ You start the game with three magic wands.  Every time you score
+ 12,000 points, you win a bonus wand and musical fanfare exalts your
+ bravery.  You can have a total of six magic wands at one time.  When
+ you lose your last magic wand, the game ends.
+
+ If the centipede, spider, or flea bites you, your wand is snatched
+ away and you become temporarily paralyzed.  The game will stop
+ momentarily and all the mushrooms you partially destroyed during the
+ battle are restored.  Your points are added to your running score,
+ and the rejuvenated centipede attacks again from the top.  You must
+ replay the previous wave until the centipede is totally destroyed.
+ Figure 1 shows a typical CENTIPEDE battlefield and Figure 2 shows a
+ two-player game in progress.
+
+ OBJECTIVE
+
+ Use your magic wands to score as many points as possible.  (See
+ Section 5 for information on SCORING.)  Use strategy and quick
+ thinking to avoid the paralyzing insect bites.  The Enchanted Forest
+ is a challenging, but dangerous region.  By learning about the
+ dangers that lurk behind every mushroom, you can become a skilled and
+ heroic wand wielder.
+
+           Figure 1 - CENTIPEDE Attack Wave
+
+           Figure 2 - Two-Player Game
+
+ INHABITANTS OF THE ENCHANTED FOREST
+
+ CENTIPEDE
+ Consisting of 12 body segments, the centipede attacks from the top of
+ the screen and winds down toward you.  Each time you hit a segment,
+ it becomes a powerless mushroom and the body segment behind that
+ mushroom becomes the head of a new centipede.  When you shoot every
+ segment of a centipede, the centipede disappears briefly, then
+ reappears at the top in a new and fiercer attack formation.
+
+ The centipede attacks in 12 distinct waves.  In Wave 1, the centipede
+ is composed of a head attached to 11 body parts.  In Wave 2. it has
+ a head attached to 10 body parts plus a detached head.  The Wave 3
+ centipede is composed of 9 body segments with one head attached and
+ 2 detached heads. The centipede continues to transform a body segment
+ into a head until Wave 12 when it has 12 independently moving heads.
+ (See Figure 3.)
+
+           Figure 3 - Centipede Attack Formations, Waves 1-3
+
+ MAGIC MUSHROOMS
+ Dotting the forest floor are magic mushrooms.  These act like shields
+ for you and can speed the centipede in its attack.  The centipede
+ slides along horizontally in one direction.  When it gets to a
+ mushroom or the edge of the screen, it turns down to the next row of
+ mushrooms and continues in the opposite direction.  It takes four
+ hits to eliminate an entire mushroom.  At the end of each wave, all
+ partially destroyed mushrooms are magically restored to the forest.
+
+ SPIDER
+ In its attempt to distract you from shooting the centipede, the
+ spider jumps all over the battlefield, eliminating some of the
+ mushrooms it touches.  The closer the spider comes, the more points
+ you score when you zap it.  (See Section 5 for more information on
+ SCORING.)
+
+ FLEA
+ The flea starts bugging you after you shoot away most of the
+ mushrooms near you.  It drops straight down, creating mushrooms as it
+ falls.  You must hit the flea twice to make it disappear.
+
+ Warning:  After the first shot, the flea drops more than twice as
+ fast!
+
+ SCORPION
+ By the third wave, the scorpion scurries across the middle of the
+ battlefield, poisoning every mushroom it touches.  At first it moves
+ slowly, then it moves faster and appears more frequently as the game
+ progresses.
+
+ POISONED MUSHROOMS
+ Poisoned mushrooms are created by the scorpion.  These are the same
+ color as the attacking centipede.  When the centipede bumps into a
+ poisoned mushroom, it goes crazy and plunges straight through the
+ field of mushrooms toward you.  At the end of a wave, all whole and
+ partially destroyed poisoned mushrooms are transformed back into
+ magic mushrooms.
+
+ 3. USING THE 5200 CONTROLLERS
+
+ Use your 5200 controller (Figure 4) with this ATARI game cartridge.
+ For one-player games, plug the controller into controller jack 1 on
+ your console.  For a two-player game, plug a second controller into
+ jack 2.  In two-player games, the player using jack 1 controls game
+ selection and starts the game.
+
+           Figure 4 - 5200 Controller
+
+ KEYPAD OVERLAYS
+
+ For your convenience, two keypad overlays are included with this game
+ (Figure 5).  Slip the tabs into the slots above and below the keypad
+ on your controller.
+
+       --------    --------    --------
+      |        |  |        |  |        |
+      |        |  |        |  |        |
+       --------    --------    --------
+
+       --------    --------    --------
+      |        |  |        |  |        |
+      |        |  |        |  |        |
+       --------    --------    --------
+
+       --------    --------    --------
+      |        |  |        |  |        |
+      |        |  |        |  |        |
+       --------    --------    --------
+      1-2 PLAYER              GAME SELECT
+       --------    --------    --------
+      |        |  |        |  |        |
+      |        |  |        |  |        |
+       --------    --------    --------
+
+           Figure 5 - Keypad Overlay
+
+ PLAYER SELECTION
+
+ Press the left * key (or, on your overlay, the square marked 1-2
+ PLAYERS) to choose a one or two-player game.  The screen display will
+ alternate between 1 PLAYER and 2 PLAYERS.  Stop at your choice.  (See
+ Figure 6.)
+
+ GAME SELECTION
+
+ Press the right # key (or, on your overlay, the square marked GAME
+ SELECT) to cycle through EASY PLAY, STANDARD PLAY, and HARD PLAY.
+ Stop at the variation you want to play.  (See Figure 6.)
+
+           Figure 6 - Player and Game Select Display (Menu)
+
+ START
+
+ Press START to begin the battle.  The START key is deactivated while
+ a game is in progress and is reactivated after all wands are lost.
+
+ RESET
+
+ Press RESET to return to a display of your current game selection
+ (Figure 6).  You can then restart that game or select a new
+ variation.
+
+ PAUSE
+
+ To suspend a turn in progress, press the PAUSE key.  The action
+ immediately freezes in its present position on the screen.  To
+ continue play, press PAUSE again.
+
+ CONTROLLER ACTION
+
+ Move your joystick in the same direction you want to move your magic
+ wand.  You can move a short distance up the screen as well as to the
+ left and right edges of the screen.
+
+ To shoot sparks, press the bottom red buttons on the front right and
+ left sides of the 5200 Controller (see Figure 4).  You can fire
+ sparks as long as you depress the fire button.  Your supply of sparks
+ is unlimited.
+
+ 4. TRAK-BALL OPTION (Future Accessory)
+
+ CENTIPEDE offers a TRAK-BALL option.  A TRAK-BALL may be purchased
+ separately.  To play any of the game variations with a TRAK-BALL,
+ plug the TRAK-BALL into jack 1 on the front of your 5200 console.
+ Follow the instructions in Section 3, USING THE 5200 CONTROLLERS, for
+ game, and player selection.  You do not need a separate TRAK-BALL for
+ each player. Simply trade off using the TRAK-BALL as each turn comes
+ up.  The computer switches between players and keeps score
+ automatically.
+
+ NOTE:  You cannot use a TRAK-BALL and a 5200 controller together.  If
+ you want to switch from one type of controller to the other, plug in
+ the new controller and press START.  You will restart the game option
+ you last played.
+
+ TRAK-BALL ACTION
+
+ Move your TRAK-BALL in any direction to move your magic wand in the
+ same direction across the bottom of the screen, or about one-quarter
+ of the way up the screen.  To shoot sparks, press the fire button on
+ the TRAK-BALL.  (See your TRAK-BALL Owner's Manual for further
+ details.)
+
+ 5. SCORING
+
+ You can score a total of 99,999,999 points before the score rolls
+ back to zero.  Point values are listed below.
+
+ Centipede body segment.........................   10 points
+ Centipede head.................................  100 points
+ Spider (distant range).........................  300 points
+ Spider (medium range)..........................  600 points
+ Spider (close-range--look out!)................  900 points
+ Flea...........................................  200 points
+ Scorpion....................................... 1000 points
+ Magic Mushroom (totally eliminated)............    1 point
+ Magic Mushroom (shot 1 to 3 times).............    5 points
+ Poison Mushroom (totally eliminated)...........    1 point
+ Poison Mushroom (shot 1 to 3 times)............    5 points
+ Poison Mushroom (not shot at all)..............    5 points
+ Bonus Wand............................. every 12,000 points
+
+ 6. GAME VARIATIONS
+
+ CENTIPEDE offers three game variations:  EASY PLAY for beginners and
+ children, STANDARD PLAY for intermediate players, and HARD PLAY for
+ advanced players.  (See Section 3 for information on how to select
+ the difficulty level of your choice.)
+
+ 7. HELPFUL HINTS
+
+ 1. Shoot away mushrooms in a straight line up the screen to create
+    a "corridor."  When the centipede reaches this "gap," it will fall
+    straight down the battlefield and can be easily picked off.
+
+ 2. Since the flea doesn't appear until you have eliminated most of
+    the mushrooms near you, you can set up a shield to prevent this
+    lightening-fast pest from striking.  Simply refrain from shooting
+    away mushrooms near your magic wand.
+
+ 3. Shoot centipede heads to create new heads out of the body segment
+    left behind.  Since heads are worth 10 times the point value of
+    body segments, you'll score lots of points.
+
+ 4. Each creature makes a distinctive sound.  By becoming familiar
+    with these sounds, you will know without looking, what is
+    attacking and where it is on the screen.
+
+ 8. SCORE LEDGER
+
+ Name:             Date:    Score:
+ _______________   ______   ________
+ _______________   ______   ________
+ _______________   ______   ________
+ _______________   ______   ________
+ [etc.]
+
+ END
+
+ Typed by Jay Tilton (tiltonj@erols.com)
+
+ for Atari Gaming Headquarters

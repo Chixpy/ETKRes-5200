@@ -1,0 +1,366 @@
+
+ MISSILE COMMAND
+
+ BY ATARI
+
+ #CX5202 Released for the Atari 5200 SuperSystem (C)1982
+
+ Warning:  To insert your 5200(tm) game cartridge, hold the cartridge
+ so the name on the label face toward you and reads right-side-up.
+ Then carefully insert the cartridge into the slot in the center of
+ the console unit,  Be sure the cartridge is firmly seated, but do not
+ force it in.  The POWER ON/OFF switch is located on the bottom right
+ side of the Atari 5200.  Pressthis switch to turn the power on AFTER
+ inserting your game cartridge.  See Your Owner's Manual for further
+ information
+
+ Page I.  Table of Contents:
+
+ 1)Operation: Defense                            1
+ 2)Game Play                                     3
+ 3)Using the 5200(tm) Controllers                5
+ 4)Trak-Ball Option                              8
+ 5)Scoring                                       9
+ 6)Game Strategy                                 10
+
+ Page 1) Operation: Defense
+
+ RED ALERT!  MISSILE ATTACK!
+
+ In 2203 the planet Zardon was established as Earth's outermost
+ colony. Originally, Zardon was intended to be the front line of
+ defense in the event of an interplanetary attack.  A missile base
+ stocked with antiballistic missiles [ABMs] was the first order of
+ business.  After its completion, the founding colonists set about
+ building a town.
+
+ In the years that ensued, the town flourished and grew into a city.
+ Eventuly, five other cities evolved to keep up with the burgeoning
+ population.  Today, Zardon far supercedes its inital function as
+ front-line-defender.  Back on Earth, it is known as the "Resource
+ Planet" because precious mines and ores are mined from Zardon's rich
+ deposits. Zardonians go about their business with a sense of pride
+ and well-being. They have actually built a utopia for themselves.
+
+ But now this very utopia is threatened by chaos and destruction, for
+ all is not peace and harmony in the celestial spheres.
+
+ Page 2)
+
+ Unlike Zardon, the planet Krytolia is undergoing a terrible
+ upheaval.  Poverty, crime, and civil unrest plague it like a
+ contagious disease.  Although Zardon has continuously give the less
+ fortunate interplanetary aid, the latter have merely exhibited token
+ appreciation.  Secretly, they resent Zardon and covet its rich
+ resources.  Krytolia has turned many of the Zardonian supplies into
+ warheads--missiles, satelites, and bombs.  For several years, the
+ Krytolians have bided their time, scheming and plotting to attack
+ Zardon, to make the "Resource Planet" their own!  At this very
+ moment, the surprise attack is on its way!
+
+ At Zardon missile base, the hot line flashes wildly.
+
+ "Commander!  Our radar just picked up a barrage of missiles headed
+ straight toward us!"
+
+ "What?  But that's incredible!  Who...?  You cut your question short,
+ realizing this is no time to ask, rather it is time to act.
+
+ You command Zardon missile base.  You are responsible for the defense
+ of your home planet. You must employ quick thining and strategy to
+ successfully pit Zardon's ABMs against the invaders' fierce onrush of
+ weapons.  Otherwise, the Zardonian civilization will perish.
+
+ Page 3) 2. Game Play
+
+ Your duty is to defend the six cities on your planet by destroying
+ the enemy's weapons with your antiballistic missiles [ABMs].  The
+ more enemy weapons you destroy and the longer you defend your cities,
+ the more points you score.  When the enemy annihilates all your
+ cities, the game is over.
+
+ Missile Commands can be played by one or two players.  In single-
+ player games the object is to beat your own highest score.  In two
+ -player games the object is to score more points than your opponent.
+
+ The enemy attacks your cities and missile base with IPBMs
+ [Interplanetary Ballistic Missiles], MIRVs [Multiple Independent
+ Reentry Vehicles], smart missiles, killer satelites, and bombers
+ (see figure 1). Attacks come in waves lasting 30-45 seconds.  Each
+ wave is more difficult than the previous one.  On the sixth wave, the
+ enemy launches smart missiles that can evade your ABMs and "home-in"
+ on your missile base and cities.
+
+ The enemy can destroy three cities per wave and zap your missile
+ base as often as you allow it.  Each time your missile base is
+ blasted, you lose all missiles waiting to be launched.  You have a
+ total of 30 ABMs per wave, with six in your launch pad at a time.  As
+ each set of ABMs is fired, you receive 6 more, until all 30 are gone
+ or the wave ends. When your last six ABMs are on the launch pad, the
+ cursor warns you by changing from (empty center) into a solid like
+ this (center of cross full).
+
+ Page 4)
+ Sometimes, all you'll get when you press the fire button is a
+ high-pitched "oink" sound.  That's the "no launch" signal telling you
+ that you can't fire ABMs for the following reasons:
+
+ *You have no more ABMs to launch.
+
+ *Your ABMs are not ready for launching.
+
+ *You already have eight ABM explosions on the scree.  (You may
+ never have more than eight explosions on the screen at one time).
+
+ At the end of each wave, the cities and ABMs that you saved
+ are displayed, as shown in Figure 2, and bonus points for them are
+ added to your score.  For more about SCORING, see Section 5.
+
+ A game ends when the enemy destroys all your cities and THE END
+ apprears on your television screen (Figure 3).
+
+ Page 5)  3. Using the 5200 Controllers.
+
+ Use one or two 5200 controllers with this Atari game cartridge.
+ For one player games, plug the controller into controller jack 1 on
+ your console.  For a two-player game, plug the second controller
+ into the number 2 jack.  In two-player games, the player using the
+ number 1 jack controls game selection and starts the game.
+
+ Keypad Overlays:
+
+ For your convenience, two keypad overlays are included with this
+ game.  Slip the tabs into the slots above and below the keypad on
+ your controller (see Figure 5).
+
+ Page 6)
+
+ Player Selection:
+
+ Press the left * key (on your overlay the square marked 1-2
+ Players) to choose a one or two-player game.  THe message 1 PLAYER or
+ 2 PLAYER is displayed at the top left of the screen (see figure 6).
+
+ Start:
+
+ Press START to begin the attack.  The cursor, score counters, and
+ wave point multiplier will appear, as shown in figure 7.  You can
+ restart a game at any time by pressing this key.
+
+ Reset:
+
+ Press the RESET key at any time to return to the first display.
+ (Figure 6)
+
+ Pause:
+
+ To suspend a turn in progress, press the PAUSE key.  All action
+ will instantly freeze on the screen.  To continue play, press PAUSE
+ again.
+
+ Page 7)
+
+ Controller Action:
+
+ Move the joystick up, down, left, right, or diagonally to place the
+ cursor where you wish your ABM to explode.  To launch an ABM, press
+ either or both of the bottom red buttons on the front right and left
+ sides of the controller, as shown in Figure 4.
+
+ Game Options:  SKIP WAVE MODE
+
+ If you wish to start Missile Command at a more difficult (and
+ higher scoring) wave level, press the 0 key on your keypad (or, the
+ square marked SKIP MODE on your keypad overlay).  When you press this
+ key, a flashing question mark will appear on your television screen
+ after the word SKIP (See figure 9).  To skip the first wave, press
+ the 1 key.  SKIP 1 will appear at the top, center of the screen and
+ you'll start the game at Wave 2.  If you skip two waves [SKIP 2],
+ you'll start the game at Wave 3 and so on up to 9 waves maximum.
+
+ After selecting the number of waves to be skipped, press the START
+ key to begin the game.
+
+ Page 8)
+
+ Game Options:  Pracice Mode
+
+ If you want to practice hitting smart missiles, press the 8 key
+ on your keypad [or the PRACTICE square on your keypad overlay]. Then
+ press start and only smart missiles will appear (see Figure 10).
+ Smart missile games can be started at different wave levels, the
+ same as mixed weapons games, see SKIP WAVE MODE.  To return to mixed
+ weapons games, press the 8
+ or PRACTICE key again.
+
+ Game Options:  Bonus Cities
+
+ MISSILE COMMAND gives you a bonus city every time you score 10,000
+ points.  If you wish to play without this feature, press the # key
+ [or, the square marked BONUS on your overlay).  The word BONUS will
+ disappear from the top of the first display [Figure 6].  Press START
+ to begin game play without bonus cities.  To restore bonus cities,
+ press # or BONUS again.
+
+ 4. Trak-Ball [Future Accessory]
+
+ This MISSILE COMMAND cartridge offers a TRAK-BALL option.  A
+ TRAK-BALL may be purchased seperately.  To play the game with a
+ TRAK-BALL, plug the TRAK-BALL into the number 1 jack on the front
+ of your game console. Follow the instructions in Section 3, USING THE
+ 5200 CONTROLLERS, for player selection and game options.  You do not
+ need a seperate TRAK-BALL for each player.  Simply pass the TRAK-BALL
+ back and forth as each turn comes up.  The computer switches
+ between players and keeps score automatically. NOTE: You cannot use
+ a TRAK-BALL with a 5200 controller in a two player game.  If you
+ switch from one type of controller to the other mid-game, plug in the
+ new controller and press start.  You will restart the game option you
+ last played.
+
+ TRAK-BALL: Action
+
+ Move your TRAK-BALL in any direction to place your cursor on a
+ target.  Press the fire button to fire ABMs.  SEE your TRAK-BALL
+ Owner's Manual for details.
+
+ Page 9)   5. SCORING
+
+ You score points for every enemy weapon destroyed and bonus points
+ for every city and ABM remaining at the end of a wave.  Table 1 shows
+ the point system for the first two waves of MISSILE COMMAND:
+
+                         TABLE 1:
+
+ Points for Weapons Destroyed:
+
+ IPBM                    25 Points
+ MIRV                    25 Points
+ BOMBER                 100 Points
+ SATELLITE              100 Points
+ SMART MISSILE          125 Points
+
+ Bonus Points:
+
+ ABM                      5 Points
+ City                   100 Points
+
+ All cities and ABMs left at the end of a wave are displayed on the
+ screen (as shown in figure 2), and bonus points are automatically
+ added to your score.
+
+ Display Colors and Wave Point Multlipliers
+
+ Every two waves, the display colors change and the wave multiplier
+ increases.  For example, all points are doubled in Waves 3 and 4,
+ tripled in Waved 5 and 6, and quadrupled in Waves 7 and 8.  Wave
+ point multlipliers are displayed at the start of every wave (see
+ figure 7).
+
+ Waves continue as long as you have cities left. After Wave 20, the
+ colors repeat.  Wave 21 and 22, for example, are the same colors as
+ Waves 1 and 2.  However, with Wave 11, points are always multiplied
+ by 6.
+
+ Table 2 shows the display colors and the wave point multiplier for
+ each wave. Note:  Colors may vary, depending upon the color control
+ settings of your television set.
+
+ Page 10)
+
+ TABLE 2:
+
+ Waves         Colors                              Wave Pt. Multiplier
+ 1 and 2       Blue and Red on Black Bkgnd.         1 x points
+ 3 and 4       Blue and Green on Black              2 x points
+ 5 and 6       Yellow-Green and Red on Black        3 x points
+ 7 and 8       Light Blue and Yellow on black       4 x points
+ 9 and 10      Black and pink on blue               5 x points
+ 11 and 12     Blue and light red on gray-blue      6 x points
+ 13 and 14     Light yellow and black on purple     6 x points
+ 15 and 16     Light Red and Black on light yellow  6 x points
+ 17 and 18     Light purple and light yellow-green on gray 6 x points
+ 19 and 20     Light blue and black on red          6 x points
+
+ Bonus City Points:
+
+ Every 10,000 points you receive a bonus city and a musical salute.
+ Your bouns city is placed at a vacant site chosen at random.  If you
+ prefer, you can play Missile Command without the bonus city
+ feature.  Check GAME OPTIONS in Section 3 for information on this.
+
+ If you have no vacant sites at 10,000 points (or multiples of
+ 10,000 points), your bonus city is held in reserve until a city is
+ destroyed.  The bonus city is set on the vacant site at the start
+ of the next wave.  Bonus cities will be reserved untill your score
+ reaches 1,000,000 points.  At 1,000,000 points, you lose all cities
+ in reserve.
+
+ 6. GAME STRATEGY
+
+ -As soon as you've launched an ABM and marked the target for
+ detonation, move the cursor to another target.  Don't wait for
+ the explosion.
+
+ -Aim just in front of missiles, satellites, and bombers, and let
+ them travelinto your exploding ABM's
+
+ -Hit bombers and killer satellites before they can drop missiles.
+ Also, the sooner they'll reappear and the more points you can
+ score.  You may want to launch "insurance" ABM's at the left and
+ right sides od the screen before a bomber or satellite appears, in
+ the chance that one will travel into the ABM explosion.
+
+ Page 11)
+
+ -Hit IPBM's before they "MIRV" (divide into multiple warheads)
+
+ -Hit smart missiles dead on, since they're designed to evade your
+ ABM detonators.  If you're not good at direct hits, try surrounding
+ smart missiles with detonations.
+
+ -Hit targets before they cross radar line.  The radar line is an
+ invisible line marking the cursor's lower limit.  Since you can't
+ position the cursor below this line, any enemy missile that crosses
+ it is beyond the range of your ABMs
+
+ -Don't waste ABMs on enemy missiles that are heading for dirt (bomb
+ craters or vacant sites).  Defend your missile base and cities
+ first.  If all your cities are destroyed or are on the verge of
+ earning a bonus city, then it is good strategy to go for the high
+ -score targets like smart missiles, even if they are heading for
+ dirt.
+
+ -Don't let smart missiles distract you.  Sometimes you can try so
+ hard to hit smart missiles you forget to defend your planet.
+ Remember that a smart missile can only hit one target.
+
+ -As waves become more difficult, you may be forced to sacrifice
+ some cities.  Give up the outside cities first.  Save the cities
+ nearest your missile base; they're easier to defend.  When waves
+ become really tough, you may want to defend one city and go for
+ as many high score targets as possible.
+
+ -Since the enemy can destroy three cities per wave, after you've
+ lost three cities, concentrate on destroying high-score enemy
+ targets.  Of course, you still have to defend your missile base.
+
+ Page 12)
+
+ -Protect your cities with a missile umbrella.  This is a line of
+ ABM explosions spread across the television screen to trap and
+ destroy oncoming enemy weapons.  To setup a missile umbrella, move
+ the cursor rapidly across the screen, just below the enemy missiles
+ and leave a string of detonation marks.  Space the marks close
+ enough to form a chain of explosions beneath enemy targets.  If
+ possible, spread the missile umbrella in the path of a bomber or
+ satellite
+
+ Atari Missile Command  CX5202
+ A Warner Communications Company
+ (c)Atari 1982
+
+ END
+
+ Typed by Dan Reinholtz (sammy97@niu.edu)
+
+ for Atari Gaming Headquarters

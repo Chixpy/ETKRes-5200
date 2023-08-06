@@ -1,0 +1,168 @@
+
+ DIG DUG
+
+ BY ATARI
+
+ Insert your 5200 game cartridge so the label faces you and reads
+ right-side-up.  Be sure the cartridge is firmly seated in the
+ center slot of the console, but do not force it.  Then press the
+ POWER switch on.  See your owner's manual for further details.
+
+ GAME OBJECTIVE
+
+ Keep Dig Dug alive on his quest for points and vegetable treasures.
+  You'll score points for digging as well as finding treasure.  But
+ beware of Pooka, the renegade balloon, and Fygar, the fire-
+ breathing dragon.  They'll stop you in your tracks if they catch
+ you.
+
+ Earn points in DIG DUG four different ways:  by tunneling through
+ the dirt of the underworld, by blowing up Pooka or Fygar with your
+ pump, by dropping rocks on top of Pooka and Fygar, or by eating the
+ vegetables that appear in the middle of the screen.
+
+ At the start of the game you have three lives.  You can also earn
+ bonus lives; the first bonus life is earned at 10,000 points, the
+ second bonus life at 40,000, and each following bonus life at
+ 40,000 point intervals.
+
+ A round is completed when all monsters are killed or escape from
+ the screen.  The round is indicated by the number of flowers on the
+ upper right of the screen.  Each small flower represents one round;
+ each large flower represents ten rounds.
+
+ GAME PLAY
+
+ Use your joystick to make Dig Dug tunnel through the underworld.
+ He'll move up, down, right, or left in the same direction you move
+ the joystick.
+
+ To use your pump against Pooka or Fygar, press any of the red fire
+ buttons on your controller.  If you continue pressing the button,
+ your victim will eventually explode.  If you let go of the fire
+ button before the monster pops, it will slowly deflate and continue
+ the chase.  Dig Dug is safe from the monsters while they are
+ partially inflated--in fact, Dig Dug can run straight through
+ partially inflated monsters.
+
+ Drop rocks on monsters by digging away dirt from beneath the rocks.
+  Move out of the way quickly, though, or you'll be pulverized by
+ the falling rock.  The underworld is divided into four layers (see
+ Figure 7).  You'll score more points for exploding monsters in the
+ bottom layers than the top layers; lure monsters to lower levels by
+ letting them chase you as You tunnel down.
+
+ Score bonus points by running over the vegetables that appear in
+ the center of your screen.  Vegetables only appear for a short
+ time, so when you see one, grab it quickly.
+
+ Pooka and Fygar often turn into ghosts and will float through the
+ dirt to find you.  Ghosts are invulnerable until they reach the air
+ of a tunnel.
+
+ USING THE CONTROLLERS
+
+ Plug one 5200 controller firmly into jack 1 for one-player games;
+ plug a second controller into jack 2 for two-player games.  The
+ player using jack one controls game selection and starts the game.
+
+ CONTROL KEYS
+
+ Press START to begin the game.  Press PAUSE once to stop the game
+ and again to restart the action.  Press PAUSE then RESET to return
+ to the option screen, in order to begin another game at a new
+ difficulty level.
+
+ GAME OPTIONS
+
+ The vegetable at the center of the screen indicates the game level.
+  Press the * to choose one of 12 game levels:  Carrot, Rutabaga,
+ Mushroom, Cucumber, Eggplant, Bell Pepper, Tomato, Onion,
+ Watermelon, Galaxian, or Pineapple.  The game levels become
+ progressively more difficult:  the number of monsters increases,
+ the game play becomes faster, and the monsters become more
+ difficult to avoid.
+
+ You can continue playing the same game of DIG DUG after losing your
+ last life by pressing any red fire button when GAME OVER appears on
+ the screen.  You'll receive three additional lives, and the score
+ and game level will remain unchanged.
+
+ You may also select a beginner game level, indicated by a teddy
+ bear.  Press the * until a teddy bear symbol appears at the center
+ of the screen.
+
+ Press the # key to select a one-player or two-player game.  When
+ you've selected the appropriate game options, press START to begin
+ the game.
+
+ SCORING
+
+ Vegetables   Round    Points
+ ----------------------------
+ Carrot             1     400
+ Rutabaga           2     600
+ Mushroom           3     800
+ Cucumber       4 & 5   1,000
+ Eggplant       6 & 7   2,000
+ Bell Pepper    8 & 9   3,000
+ Tomato       10 & 11   4,000
+ Onion        12 & 13   5,000
+ Watermelon   14 & 15   6,000
+ Galaxian     16 & 17   7,000
+ Pineapple      18 on   8,000
+
+ Activity          Point Value
+ -----------------------------
+ Digging    5 points per chunk
+
+ Destroying monsters by dropping rocks:
+ 1 monster               1,000
+ 2 monsters at once      2,500
+ 3 monsters at once      4,000
+ 4 monsters at once      6,000
+ 5 monsters at once      8,000
+ 6 monsters at once     10,000
+ 7 monsters at once     12,000
+
+ Exploding Pooka from any direction, or exploding Fygar from above
+ or below:
+ 1st soil layer            200
+ 2nd soil layer            300
+ 3rd soil layer            400
+ 4th soil layer            500
+
+ Exploding Fygar from the side:
+ 1st soil layer            400
+ 2nd soil layer            600
+ 3rd soil layer            800
+ 4th soil layer           1000
+
+ STRATEGY
+
+ * Drop rocks on monsters by digging a long tunnel beneath a rock.
+  Keep the rock from falling on you by keeping forward pressure on
+ your joystick; when a monster runs close behind, turn away and let
+ the rock fall.
+
+ * Use your pump to temporarily stun monsters, so you can lure more
+ than one monster behind you.  When you have a line of monsters
+ chasing you, head for the nearest rock and drop it on them--fast!
+
+ * Bonus vegetables only will appear after two rocks have been
+ dislodged, and will remain for only ten seconds.  For maximum
+ points, be sure to drop at least two rocks then grab the vegetable
+ before moving to the next round.
+
+ * You'll score more points by popping a Fygar from the side, so use
+ your pump to stun the dragon while you move to his side.  Then
+ finish pumping Fygar until he explodes.
+
+ * Fygar's deadly fire can reach you through a thin wall of dirt--so
+ stay out of his way when he stops moving.
+
+ END
+
+ Typed by Jay Tilton (tiltonj@erols.com)
+
+ for Atari Gaming Headquarters

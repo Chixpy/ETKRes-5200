@@ -1,0 +1,58 @@
+
+ PITFALL II: LOST CAVERNS
+
+ BY ACTIVISION
+
+ STARTING OUT
+ ------------
+
+ * Insert cartridge with your system OFF.  Then, turn system on.
+ * The game is ready to begin following the title screen.
+
+ THE HAND CONTROLLER
+ -------------------
+
+ * To move Pitfall Harry left or right, move controller left or right.
+ * To jump, press the left side button.
+ * To descend a ladder, pull controller back just before Harry reaches
+   the hole.  To ascend a ladder, push controller forward.
+ * To catch a balloon, push the left side button to jump.  Move
+   controller left or right to float left or right.  To speed up, push
+   controller forward; to slow down, pull controller back.
+ * To cross a shaft, press left side button right before you jump and
+   hold it down as you move the controller in the direction you're
+   heading.
+ * To pause a game, press pause.  To continue, press again.
+ * To reset game to title screen, press "*."
+ * To turn music off, press "#."  To hear music, press again.
+
+ DANGERS
+ -------
+
+ Keep away from frogs, bats, condors, eels and albino scorpions.
+ Touching any of them will really set you back!
+
+ RED CROSSES
+ -----------
+
+ Whenever Pitfall Harry succumbs to a danger, he is magically
+ transported back to the last red cross he touched.  So, be sure and
+ touch each of these mystical Incan healing centers as you encounter
+ them.
+
+ REWARDS
+ -------
+
+ You start out with 4,000.  Thereafter, receive:
+
+ * 5,000 points for every gold bar
+ * 15,000 points for the cave rat
+ * 20,000 points for the Raj diamond
+ * 10,000 points for Rhonda
+ * 10,000 points for Quickclaw
+
+ Touching dangerous creatures or falling unintentionally loses points.
+
+ END
+
+ Typed by Keita Iida (keita@mindspring.com)

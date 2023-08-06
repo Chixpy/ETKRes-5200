@@ -1,0 +1,167 @@
+
+ MEGAMANIA
+
+ BY ACTIVISION
+
+ Notes From A Nightmare....Megamania
+
+ Copyright 1983 Activision, Inc. FZ-003-03
+
+ Page 1)
+
+ Wave after wave of the most unlikely obijects invade your celestial
+ dreams. For you, sleep becomes a space nightmare.  Outrageous enemies
+ drop bombs and collide with your mobile blasters. One hit and your
+ blaster disintegrates.  Shoot as many of the violators as you can
+ before your fleet is destroyed, and return to restful dreams.
+
+ INITIAL SET-UP
+
+ 1.  Insert cartridges into your Atari 5200 console with power OFF.
+ Then, turn power ON.
+
+ 2.  Plug in controller(s).  Solo player uses left control. Uses no
+ overlay.
+
+ 3.  To select 1 or 2 players, press the (#) key.
+ *Player 1's mobile blaster and score are blue.
+ *Player 2's mobile blaster and score are green.
+
+ 4.  To choose straight or guided missiles, press the (*) key.
+ *Both players must use the same type of missiles.
+
+ 5.  Begin a new game at any time by pressing the START key.
+
+ 6.  Pause the action whenever you like by pressing the pause key on
+ your controller.  To resume the game, press the pause key or either
+ lower red button on the controller.
+
+ 7. Turn power OFF before removing MegaMania cartridge.
+
+ Page 2)
+
+ MOBILE BLASTERS
+
+ Your mobile blaster glides to the left and right when you move the
+ controller left and right. To fire its missiles, press the lower red
+ button.  Hold the red button down for continuous fire.  Each blaster
+ is equpied with an unlimited number of missiles.  Blast away!
+
+ Energy bar and Alarm.  Your blasters use up a constant rate of energy
+ no matter how much you move them or fire their missiles.  Even so,
+ always keep a keen eye on the energy bar.  If all the energy is
+ exhausted before you destroy an attacking wave, your blaster
+ disintegrates.  Fortunately, an alarm alerts you when your energy
+ is low and you haven't much time.
+
+ Reinforcements.  You begin each game with three blasters in reserve.
+ For every 10,000 points you score, you are awarded one additional
+ blaster up to a maximum of six on-screen at any one time.
+
+ Page 3)
+
+ MEGA-MADNESS
+
+ MegaCycle.  There are eight waves of different enemy obijects that
+ infiltrate your dreams.  When you have destroyed all the objects in
+ all eight waves, the nightmare not only continues, it gets worse!
+ Enemy waves repeat their sleep assault at a quicker pace, and their
+ patterns of motion are more sophisticated.
+
+ MegaSphere.  All the enemy objects travel in an orbital path. When an
+ object disappears off the bottom of the screen, it reappears at the
+ top.  If it leaves your field of vision on one side, it returns to
+ haunt you on the other side.
+
+ MegaPoints.  Every time you destroy an enemy object, you score
+ points.  Each object within an enemy wave has the same point value.
+
+ Scoring System
+
+ Enemy Object                      Point Value
+ Deluxe Hamburgers                 20
+ Ice Cream Sandwiches              30
+ Refrigerator Magnets              40
+ Radial Tires                      50
+ Diamond Rings                     60
+ Steaming Irons                    70
+ Party Bow Ties                    80
+ Dreaded Space Dice                90
+
+ These point values apply to the first MegaCycle only.  After that,
+ each object in all successful waves is worth 90 points.  At the end
+ of each game, the highest score registers on-screen in black.
+
+ MegaBonus.  You receive bonus points for every "unit" of energy
+ remaining on the Energy Bar at the moment you destroy the last
+ object in any enemy wave.  So, the faster you destroy a wave, the
+ more MegaBonus points you'll earn.  And you'll need all you can get.
+
+ Page 4)
+
+ JOIN THE ACTIVISON "MEGAMANIACS"
+
+ If you reach a score of 45,000 points or more, then we know that
+ you weren't day-dreaming out there.  You defeated some of the
+ craziest space flotsam and jetsam to interrupt anyone's sleep.  And
+ that means you're eligible to become an official MegaManiac.  Just
+ send us a photo of your mega-mastery (TV Screen), along with your
+ name and address, and we'll send you an outrageous MegaManiac
+ emblem.  Be sure to write "Megamania 5200" on the bottom left corner
+ of the envelope.
+
+ Page 5)
+
+ HOW TO BECOME A MEGAMANIAC
+
+ Tips from Glyn Anderson and Steve Cartwright.
+
+ Glyn Anderson enjoys playing wind and string instruments, with his
+ speciality being keyboards.  Steve Cartwright is an enthusiast of
+ motorcycle touring and photography.
+
+ "Megamania is no slumber party.  Here are some tips we use to battle
+ the madness and ensure a good night's sleep.
+
+ First off, keep your mobile blaster in the center of the screen as
+ much as possible.  This will enable you to more effectively guide
+ your blaster when you need to.  Plus, it minimizes your chances of
+ getting caught in a corner.
+
+ Also, don't try to `catch-up' with any enemy objects that have flown
+ past your blaster. Your blaster is quick, but the enemy objects are
+ just a bit faster.
+
+ Finally, don't let the steam from the Steaming Irons touch your
+ blaster, or you'll get burned.  And when you are battling the steam
+ irons, be sure to knock out at least one iron from each of the three
+ columns before they descend to the bottom of the screen.  If you
+ don't, you'll suffer the consequences.
+
+ When you are wide awake, and you feel that you're safe, drop us a
+ line.  We'd love to find out which enemy wave gave you the most
+ trouble, and if your dreams have returned to normal".
+
+ Steve Cartwright     Glyn Anderson
+
+ Page 6)  Activision Video Game Cartridge Limited One-Year Warranty
+
+ Page 7)
+
+ Let us get to know you!  If you have questions or comments about
+ our games or clubs, or want to be added to our mailing list, drop us
+ a note or call us toll-free at (800)633-GAME.  In California, call
+ (415)940-6044/5.
+
+ Activision
+ Drawer 7287
+ Mountain View, CA 94039
+ Atari and Atari 5200 are trademarks of Atari, INC.
+
+ (C) 1982, 1983 Activision, Inc.  FZ-003-03.  Printed in U.S.A.
+
+ END
+
+ Typed by Dan Reinholtz (sammy97@niu.edu)
+
+ for Atari Gaming Headquarters

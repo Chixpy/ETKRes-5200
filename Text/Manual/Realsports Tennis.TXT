@@ -1,0 +1,303 @@
+
+ REALSPORTS TENNIS
+
+ BY ATARI
+
+ Insert your 5200 game cartridge so the label faces you and reads
+ right-side-up.  Be sure the cartridge is firmly seated in the center
+ of the console, but do not force it.  Then press the POWER switch on.
+ See your Owner's Manual for further details.
+
+ TABLE OF CONTENTS
+ -----------------
+
+ 1.  Match Point
+ 2.  Game Play
+ 3.  Using the 5200 Controller
+ 4.  Atari Trak-Ball Controller Option
+ 5.  Scoring
+ 6.  Game Variations
+ 7.  RealSports TENNIS Glossary
+
+ SERVE 'EM UP!
+
+ 1.  MATCH POINT
+ ---------------
+
+ It's your serve, the score is 6-5.  If you take the point, the match
+ is yours.
+
+ It's been a long hot afternoon at center court.  Your opponent's
+ striking forehand has given you difficulty all day.  To top it off,
+ he has a thunderbolt serve and a cruel overhand smash.  Maybe you can
+ beat him on stamina by running him around the court until he drops.
+
+ Every seat in the stadium is filled with tense and anxious fans.  You
+ nervously bounce the ball two or three times to relieve the tension.
+ You're ready for the serve...he returns it with a forehand dropshot.
+ You can't let this point get away.  Like lightening, you mentally
+ pinpoint where your next shot will go; and then execute it by driving
+ the ball down the sideline.
+
+ The crowd's with you; they groan as your opponent saves the ball with
+ a driving forehand, forcing you back to the baseline.  Quickly
+ rethinking your strategy, you hit a defensive lob.  Your opponent
+ returns it with one of his classic smashes to your backhand.  But
+ this time, you're ready!  You whip a passing shot down the sideline
+ to his backhand.  He lunges for it--but not far enough.  The crowd
+ cheers as the ball whizzes past his astonished face.
+
+ The point is yours; you take the match!
+
+ 2.  GAME PLAY
+ -------------
+
+ The object of ATARI RealSports TENNIS is to score enough points to
+ win a match.  A match is the best of three sets. (See Section 5,
+ SCORING for games, sets, and matches.)
+
+ Choose from three game variations: singles against the computer,
+ singles between two players, or doubles in which each team has one
+ human player and one computer player.
+
+ YOu can also choose between two skill levels--INTERMEDIATE or
+ ADVANCED.  In advanced games, the ball travels faster than in
+ intermediate games.
+
+ At the end of each game, the receiver becomes the server, and the
+ server becomes the receiver.  The players also change ends of the
+ court after every odd-numbered game.
+
+ 3.  USING THE 5200 CONTROLLER
+ -----------------------------
+
+ Use your 5200 controllers with this ATARI game cartridge.  Plug the
+ controller into jack 1 for one-player games; plug a second controller
+ into jack 2 for two-player games.
+
+ KEYPAD OVERLAYS
+
+ For your convenience, two keypad overlays are included with this
+ game.  Slip the tabs into the slots above and below the keypad on
+ your controller (see Figure 2).
+
+ When not in use, your keypad overlays can be stored on the back of
+ your game cartridge.  Simply slip the tabs into the slots provided on
+ the cartridge.
+
+ CONTROLLER ACTION
+
+ After inserting the cartridge and turning the console POWER on, the
+ program displays a selection screen.
+
+ GAME SELECTION
+
+ Press the left * key to select an automated game (the squared marked
+ AUTOMATED on your overlay).  An automated game allows you to play
+ with either one or two computer players.  (See Section 6, GAME
+ VARIATIONS for automated games.)
+
+ Press the right # key to choose an intermediate or advanced game (the
+ square marked SKILL LEVEL on your overlay).
+
+ PLAYER SELECTION
+
+ Press the O key to choose the number of players (the square marked
+ NUMBER OF PLAYERS on your overlay).  Press the key until the desired
+ number of players appears on the court.  All doubles games require
+ two human players; one for each team.
+
+ PLAYER NAMES
+
+ Personalize your tennis match by programming your name into the
+ scoreboard at the upper left corner of the screen.  First, use the
+ top fire button to place the cursor (blinking square) over the P.
+ Then press the lower fire button to cycle through the alphabet until
+ you reach the desired letter.  When you've reached the correct
+ letter, simply press the top fire button and the cursor will move to
+ the next letter.  When you have completed your name, cycle through
+ the alphabet until you find the "blank space".  Then program blank
+ spaces until you've entered a total of seven characters.  Each player
+ uses his own controller to personalize the scoreboard (see Figure 3).
+
+ START
+
+ Press START when you're ready to begin playing.  If you don't make
+ a specific selection, the program automatically sets to an AUTOMATED
+ INTERMEDIATE game for one player.  When a game ends, press START to
+ begin the same game variation again.
+
+ PAUSE
+
+ Press PAUSE to suspend the game in progress.  PAUSE MODE will appear
+ at the top of the screen and all action will freeze instantly.  Press
+ PAUSE again to continue game play.
+
+ RESET
+
+ During game play, press PAUSE (PAUSE MODE must appear on the screen)
+ and then RESET to return to the selection screen.  ALL players' names
+ will be erased when the program is reset.
+
+ SERVING AND RETURNING THE BALL
+
+ The server has a choice of serving to the opponent's forehand or
+ backhand.  Press the upper fire button to serve to your opponent's
+ backhand; press the lower fire button to serve to your opponent's
+ forehand.  The player using the controller plugged into jack 1 serves
+ first.  Once the ball is in play, use your joystick to maneuver your
+ player around the court.
+
+ IMPORTANT: To stop your player, return your joystick to the upright
+ center position.
+
+ Choose your strategy before returning the ball by selecting your
+ desired target area on the court.  Each half of the court is divided
+ into nine target areas (see Figure 4).  Both the top half and bottom
+ half are numbered from left-to-right and correspond exactly to the
+ numbers on your keypad.  Whether you are playing the top or the
+ bottom half of the court, you view the target areas as shown in
+ Figure 4.
+
+ To program your return, press the button (numbers 1 through 9) that
+ corresponds to the area where you want to place the ball.  If you
+ don't select a target area, a groundstroke will automatically be made
+ to area 5.
+
+ To select a lob shot, press O during game play.  But watch out, the
+ computer player can smash a lob so fast, you won't be able to return
+ it.
+
+ Here are a few suggestions for using your joystick controllers along
+ with your keypad.
+
+ *  Place the controller on your lap; keep one hand on the joystick
+    and the other hand on the keypad.  Use either hand to press the
+    fire buttons for serving the ball.
+
+ *  Try keeping your fingers over the keypad like a 10-key adding
+    machine, or just use your thumb or one finger to press the keys.
+
+ *  If you have large hands, try to maneuver the joystick with your
+    thumb.  This will free your other hand to place your shot.
+
+ 4.  ATARI TRAK-BALL CONTROLLER OPTION
+ -------------------------------------
+
+ This RealSports TENNIS cartridge offers an ATARI TRAK-BALL option
+ which may be purchased seperately (available in mid-1983).  The
+ TRAK-BALL can be plugged into either jack at the front of the
+ console.  (Follow the instructions in Section 3, USING THE 5200
+ CONTROLLER for player and game selection, and using the keypad).
+ Move your TRAK-BALL in the direction you want your player to move
+ on the court.  See your TRAK-BALL owner's manual for further details.
+
+ 5.  SCORING
+ -----------
+
+ You score points in ATARI RealSports TENNIS as you would in real
+ tennis.
+
+ 0 (ZERO)  =   Love
+ Point 1   =   15
+ Point 2   =   30
+ Point 3   =   40
+ Point 4   =   Game (not shown on screen)
+
+ The first player to win a fourth point wins the game.  However, if
+ both players score 3 points (40 each), the score is DEUCE.  After
+ deuce, the next point scored is called advantage.  If that point is
+ scored by the server, the screen displays AD IN.  If that point is
+ scored by the receiver, the screen displays AD OUT.  To win a game,
+ you must have a two-point lead.
+
+ The first player to win six games wins a set, provided that the
+ winner has a two-game lead.  The player to win two out of three sets
+ wins the match.  If, at the end of a set, the score is 6-all, the
+ players compete in a tie-breaker; they alternate serves until one
+ player wins at least seven out of twelve points.  The winner of the
+ tie-breaker must have a two-point lead to win the set.
+
+ Scores are displayed at the top of the screen; player 1's score is
+ displayed above player 2's score.  The game score is displayed at the
+ upper right; the set score is displayed at the upper left (See Figure
+ 5 for scores.)
+
+ How points are scored:
+
+ *  The server wins a point if, for any reason, the opponent fails to
+    return the ball.
+
+ *  The receiver scores a point when the server fails to return the
+    ball.
+
+ 6.  GAME VARIATIONS
+ -------------------
+
+ There are three game variations and two skill levels in this ATARI
+ RealSports TENNIS game
+
+ One-Player Singles            One player challenges the
+      (AUTOMATED)              computer to a tennis match
+
+ Two-Player Singles            Two players vie for the match
+
+ Two-Player Doubles            Two players each team-up with a
+      (AUTOMATED)              computer player for a game of doubles.
+                               You must select the desired target area
+                               for your computer teammate.
+
+ SKILL LEVELS
+
+ INTERMEDIATE -- An average game of tennis, which requires a basic
+                 knowledge of tennis rules and strategy.
+
+ ADVANCED   --   A faster than average game of tennis in which the
+                 ball travels faster, and the emphasis is on strategy
+                 and quick moves.
+
+ 7.  REALSPORTS TENNIS GLOSSARY
+ ------------------------------
+
+ ACE:           A point earned by serving a ball which cannot be
+                returned by the opponent.
+
+ AD:            Short for advantage.  A point won after a score of
+                deuce.  If the same player wins the next point, he
+                wins the game.  If he loses the next point, the score
+                returns to deuce.
+
+ BACKHAND:      A stroke made with the hitting arm and the racket
+                across the front of the body and the back of the hand
+                facing the direction the ball is to go.
+
+ DEUCE:         A tie after each player has a score of 40.  To win a
+                deuce game, a player must score two consecutive
+                points.
+
+ DINK:          A soft shot that falls just over the net.
+
+ FOREHAND:      A stroke made with the palm of the hand facing the
+                direction the ball is to travel.
+
+ GROUND         Hitting the ball after it bounces.
+ STROKE:
+
+ LOB:           A stroke that sends the ball high in the air, over the
+                opponent's head, and lands in the backcourt.
+
+ MATCH:         In ATARI RealSports TENNIS, the best two out of three
+                sets.
+
+ OVERHEAD:      Hitting the ball while it is in the air, above the
+                head.
+
+ RUSH THE NET:  Running to the net in order to volley a return.
+
+ SMASH:         A hard overhand stroke.
+
+ VOLLEY:        Hitting the ball before it bounces.
+
+ END
+
+ Typed by Keita Iida (keita@mindspring.com)

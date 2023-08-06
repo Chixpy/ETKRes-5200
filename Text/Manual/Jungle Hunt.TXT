@@ -1,0 +1,189 @@
+
+ JUNGLE HUNT
+
+ BY ATARI
+
+ Insert your 5200 game cartridge so the label faces you and reads
+ right-side-up.  Be sure the cartridge is firmly seated in the center
+ of the console, but do not force it.  Then press the POWER switch
+ on. See your owners manual for further details.
+
+ GAME PLAY
+
+ A leisurely Jungle safari turned into fiasco when your lady friend
+ was kidnapped by two cannibals.  They'll turn her into soup if you
+ don't rescue her quickly!
+
+ To rescue your friend, you'll need to make your way past four
+ obstacles: a jungle where you'll jump from rope to rope, a river
+ filled with open-jawed crocodiles, a landslide of boulders, and a
+ cannibal campsite where your friend hangs suspended over a steaming
+ pot of soup.  use your Joystick to swim through the river and to run
+ on dry land; use the red fire buttons to jump and to use your knife
+ against the crocodiles (see USING THE CONTROLLERS for details).
+
+ You'll score points as you overcome obstacles, and you'll also score
+ bonus points for rescuing your friend.
+
+ You're given three lives at the start of the game.  At 10,000 points
+ you are given one extra life - if you survive that long.
+
+ When you begin the gane you have 500 seconds to complete your rescue
+ mission.  A timer counts down the seconds as you play.  The sooner
+ you rescue your friend, the more bonus points you'll earn - so don't
+ dawdle.
+
+ The obstacles you'll face are:
+
+ DEADLY JUNGLE
+
+ To cross the jungle, use your top fire buttons to swing from rope to
+ rope.  At higher levels of game play, monkeys appear on some of the
+ ropes.  Avoid the monkey by jumping above or below them.  If you
+ touch one, you'll be pushed off the rope.
+
+ REPTILE RIVER
+
+ The river is filled with schools of man-eating crocodiles.  To
+ survive you'll have to either swim out of their way or stab them with
+ your knife.  Crocodiles swimming near the bottom are worth more
+ points than those swimming near the surface.  You can stab a
+ crocodile if its jaws are partially open, but beware of any crocodile
+ with its mouth fully open - your knife will be useless against it.
+
+ While swimming underwater you'll need to keep an eye on your air
+ meter.  If you're still underwater when the meter runs out, you'll
+ lose a life.
+
+ Watch out for the Mysterious Murk that bubbles up from the riverbed.
+ If the Murk touches you, you'll float helplessly to the surface and
+ will be defenseless against the crocodiles.  The effects of the Murk
+ last only for a short period - if a crocodile doesn't get you while
+ you're under its influence, you'll recover and can continue swimming.
+
+ BOULDER FIELD
+
+ After you cross the river you'll encounter a mountain of bouncing
+ boulders.
+
+ Avoid the smaller boulders by jumping over or ducking beneath them.
+ Avoid the larger boulders by jumping over, running beneath, or
+ ducking beneath them.
+
+ CANNIBAL CAMP
+
+ Jump over the two dancing cannibals to reach your friend - she's
+ hanging just above the a cauldron of soup.  After you pass the
+ cannibals you must jump onto the rope that is holding your friend.
+ Be careful!  If you don't time your jump correctly, you'll fall into
+ the pot.
+
+ AFTER THE RESCUE
+
+ After a touching reunion with your friend, you'' return to the Deadly
+ Jungle for the next level of game play.  The game becomes
+ increasingly difficult as you move on to higher levels.  You can
+ continue playing until you run out of players, or until the timer
+ runs out.
+
+ USING THE CONTROLLERS
+
+ Plug one 5200 controller firmly into jack 1 for one-player games;
+ plug a second controller into jack 2 for two player-games.  The
+ player using jack 1 controls the game selection and starts the game.
+
+ Use the fire buttons to jump over boulders and onto ropes, or to use
+ your knife in Reptile River.  A bottom fire button will repeat any
+ function as long as it remains pressed; a top fire button will
+ perform a function only once each time the buttoon is pressed.
+
+ Use your contoller to maneuver through these sections of the jungle:
+
+ DEADLY RIVER - Use a top fire button to jump from rope to rope.
+
+ REPTILE RIVER - Use your joystick to move in any direction in the
+ river.  Use any red fire button to stab crocodiles.
+
+ BOULDER FIELD - Use your joystick to run right or left.  To duck
+ beneath a boulder, simply pull back on the joystick.  Jump over
+ boulders by pressing any red fire button - jump even higher by
+ pushing your joystick forward before you jump.
+
+ CANNIBAL CAMP - Use your joystick to move right and left.  Use any
+ red fire button to jump over cannibals, and to leap onto the rope
+ that is holding your friend.
+
+ CONTROL KEYS
+
+ Press START to begin the game.  press PAUSE to freeze the action and
+ the press START to unfreeze the action.  Press PAUSE and then RESET
+ to return to the option screen during gameplay.
+
+ GAME OPTIONS
+
+ There are three skill levels in JUNGLE HUNT: beginner, medium and
+ advanced.  In the beginner skill level you're given six lives at the
+ start of the game; on the meadium and advanced skill levels you're
+ given three lives. the advanced skill level also starts with a more
+ difficult level of gameplay than the medium or beginner skill levels.
+
+ Press the # key to choose the appropriate skill level.  To see a
+ demonstration of game play, press the 1 on your keypad.
+
+ Press PAUSE and the RESET to return to the options screen during game
+ play, in order to select a new game level.
+
+ Press the * key to select a one-player or two-player game.  When
+ you've selected the appropriate game options, press START to begin
+ the game.
+
+ SCORING
+
+  Jumping to a rope              100 points
+  Stabbing a crocodile           100 points (closed jaws)
+  (upper river)                  200 points (open jaws)
+  Stabbing a crocodile           200 points (closed jaws)
+  (lower river)                  300 points (open jaws)
+  Running under a boulder         50 points
+  Ducking under a boulder        100 points
+  Jumping over a boulder         200 points
+  Jumping over a cannibal        200 points
+
+ BONUSES
+
+ Bonus life                                    at 10,000 points
+ Rescuing your friend                          3x timer value
+ Each time you exit a section of the jungle    500 points
+
+ STRATEGY
+
+ - The sooner you rescue your friend the more bonus points you'll
+   receive.  The deadly Jungle can be esecially time-consuming, so
+   practice jumping from rope to rope as quickly as possible.
+
+ - If a rope is occupied by a pushy monkey, wait until it climbs up to
+   the top before making your jump
+
+ - A crocodile's underbelly is particularly vulnerable; try to come
+   from beneath when stabbibg one.
+
+ - If you want to conserve lives, simply avoid the crocodiles instead
+   of stabbing them.
+
+ - For an extra lift whn jumping over boulders and cannibals, push the
+   joystick forward before you jump.  Not only will you jum higher,
+   but you'll also stay aloft longer.
+
+ - Sometimes you'll find a large boulder rolling faster than a small
+   boulder.  Try to time your leap so that you jump over both at the
+   same time.
+
+ - Time your leaps over the cannibals' spears so you reach your friend
+   when she's descending towards the pot.  If you leap when she's too
+   high, you'll fall into the soup!
+
+ END
+
+ Typed by Todd DuBrey (kingart@cityusa.com)
+
+ for Atari Gaming Headquarters

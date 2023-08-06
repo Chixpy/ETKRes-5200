@@ -1,0 +1,244 @@
+Space Dungeon
+By Atari, Inc.
+
+TABLE OF CONTENTS
+
+1.  Legacy of a Distant Planet ------------ 1
+2.  Game Play ------------------------------- 2
+3.  Using the 5200 controller ------------- 5
+4.  Scoring ----------------------------------- 6
+5.  Strategies and Helpful Hints ---------- 7
+
+1.  LEGACY OF A DISTANT PLANET
+
+You're the commander of a space archaeological expedition to a planet that scientists 
+believe was a world virtually parallel to our own.  Now it's gone.  All gone -- except 
+for the widely scattered pieces of planetary rock that the archaeologists on board 
+consider their "treasures."  The information contained in those cosmic chunks could be 
+vital for earth's survival.
+
+Your mission is urgent.  Collect the "treasures," process their valuable information 
+with your on-board computer, and send that data back to earth.  This crystal-powered 
+computer (code named "Collect Bonus") can decipher the molecular structure of the 
+rocks as easily as you can read a history book.
+
+However, your task won't be that easy.  There are powerful cosmic enemies who are 
+quite determined that you never get back alive -- Deathsquares, Guards, Enforcers, 
+Thieves, Executioners, Spore Cases, and those hard-to-kill Pikers.  Psychic scientists 
+speculate that these enemies are the negative forces that eventually annihilated the 
+planet.  Now they are poltergeists -- evil ghosts trapped in a "space dungeon" that both 
+imprisons them in their own rage while storing the planet's secret treasures in multi-
+tiered antechambers.
+
+Be careful!  Here comes one of those multi-shielded, snowflake-shaped Pikers now.  
+Quick!  Shoot for the heart.  Don't collide with it, or else -- poof!  Just like that -- 
+you're astral dust!
+
+2.  GAME PLAY
+
+As the Commander of the expedition, your goal is to score as many points as possible 
+by collecting the treasures of the planet and by destroying the enemies who get in your 
+way.
+
+The space of the destroyed planet is divided into a series of antechambers, or 
+connecting rooms -- the "space dungeon" -- through which you travel on your search 
+for these treasures.  Some rooms are filled with treasure, some with enemies, some 
+with both, and some with nothing but space itself.
+
+You guide your ship through the doorways of each room, looking for treasure and 
+destroying enemies with your laser cannon.  You pick up treasure by flying directly 
+over it.  As you do, a distinct sound will signal you that the treasure has been 
+automatically scooped up into your Treasure Box.
+
+[Picture of the screen with pointers to:
+Lives Remaining (below Depth Level, upper left),
+Depth Level (Upper left),
+Treasure Box (below Lives Remaining),
+Doorway (around the edge of the "room"),
+Map (Top center of the screen),
+Piker (in room),
+Doorway (around the edge of the "room"),
+Signpost to Collect Bonus Room (right side of the screen),
+Treasure (in room),
+Executioner (in room),
+Deadly Spore (in room),
+Spaceship (looks just like your life meter - in room)
+Figure 1 -- An Opening Game Situation:  The First Room]
+
+TREASURE BOX
+
+Your accumulated treasure are deposited in the red treasure box until you cash in their 
+point value by entering the three-dimensional cube of the "Collect Bonus" room.
+
+"COLLECT BONUS" ROOM
+
+Each level has only one "Collect Bonus" room.  The most direct route to the "Collect 
+Bonus" room is indicated by a signpost at the side of each room.  When you enter the 
+"Collect Bonus" cube (Figure 2), the point value of your treasure is counted and you 
+pass through a dimensional space warp and plunge into the next (and more difficult) 
+Depth Level.
+
+Figure 2:  A picture of a room with the words "Collect Bonus" in a rectangle in the 
+lower right part of the room.
+
+THE MAP
+
+Your progress throughout the rooms is displayed on the bird's-eye-view map at the top 
+of your screen (Figure 3).  This overhead map depicts:
+
+Outlined square (Black outline, white middle) - Your ship's present location
+Filled square (Green) - The location of the "Collect Bonus" room
+White square with a black X through it - The room in which you lost your treasure 
+during your last turn
+Black square with a "funky" green X through it - The position of the Thief -- a slippery 
+character who burglarizes the treasures of Depth Levels 2 and beyond, before you can 
+get to them.
+
+All the rooms you have visited thus far, and whether they are:
+
+Filled Square (Red) - Rooms still containing live enemies when you exited, or
+Outlined Square (Red) - Rooms "cleared" of enemies.
+
+Figure 3
+Shows all the items described above (you should see it!)
+Figure 3 -- The Map
+
+For every 10,000 points you score, you earn a bonus ship.  Completing a level and 
+then entering the "Collect Bonus" cube awards you 10,000 points and a new ship.  To 
+complete a level, you need to visit every room; you don't have to collect all the 
+possible treasures or destroy all the enemies.
+
+You can never really eliminate all the enemies anyway.  A room once cleared of 
+enemies may surprise you when you pass through it a second or third time.  These 
+enemies can regenerate themselves spontaneously.  Like evil ghosts elsewhere, they can 
+pop into any room at any time -- even those that you had once "cleared!"
+
+3.  USING THE 5200 CONTROLLERS
+
+You must you two 5200 controllers simultaneously with SPACE DUNGEON -- one to 
+guide your ship through space, and one to operate your laser cannon.  Plug the 
+controllers into jacks 1 and 2 on your console.  The controller plugged into jack 1 
+controls all keypad button commands and starts the game.
+
+CONTROLLER HOLDER
+
+Packaged with your Space Dungeon cartridge is a Controller Holder to make it easier 
+for you to operate both joysticks simultaneously.  See the enclosed supplement for 
+details on it's usage.
+
+PLAYER SELECTION
+
+Moments after you turn the power on, a selection menu will display your game options.  
+With the controller plugged into jack 1, press button 1 on your keypad for a one-player 
+game.  Press Button 2 for a two-player game in which you take turns after one player 
+loses a ship.  Press button 3 for a computer demonstration game.
+
+CONTROLLER ACTION
+
+The joystick of controller 1 guides your spaceship through the antechambers of space.  
+Move it in the direction you want to go.  Your ship will travel at a constant speed, 
+slightly faster than the quickest enemy.
+
+The joystick of controller 2 operates your laser cannon.  Point it in the direction you 
+want to fire.  The joystick will fire a continuous volley in any one of eight directions.
+
+START, PAUSE, and RESET
+
+Press START to begin the game when the selection menu is displayed.  Press PAUSE 
+to suspend a turn in progress or to freeze the action.  Press PAUSE a second time (or 
+press any other key on the keypad) to continue game play.  Press RESET to return to 
+the selection menu to start a new game.  If you hit RESET by accident, press button 4 
+on your keyboard to resume the game in progress.
+
+4.  SCORING
+
+Your score points for each enemy you destroy and for every piece of treasure you bring 
+into the "Collect Bonus" cube.  As you move from room-to-room to pick up treasure, 
+each piece is temporarily stored in the red treasure box at the top of the screen.  You 
+do not cash in on their point value until you enter the "Collect Bonus" cube.
+
+If you collide with an enemy, or if a bomb destroys your ship before you can reach the 
+"Collect Bonus" cube, all your treasure will be transferred from the red treasure box to 
+the room where your ship was destroyed.  This room will be designated on the 
+overhead map by a white square marked with an "X" (Figure 3)
+
+[Picture of the white X square]  This white square will remain visible only during your 
+next turn.  If you collect any treasure during your next turn, that white square will 
+disappear and will be replaced by another white square to designate the new room 
+where your ship was last lost.  Your treasure will remain in the rooms in which it was 
+deposited until you either cash it in for its point value and move on to another Depth 
+Level, or until you start another game.
+
+Each Depth Level has a maximum degree of difficulty.  The longer you cruise your 
+ship at any particular level, the closer you get to that level's maximum difficulty.  The 
+more valuable treasures can only be found on the more difficult Depth Levels.  
+Likewise, more powerful enemies (like the Spore Cases who release three deadly 
+spores simultaneously!) appear only at these more difficult Depth Levels.
+
+Points:
+Iron Cross - 500
+Copper Piece - 1000
+Silver Star - 2000
+Golden Fleece - 4000
+Platinum Ark - 8000
+[Figure 5 -- the treasures]
+Piker (ship) - 100
+Piker (shield) - 10
+Corner Zapper - 25
+Deathsquare - 25
+Thief - 50
+Guard - 125
+Executioner - 125
+Enforcer - 250
+Spore Case - 500
+[Figure 6 - the Enemies]
+
+BONUS SHIP
+
+You get a bonus ship and a musical salute for every 10,000 points you score.  You earn 
+a special bonus of 10,000 points for visiting all the rooms on any one level.
+
+5.  STRATEGIES AND HELPFUL HINTS
+
+There are a variety of strategies you can use -- some active, some passive.  You can 
+aggressively scour through space, fighting off enemies as you store treasure in the 
+Treasure Box.  Or you can isolate yourself in one of the rooms and blast to 
+smithereens, all those enemies who dare approach.
+
+You can cash in the collected treasure without completing the entire level.  Or you can 
+try to visit all the rooms, collecting as much treasure as possible before you decide to 
+cash in your treasure for points.  Of course, you can use any combination of these 
+strategies, as the circumstances of the moment dictate.
+
+SOME HELPFUL HINTS
+
+-- In the beginning, try moving your ship around the rooms without shooting to get 
+familiar with the maneuverability of the ship and its speed in relation to the enemies.
+-- Familiarize yourself with the eight different directions in which your ship can go and 
+where your laser cannon can fire.  This will help you from backing yourself in a corner 
+or trying to shoot an enemy along an angle that will not touch it.
+-- When you exit a room, the doorway you pass through will "glow" for a few seconds.  
+This indicates that the doorway has become temporarily impenetrable, preventing you 
+from immediately passing back through it.
+-- You can seal off portions of the wall by exiting a room, then returning to that room 
+through a different doorway, while the doorway you exited is still "glowing".
+-- You never know what you'll see in the next room, but you can be sure that if it 
+moves, it won't be friendly.  SPACE DUNGEON, therefore, is one game where the 
+"Shoot first and ask question later!" tradition of the Old West will sever you well.  It is 
+best to have your laser cannon firing in front of you as you enter a room; it will help 
+clear a path for your ship as you navigate through the rooms.  Laser fire will not 
+penetrate nearby rooms.
+-- Although the Corner Zappers always fire at random intervals, there is a detectable 
+patter in any one shooting session.  Sense the rhythm of the Corner Zappers and watch 
+that you don't cruise right into the middle of their line of fire.  If one Corner Zapper is 
+left alive when you exit a room, the other three will spontaneously regenerate 
+themselves to greet you if you decide to return.
+-- You can't kill a Thief.  When you shoot him, he will drop any treasure that he might 
+be carrying.  He will also leave behind Guards who will try to prevent you from 
+picking up the treasure he dropped when you caught him red-handed.
+-- For an interesting variation in game play, try playing SPACE DUNGEON with one 
+person guiding the spaceship while another is operating the laser cannon.
+
+END
+
+Typed by Clint Dyer for AGH

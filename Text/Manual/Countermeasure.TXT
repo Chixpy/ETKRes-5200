@@ -1,0 +1,381 @@
+
+ COUNTERMEASURE
+
+ BY ATARI
+
+ ==========================
+
+ ATARI welcomes your comments.  Please address all correspondence
+ to:
+
+ ATARI Customer Relations, 1312 Crossman Ave., Sunnyvale, CA 94086
+
+ To insert your ATARI 5200 game cartridge, hold the cartridge so
+ the name on the label reads right-side-up.  Then carefully insert
+ the cartridge into the slot in the center of the console.  Be
+ sure the cartridge is firmly seated, but do not force it.  The
+ POWER ON/OFF switch is located on the lower right side of the
+ 5200 console unit.  Press this switch to turn the power on after
+ inserting your game cartridge.  See your Owner's Manual for
+ further information.
+
+ ==========================
+
+ TABLE OF CONTENTS
+
+ 1. Attention!  All Supertank Units
+
+ 2. Game Play
+
+ 3. Using The 5200 Controllers
+
+ 4. Skill Levels
+
+ 5. Strategy
+
+ ==========================
+
+ 1. ATTENTION! ALL SUPERTANK UNITS
+
+ We've just received word that terrorists have seized one of our
+ missile silo complexes and are threatening to blow up Washington,
+ D.C.  These lunatics aren't fooling!  They've wired the missiles
+ to a silo computer and started the launch sequence timer.  In
+ just 10 minutes the missiles will lift off for Washington . . .
+ unless YOU stop them.  Destroy all the silos in the complex with
+ your long-range turret gun before the timer runs out.  If you
+ complete this mission, you'll win the Congressional Medal of
+ Honor . . . along with 10,000 bonus points and a bonus life.
+
+ If the timer runs out before you destroy all the silos, you still
+ have a chance to prevent disaster.  In the seconds before impact,
+ dock your supertank at a silo, enter the War Room, and guess the
+ fail-safe code that disarms the missiles:  The code is some
+ combination of the letters L, E, and O . . . for example, ELL,
+ OOO, or OLE.  Succeed and you win 10,000 bonus points and a bonus
+ life.  Fail and . . . well, you'll find out.
+
+ ==========================
+
+ 2. GAME PLAY
+
+ SCROLLING MAP
+
+ The scrolling map shows you the seven sites in the missile silo
+ complex (see Figure 1 on the following page).  Each site contains
+ a silo, a supply depot (which you'll need for refueling), and
+ four or five pillboxes strategically placed to protect the silo
+ and supply depot.  When you press START to begin a game, the
+ computer selects one of the sites at random and places your
+ supertank at the bottom of the television screen.  As your tank
+ travels to the top of the site, the map scrolls to reveal another
+ site.
+
+      [Screenshot with the following items labeled:  Launch
+      Sequence Timer, Silo, Supply Depot, Supertank, and Pillbox.]
+           Figure 1 - Silo Site
+
+ SUPERTANK
+
+ Your supertank (Figure 1) has three lives and earns a bonus life
+ every 10,000 points.  Its long-range turret gun rotates 360
+ degrees and moves independently of the tank body. (See Section 3
+ - USING THE 5200 CONTROLLERS for tank and turret gun control.)
+
+ The tank moves fast in the open, slower through fields, and
+ slowest through woods and towns.
+
+ SILO DEFENSES
+
+ The terrorists control all of the silo defenses:
+
+ *  Pillboxes [pictures of pillboxes]
+
+ *  Remote-controlled tanks and jeeps [pictures of a jeep and a
+    tank]
+
+ *  Cruise missiles.  [pictures of cruise missiles]
+
+ Pillboxes:  To reach silos and supply depots, you have to pass
+ pillboxes, which rotate and fire in your direction.  Trees and
+ buildings do not shield you from them.  Destroy pillboxes with
+ your turret gun when they get in the way of your mission.
+ Incidentally, don't try to drive through them.  You'll wreck your
+ tank and lose a life.
+
+ Tanks, Jeeps, and Cruise Missiles:  The skill level of your game
+ determines when these appear and how often.  Tanks and jeeps home
+ in and shoot at you, but their range is half that of yours.  Your
+ turret gun is the only thing that stops them.  You can run them
+ down, but that costs you lives and is probably not worth it.
+ Screaming cruise missiles try to impact on your tank but blow up
+ if they hit trees or buildings (except at skill level 9).
+
+ Anything you hit with your turret gun explodes and becomes a pile
+ of burning rubble.  You can drive through this debris, though it
+ may be slow going.
+
+ The longer you survive, the harder the terrorists try to stop you
+ and the rougher it gets.  Console yourself with the points you
+ pile up for hitting silos, pillboxes, and other terrorist weapons
+ (see SCORING).
+
+ REFUELING
+
+ WARNING!  Supertanks explode when they run out of fuel.
+
+ The fuel gauge turns red (see Figure 2) when your tank is low on
+ fuel.  To refuel, drive to a supply depot and dock (touch the
+ depot).  After refueling, the fuel gauge turns green.  (NOTE:
+ Colors may vary, depending on your TV control settings.)
+
+ FAIL-SAFE CLUES
+
+ In addition to fuel, you pick up fail-safe clues at supply
+ depots.  One letter of the code, in its correct position, appears
+ in the center of your fuel gauge (Figure 2).  The computer gives
+ clues at random.  Don't count on getting all three code letters,
+ even if you reach all seven supply depots.
+
+      [Screenshot with the Fuel Gauge in the lower left corner and
+      the Fail-Safe Code in the lower center labeled.]
+           Figure 2 - Refueling
+
+ GUESSING THE CODE
+
+ If the launch sequence timer runs out before you have destroyed
+ all the silos, you must dock at a silo and enter your fail-safe
+ code guess into the computer in the War Room (Figure 3).
+ However, you do not have to wait until the timer runs out.  You
+ can dock at a silo and guess the code any time you're ready.  Use
+ your controller keypad to enter the code (see KEYPAD in Section
+ 3).  If you guess right, you win 10,000 points and a bonus life.
+
+ WARNING!  If your tank gets too close to a silo, you will be
+ transported into the War Room and have to guess the fail-safe
+ code, ready or not.
+
+      [War Room Screenshot--just a map of the world.]
+           Figure 3 - War Room
+
+ END OF A MISSION
+
+ A game continues until you run out of lives, whether your mission
+ succeeds or fails.  If a life remains at the end of a mission,
+ the terrorists seize another silo complex, reset the launch
+ sequence timer, and begin a new wave of terror at the next
+ highest skill level.  The computer starts the new wave
+ automatically; you do not have to press any keys on your 5200
+ controller.
+
+ If you have no lives left at the end of a mission, the computer
+ resets to the scrolling map.  Press START to begin a new game at
+ the same skill level.
+
+ TWO-PLAYER GAMES
+
+ Player 1 (using the controller plugged into jack 1) starts the
+ game.  When he loses a life, Player 2 takes his turn.  Players
+ alternate until one player loses his last life.  The play then
+ continues with the remaining player until he also runs out of
+ lives.  The player with the highest score wins.
+
+ SCORING
+
+ Score counters, lives remaining counters, and the highest game
+ score appear at the top of the television screen (Figure 4).
+
+      Reaching Depot                50 Points
+      Pillbox                      100 Points
+      Jeep                         200 Points
+      Tank                         300 Points
+      Silo                         500 Points
+      Cruise Missile              1000 Points
+      Destroying Silos in Time  10,000 Points
+      Guessing Fail-Safe Code   10,000 Points
+      Bonus life every 10,000 points.
+
+ NOTE:  Zapping silos after the launch sequence timer runs out is
+ cause for courtmartial and dishonorable discharge from the Super
+ tank Corps.  If you destroy the last silo after the timer runs
+ out, you forfeit the 10,000 bonus points and bonus life.
+
+      [Screenshot with the following items on the bar at the top
+      of the screen labeled:  Player 1 Lives Remaining, Player 2
+      Lives Remaining, Player Scores, and Highest Game Score.]
+           Figure 4 - Game Counters
+
+ ==========================
+
+ 3. USING THE 5200 CONTROLLERS
+
+ For one-player games, plug a 5200 controller into jack 1 on the
+ front of the console unit.  For two-player games, plug an
+ additional controller into jack 2 (see Figure 5).
+
+      [Photo of a 5200 pointing out where to plug in the
+      controllers.  Duh!]
+           Figure 5 - Controller Connections
+
+ KEYPAD OVERLAYS
+
+ For your convenience, two keypad overlays are included with this
+ game (Figure 6).  Slip the overlay tabs into the slots provided
+ on the controller keypad.
+
+           L          E            O
+       --------    --------    --------
+      |        |  |        |  |        |
+      |        |  |        |  |        |
+       --------    --------    --------
+
+       --------    --------    --------
+      |        |  |        |  |        |
+      |        |  |        |  |        |
+       --------    --------    --------
+
+       --------    --------    --------
+      |        |  |        |  |        |
+      |        |  |        |  |        |
+       --------    --------    --------
+
+      1-2 PLAYERS  AUTO-TANK  SKILL LEVEL
+       --------    --------    --------
+      |        |  |        |  |        |
+      |        |  |        |  |        |
+       --------    --------    --------
+                   STOP-TANK
+
+           Figure 6 - Keypad Overlay
+
+ CONTROL KEYS
+
+ START.  Press START to begin a game.  In two-player games. Player
+ 1 starts the first game.  Thereafter, the one who played last
+ starts the game.  To interrupt a game and start over, press PAUSE
+ and then START
+
+ PAUSE.  Press PAUSE to freeze the action temporarily.  Press
+ PAUSE again to continue playing.
+
+ RESET.  Press RESET to display the options (Figure 7) before
+ starting a game.  After starting a game, press PAUSE and then
+ RESET to display the options.
+
+      [Screenshot before the start of a game with the options
+      display at the top of the screen.]
+           Figure 7 - Options Display
+
+ KEYPAD
+
+ L, E, and O (Keys 1, 2, and 3).  Press these keys to enter the
+ fail-safe code.  Keep pressing keys, in any sequence, until you
+ guess the code and save Washington or the missiles impact and you
+ take the consequences.
+
+ 1-2 PLAYERS (Key *).  COUNTERMEASURE is set for one player. Press
+ this key to select the 2 PLAYERS option.  Press it again to
+ select the 1 PLAYER option.
+
+ AUTO-TANK/STOP-TANK (Key 0).  COUNTERMEASURE is set for
+ AUTO-TANK. Press this key to select STOP-TANK.  Press it again to
+ return to AUTO-TANK.
+
+ * STOP-TANK.  Supertank stops when you press the bottom red
+ button to turn the turret gun (see JOYSTICK).
+
+ * AUTO-TANK.  Supertank keeps moving when you press the bottom
+ red button to turn the gun.
+
+ SKILL LEVEL (Key #).  Press to change the skill level.
+ COUNTERMEASURE is set for skill level 1.  (Skill levels are
+ discussed in Section 4.)
+
+ RED BUTTONS
+
+ See Figure 8.
+
+ Top Button.  Press to fire your turret gun.
+
+ Bottom Button.  Press to turn the turret gun with the joystick.
+
+      [Photo of a 5200 controller.  The top fire button is labeled
+      "Fire Gun," and the bottom button is labeled "Turn Gun."]
+           Figure 8 - 5200 Controller
+
+ JOYSTICK
+
+ Use the joystick on your 5200 controller to drive your supertank
+ and to turn the turret gun (see Figure 9).  Hold in the bottom
+ red button to turn the gun.  Release the button to drive the
+ tank.  The turret gun is independent of the tank and remains set
+ when you move the tank.
+
+      [Drawing of a compass rose indicating the possible
+      directions of movement, e.g. up, down left, right and
+      diagonal.  Did they really need to include a figure for
+      this?]
+           Figure 9 - Joystick Moves
+
+ ==========================
+
+ 4. SKILL LEVELS
+
+ There are 10 skill levels, from 0 to 9.  In general, the higher
+ the skill level, the faster the game.  Advancing to a higher
+ level increases the pace and difficulty as follows:
+
+ * Turret gun shoots faster and further.
+
+ * Pillboxes rotate faster and shoot further.
+
+ * Jeeps, tanks, and cruise missiles appear sooner and more often.
+
+ * Cruise missiles home in more accurately.
+
+ * Impact timer counts down faster.
+
+ Level 9 is the most difficult skill level and may even be hard
+ for experts.  If you're an expert, give it a try.  Cruise
+ missiles never impact on trees and buildings and seldom miss the
+ target.
+
+ Level 0 is slow and easy.  It's a good level for practicing
+ maneuvers and working out strategy.
+
+ ==========================
+
+ 5. STRATEGY
+
+ Here are a few tips to help you succeed in your mission:
+
+ KEEP MOVING.  As everyone knows, a moving target is harder to
+ hit.  For that reason, you may prefer the AUTO-TANK option to
+ STOP-TANK at higher skill levels.
+
+ REMEMBER YOUR GOAL.  Your primary objective is to destroy all the
+ silos before the timer runs out.  You'll never make it if you go
+ for every pillbox and supply depot.  Concentrate on the pillboxes
+ that are in your way.  Pass up a supply depot if you have enough
+ fuel to make it to the next depot.
+
+ PACE THE PILLBOXES.  At the start of a game, pillboxes will
+ rotate twice before they start firing at you.  Take advantage of
+ this to zap one or two.  You can also draw their fire and then go
+ for them while their guns are rotating away from you.  But watch
+ out for crossfire from other pillboxes.  They don't all rotate in
+ sync.
+
+ SHOOT DIAGONALLY.  Your turret gun shoots further when it's line
+ of fire is diagonal to the target.
+
+ DON'T BE AN EASY TARGET.  When cruise missiles start looking for
+ you, trees and buildings are your best defense.  So stick to the
+ forests and towns and cross open country as fast as possible.
+ (This tip won't help you at skill level 9.)
+
+ END
+
+ Typed by Jay Tilton (tiltonj@erols.com)
+
+ for Atari Gaming Headquarters

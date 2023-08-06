@@ -1,0 +1,150 @@
+
+ MARIO BROS.
+
+ BY ATARI
+
+ #CX5247 Released for the Atari 5200 Supersystem (C) 1983
+
+ Note:  Always turn the console POWER switch OFF when inserting
+ or removing an ATARI Game Program(tm) Cartridge.  This will
+ protect the electric components and prolong the life of your
+ ATARI Video Computer System(tm) game.
+
+ MARIO'S PLUMBING PROBLEMS!
+
+ Mario the carpenter and his brother Luigi are hopping mad!
+ The water pipes in their house are blocked with crawling
+ creatures.  If the two brothers can't get rid of them, they'll
+ never take a bath again!
+
+ Your task is to help Mario and Luigi knock the pipe pests off
+ the floors and into a puddle of water below.  Each time a pest
+ is knocked off, you earn points; when all the pests are knocked
+ off, the next round begins.  You start the game with six lives,
+ and earn one additional life at 20,000 points.
+
+ THE PESTS
+
+ Knocking off a pest is a two-part maneuver:  First punch the
+ floor directly beneath a pest to flip it on its back, then
+ jump up and kick it off the floor before it recovers.  The
+ pipe pests you encounter are:
+
+ Shellcreeper (turtle):  To eleminate a shellcreeper, hit it
+ once from below, then kick it off the floor before it crawls
+ out of its shell and rights itself.
+
+ Sidestepper (crab):  Sidesteppers are harder to knock off.
+ The first time you hit one, it becomes enraged.  Hit it again,
+ and it will flip over.
+
+ Fighterfly (butterfly) :  Fighterflies hop from one section
+ of the floor to another; the only time you can flip one over
+ is when its feet are touching the floor.
+
+ A pipe pest is worth 800 points when you knock it off a
+ floor.  If you can kick more than one pest off a floor
+ within a short amount of time, however, you'll score extra
+ points. For example, if you kick off three pests at once,
+ you'll score 800 points for the first, 1600 for the second,
+ and 2400 points for the third.
+
+ BONUS COINS AND COIN PHASE
+
+ Earn 800 extra points for every bonus coin picked up.  A
+ coin comes out of a waterpipe each time a pest is kicked
+ off a floor.
+
+ At certain times during a game, the pests disappear and
+ a coin phase begins.  During a coin phase, the screen is
+ filled with dangling coins; you are given a limited amount
+ of time to collect the coins.  In the first coin phase,
+ you earn 5000 points if all the coins are collected within
+ 22 seconds.  In subsequent coin phases, you earn 8000
+ points if all the coins are collected within 18 seconds.
+
+ THE POW SWITCH
+
+ The POW switch is located on your screen between the two
+ lowest floors.  If Mario or Luigi hits the POW switch, it
+ delivers a punch to all the pests on the screen.  You may
+ use the POW switch only three times before it disappears,
+ but a new POW switch appears after every coin phase.
+
+ SLIPICE
+
+ In higher levels of game play, you'll encounter Slipice,
+ an iceman who freezes floors into slippery ice. To prevent
+ Slipice from freezing floors, punch him from below the same
+ way you would hit a pest.
+
+ FIREBALLS
+
+ During the game you'll encounter blazing hot fireballs that
+ can fry Mario or Luigi to a crisp.  There are two types-
+ orange fireballs that bounce between levels, and gold
+ fireballs that stay on a single level.  Avoid fireballs if
+ you can, and score extra points by punching them from below
+ when they touch a floor.
+
+ TWO-PLAYER GAMES
+
+ In two-player games, one player controls Mario while the
+ other player controls Luigi.  This opens up new worlds of
+ game-playing stategy.  For example, you can play as a team
+ with one player punching the pipe pests and the other player
+ kicking pests off floors.  Or, you can compete with each
+ other to see who can achieve the best score.  Watch out for
+ sneak attacks--your opponent may punch a pest back onto its
+ feet just when you're about to kick it off a floor!
+
+ USING THE CONTROLLERS
+
+ Plug one 5200 controller firmly into jack 1 for one-player
+ games; plug a second controller into jack 2 for two-player
+ games.  The player using jack 1 controls game selection and
+ starts the game. Use your joystick to move Mario and Luigi
+ left or right; use the bottom fire buttons to make Mario
+ or Luigi jump.
+
+ CONTROL KEYS
+ Press START to begin the game.
+ Press PAUSE to freeze the action; Press PAUSE again to resume
+ game play.
+ Press RESET to return to the game option screen.
+ Press * to select a one- or two- player game.
+
+ SCORING
+ Flipping a pest                          10
+ Kicking a pest off the floor             800
+ Hitting Slipice                          500
+ Hitting an Orange Fireball               1000
+ Hitting a Gold Fireball                  200
+ Bonus Coin                               800
+ Collecting all Bonus Coins (1st phase)   5000
+ Collecting all Bonus Coins (2nd phase+)  8000
+
+ HELPFUL HINTS
+ *Use your POW switch when there's one more than one pest on
+ the screen.
+ *Watch out for the last pest on the screen--it will speed up
+ and be much harder to punch.
+ *Try to hit a Sidestepper two times as quickly as possible.
+ If you're fast, you can flip it over before it scurries off to
+ a different level
+ *Learn the fastest route to pick up coins during a coin phase.
+
+ Atari welcomes your comments.  Please address all
+ correspondence to:
+ Arari, INC.
+ Customer Relations
+ 1312 Crossman Avenue
+ Sunnyvale, California 94806
+
+ Atari CX5247  A Warner Communications Company
+
+ END
+
+ Typed by Dan Reinholtz  (sammy97@niu.edu)
+
+ for Atari Gaming Headquarters

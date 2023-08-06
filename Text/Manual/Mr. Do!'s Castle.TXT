@@ -1,0 +1,197 @@
+
+ MR. DO!'S CASTLE
+
+ BY PARKER BROTHERS
+
+ RULES - ATARI 5200 GAME SYSTEM / COLECOVISION GAME SYSTEM
+
+ OBJECT
+ To keep MR. DO! safe and moving to the next scene in his castle. To
+ do this, help him eliminate as many unicorns as possible by either
+ whacking them directly on the head with his hammer, or by hammering
+ out floor blocks from above so they land directly on top of the
+ unicorns.
+
+ SETTING THE CONSOLE CONTROLS
+ For Atari 5200 and ColecoVision Game Systems
+ 1. Place the cartridge firmly into the cartridge slot.
+ 2. Turn the ON/OFF switch to the ON position.
+ 3. Press the FIRE button once to begin the action.
+
+ THE JOYSTICK
+ Use your joystick to move MR. DO! through the castle. To make MR. DO!
+ move left or right, move the joystick in those directions. To make
+ MR. DO! climb up a ladder, push forwards on the joystick; to climb
+ down, pull backwards.
+
+ THE FIRE BUTTON
+ Press the FIRE button any time you want MR. DO! to swing his hammer.
+ You must press the FIRE button for each swing of the hammer.
+
+ PLAYING
+ This hammer-happy game begins as MR. DO! enters his humble home
+ through the basement. With hammer in hand, he's ready to confront his
+ invaders head-on. Guide MR. DO! up and down ladders, down hallways -
+ even drop him off landings or through openings in the floor. But
+ above all, keep him a safe distance from all the deadly unicorns.
+ One bite and he's a goner!
+
+ THE SCREEN
+ In this game, there are 8 different scenes (or screens)- each one
+ somewhere - in MR. DO!'s Castle. In each scene, there are 7 floors in
+ the castle, including the top and basement floors.
+ Atari 5200 Screen
+ To the immediate right of the castle, you'll see a set of numbers and
+ bars. The numbers on the top represent your score. The bars directly
+ below these numbers represent the number of remaining MR. DO!'s. Each
+ time you lose a MR. DO!, one bar will disappear from the screen.
+ Also, each time you earn a bonus letter in the word "EXTRA," it will
+ appear to the right of the screen.
+ ColecoVision Screen
+ To the immediate right of the castle, you'll see a set of numbers.
+ These numbers on top represent your score. Beneath your score you'll
+ see 5 flags. Each time you earn a bonus letter in the word "EXTRA,"
+ it will appear on one of these flags. Finally, next to the flags
+ you'll see small profiles of MR. DO!'s caps. These represent the
+ number of your remaining MR. DO!'s.
+
+ THOSE PESKY UNICORNS
+ Whether they're red, blue, or green- these unicorns are all deadly.
+ And they're all after MR. DO!. But there are a few things about each
+ color unicorn you'll find helpful.
+ Red Unicorns
+ You'll meet these hot little guys first. But not to worry- you should
+ have little trouble eliminating them. On levels 1 and 2, if any
+ unicorns are standing on a block, you can whack them directly on the
+ head with your hammer. Or, on any level, drop blocks onto them. Even
+ slow them down by hammering them through openings in the floor once
+ they've become trapped in a hole. The catch is: shortly after you've
+ eliminated all but the last red unicorn, you'll hear a change in the
+ background music and-POOF-he'll turn blue and double in number!
+ (ColecoVision Only): If you hit red unicorns on the head too many
+ times with your hammer, they'll turn into green unicorns!
+ Green Unicorns
+ You'll notice that green unicorns are a bit more feisty than red
+ unicorns, though not as tricky as the blue ones. So be prepared.
+ (ColecoVision Only): If you hit green unicorns with your hammer,
+ they'll turn into blue unicorns!
+ Blue Unicorns
+ Blue unicorns are the nastiest of them all, and they're known to
+ "clone" around. That is, they have the power to split into two
+ seperate unicorns.
+ One final note: blue unicorns are also a bit more hard-headed than
+ the other color unicorns- which means you can't knock them through
+ holes in the floors!
+ Each time you eliminate a unicorn, you earn points DEPENDING ON THE
+ NUMBER OF FLOORS THEY FALL THROUGH (see SCORING section). When you
+ eliminate ALL unicorns in a particular scene, you automatically
+ advance to the next scene.
+ NOTE: On rare occasions, the unicorns may not find their way to MR.
+ DO!  When MR. DO! proceeds to a different floor, however, they'll be
+ back in hot pursuit!
+
+ BONUS LETTER UNICORNS
+ Unlike the rest of the unicorns in MR. DO!'s Castle, these critters
+ run AWAY from MR. DO! instead of running after him. That's because
+ you earn Bonus Letters for each one you clobber. When you've
+ collected all 3 keys in a scene, AND reached the door at the top of
+ the castle, the unicorns will change to Bonus Letters. In the next
+ few seconds, clobber as many Bonus Letters as possible with your
+ hammer or with falling blocks. For each one you eliminate, you'll
+ earn the corresponding letter in the word "EXTRA." Spell EXTRA and
+ you win an extra MR. DO! and advance to the next
+ scene.
+ NOTE: When time is up, Bonus Letter unicorns will change back into normal
+ unicorns.
+
+ MR. DO!'S CASTLE
+ MR. DO!'S Castle is not your average home. But then, MR. DO! is not
+ your average clown. In any case, as you move about the castle, you'll
+ need to know the following things:
+ Ladders
+ For the most part, MR. DO! (and the unicorns) use the many ladders
+ through-out the castle to travel to different levels. But the slanted
+ ladders are the ones to watch. These ladders swing left or right
+ whenever MR. DO! "kicks" them. Just guide MR. DO! over to the top of
+ the swinging ladders. When his foot touches them, away they'll swing.
+ You may want to swing ladders away from a particular floor when
+ unicorns are hot on your heels!
+ Floor Blocks
+ You'll notice that there are 7 floors in MR. DO!'s Castle -including
+ the top and basement floors- and that both MR. DO! and the unicorns
+ can travel on any of them. However, the middle 5 floors (excluding
+ the top and basement) are made of several blocks featuring different
+ items. These items are:
+ *Cherries- Cherries happen to be MR. DO!'s favorite treat. So, of
+ course, his hallways are going to be filled with them. For each
+ cherry block you knock out, you earn 20 points. Knock out all the
+ cherry blocks in a scene and you'll automatically advance to the next
+ scene.
+ *Keys- Keys are definitely the key here! MR. DO! must knock out all
+ the blocks featuring keys if he's to open the door at the top of the
+ castle and earn a chance to win Bonus letters. For each key block you
+ knock out, you earn 20 points.
+ *Skulls- Skulls mean trouble for these troublesome unicorns. You'll
+ notice that in some cases, there are skulls at either end of a
+ particular section of a floor. If there are unicorns somewhere in the
+ middle of that section, and you knock out BOTH skull blocks, the
+ entire section will drop - and be replaced by a slatted bridge. This
+ is a good way to eliminate several unicorns in one fell swoop. You
+ earn 20 points for each skull block you knock out.
+ *Unicorn's Blocks- When these unicorns fall into a hole in any of the
+ floors, they like to fill it in (so they won't get trapped the next
+ time around)! You can still knock out these blocks at any time,
+ earning 20 points for each.
+ Castle Door
+ On the very top floor of the castle, directly in the center, you'll
+ see a door. At the start of each scene, the unicorns will enter the
+ castle from here. But when MR. DO!'s knocked out all the key blocks,
+ the castle door will flash, meaning Bonus Letter unicorns are on the
+ way. If MR. DO! reaches the door without being bitten, you'll earn
+ bonus points- plus a chance to collect Bonus Letters!
+
+ GAME DIFFICULTY
+ There are 8 different scenes and 16 different Difficulty Levels
+ within MR. DO!'s Castle- each more difficult than the one before. In
+ general, as you progress through the various scenes, the following
+ things will happen:
+ *More unicorns will appear on screen.
+ *Unicorns will become more aggressive.
+ *Ladders and floor blocks will change positions.
+
+ END OF GAME
+ When you lose all of your MR. DO!s, the game ends. To play again,
+ simply press the FIRE button. The game will begin at scene 1 and
+ you'll receive 5 MR. DO!s.
+
+ SCORING
+ Eliminating Unicorns
+ Red Unicorns & Bonus Unicorns Falling:
+ 0-1 levels..............................500 points
+ 2 levels...............................1000 points
+ 3 levels...............................1500 points
+ 4 levels...............................2000 points
+ 5 levels...............................2500 points
+ Green Unicorns Falling:
+ 0-1 levels.............................1000 points
+ 2 levels...............................2000 points
+ 3 levels...............................3000 points
+ 4 levels...............................4000 points
+ 5 levels...............................5000 points
+ Blue Unicorns Falling:
+ 0-1 levels.............................1500 points
+ 2 levels...............................3000 points
+ 3 levels...............................4500 points
+ 4 levels...............................6000 points
+ 5 levels...............................7500 points
+ Knocking out floor bricks              20 points each
+ Opening the castle door                1,500 points (scene 1)
+                                        500 additional
+                                        each successive scene
+                                        (Maximum of 8000 points)
+
+ END
+
+ Typed by Robert "Ferg" Ferguson (wombat2@ix.netcom.com)
+
+ for Atari Gaming Headquarters

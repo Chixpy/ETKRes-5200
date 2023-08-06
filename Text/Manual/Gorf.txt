@@ -1,0 +1,248 @@
+GorfGorf
+
+
+
+GORF
+
+For the Atari(R) 5200(TM)
+For one or two players.
+
+GAME PLAY
+INSTRUCTIONS
+
+(C)MCMLXXXIII CBS Toys, A Division of CBS Inc.
+* GORF is a trademark of Bally Midway Mfg. Co.
+(C)1981,1983 Bally Midway Mfg. Co. All Rights Reserved
+Atari(R) and 5200(TM) are trademarks of Atari, Inc.
+
+CBS Electronics
+
+SETTING UP YOUR VIDEO CONSOLE
+
+1. Hook up your video game system, following manufacturer's instructions.
+
+2. With the power OFF< plug in the video game cartridge.
+
+3. Turn power ON.  If no image appears, check the connection of your game
+   system to the TV, then repeat steps 1-3.
+
+4. Plug a 5200(TM) Controller firmly into controller jack 1.  This is a
+   one or two-player game using the same controller.
+
+5. Keypad overlays are provided for your convenience.  If you desire, slip
+   an overlay onto the keypad of your controller.
+
+6. Press the keypad square marked 1-2 Players (the # key) to select either
+   the one-player or two-player version.
+
+7. Players start with Mission #1 at the Cadet level.  To begin at a higher
+   level, press the keypad square marked Rank Level (the * key) until the
+   desired level appears on the screen.
+
+8. To start the game, press the START key or one of the two bottom trigger
+   buttons on the sides of the controller.  The upper buttons have no 
+   functions in the game.  To pause the game at any point, press the PAUSE
+   key.  To resume the game, press this key again.  Pressing the START key
+   again at any time will immediately return the game to the first mission.
+   Pressing the RESET key will cause the title screen to reappear.
+
+   STRATEGY HINTS are located on the back of this manual.
+
+Note: Never remove your video game cartridge from the console unless the
+power is turned OFF.
+
+MESSAGE FROM INTERSTELLAR SPACE FORCE COMMAND
+
+Space Cadet:
+
+By the time you read this communique, we of the interstellar Space Force
+command will have been destroyed.  The evil Gorfian Empire has launched an
+all-out attack.  You are Earth's last hope!  Your assignment is to repel
+the invasion and launch a counterattack.  You will engage various hostile
+spacecraft as you journey toward a dramatic confrontation with the enemy
+Flag Ship!  You will be rewarded for your success with promotions in rank
+and praise from a grateful planet.  But you must act quickly, Space Cadet!
+Brief yourself on the Gorfian Robot Armada and then attack before it's...
+TOO LATE!
+
+MESSAGE ENDED
+
+OBJECT OF THE GAME
+
+The object of GORF is to accumulate points by destroying the various types
+of enemy spacecraft you will encounter as you attempt to complete a variety
+of space missions.
+
+INTERSTELLAR SPACE FIGHTERS
+
+You begin each game with a fleet of five Fighters.  Only one Fighter at a
+time may fire upon the enemy.  The time may fire upon the enemy.  The number
+of Fighters remaining in your fleet is indicated throughout the game at the
+top of the screen.
+   Use the joystick to maneuver your Fighter back and forth, and up and down.
+To fire your laser, press one of the two button trigger buttons on the sides
+of your controller.  You have an unlimited supply of ammunition.
+
+Note: Firing a shot causes a previously discharged bullet to disintegrate if
+it hasn't yet made contact.
+
+You will be awarded one extra fighter plus a promotion of Rank every time
+you make it through the series of four space missions.
+
+MISSION 1 - ASTRO BATTLES
+
+Before taking off into space, you must first defend the Earth from the horde
+of advancing Gorfian Droids.  These invaders decscend in column formation and
+drop dangerous anti-matter bombs.  Bonus points are scored for hitting the
+bouncing Gorf and Command Ship that randomly pass overhead.  When the entire
+attack matrix is destroyed you will proceed on to your next mission.  Should
+any of the invaders bust through your defense shield and reach the Earth's
+surface before you've destroyed them, this mission will be terminated.
+
+MISSION 2 - LASER ATTACK
+
+This orbital zone is the Gorfian Empire's first line of defense against your
+counterattack.  Destroy the anti-particle Laser Ships while avoiding their
+deadly beams.  Each Laser Ship is protected by three Kamikaze Invaders and a
+Flying Gorf.  They'll continuously try to ram into you as you attempt to
+blast them all.
+   Points are scored for all enemies shot and destroyed.  No points are scored
+for Kamikaze Invaders blown up in a suicide-crash.  When all attack ships are
+destroyed, you will move on to your next battle.
+
+MISSION 3 - SPACE WARP
+
+You are getting closer to the enemy Flag Ship!  Sensing your presence, it
+generates an eerie space web which releases Gorfian Attackers and Flying Gorfs
+firing subquark torpedoes.  These aliens are released one at a time and fly in
+a spiral pattern.  When you succeed in getting past this level, you'll be
+ready for your next and most challenging mission.
+
+MISSION 4 - FLAG SHIP
+
+To destroy the Gorfian Flag Ship and earn the right to work toward your next
+promotion, you must score a direct hit in the Flag Ship's internal power
+reactor vent.  In order to get a clear shot at this difficult target, you must
+first blast a hole in the Flag Ship's heavy force field arc, while avoiding the
+heat-seeking missiles being launched in your direction.  The debris that falls
+from the Flag Ship following a shot to its outer hull is radioactive, but may
+be fired upon for extra points.  Following a successful hit, a violent
+neutronium explosion will appear in dazzling color as the Flag Ship
+disintegrates.  You are now a Space Captain and will repeat the sequence of
+missions fighting against progressively faster and nastier robots of the
+Gorfian Empire!
+
+END OF GAME
+
+The game ends when all your Interstellar Space Fighters have been destroyed by
+the robot warriors of the Gorfian Empire.
+
+TWO-PLAYER VERSION
+
+Two players may compete in GORF, alternating turns.  Both players must use the
+same controller.  Since only one player can play at a time, sharing should not
+pose a problem.  Just be prepared to pass the controller to the other player
+when your turn has ended.  The screen will notify each player as to whose turn
+it is.
+
+FIELD PROMOTION SCHEDULE
+
+Rank			Missions
+--------------------------------
+Space Cadet		1 to 4
+Space Captain		5 to 8
+Space Colonel		9 to 12
+Space General		13 to 16
+Space Warrior		17 to 20
+Space Avenger		21 and up
+
+SCORING
+
+Your score is displayed at the top of the screen throughout the game.
+
+Mission			Object		Point Value
+-----------------------------------------------------------
+Astro Battles		Gorfian Droids		50 points
+			Bouncing
+			Gorf and
+			Command Ship		250 points
+-----------------------------------------------------------
+Laser Attack		Kamikaze
+			Invaders and
+			Flying Gorfs		100 points
+			Laser Ships		300 points
+-----------------------------------------------------------
+Space Warp		Gorfian Attackers
+			and Flying Gorfs	100 points
+-----------------------------------------------------------
+Flag Ship		Hitting Flag Ship	20 points
+			Debris and Flying
+			Gorfs*			150 points
+			Destroying Flag		1000 points
+			Ship
+-----------------------------------------------------------
+* Flying Gorfs appear with the Flag Ship starting at the
+level of Captain.
+
+CBS Electronics
+VIDEO GAME CARTRIDGE LIMITED NINETY DAY WARRANTY
+
+CBS Inc. ("CBS") warrants to the original consumer
+purchaser of this CBS Electronics cartridge for a period
+of ninety days from the date of purchase that it is free
+from any defects in materials or workmanship.  If any such
+defect is discovered within the warranty period, CBS will
+repair or replace the cartridge, at its option, free of
+charge on receipt of the cartridge with proof of date of
+purchase, postage paid, at:
+CBS Electronics, 601 Doremus Avenue
+Newark, NJ 07105
+
+In the event that your cartridge is replaced, the replacement
+will be continued on the original warranty for the balance of
+its term or for 30 days, whichever is longer.
+
+This warranty is limited to the electronic circuitry and
+mechanical parts originally provided by CBS and is not
+applicable to normal wear and tear.  This warranty shall not
+apply to defects arising from abuse, unreasonable use,
+mistreatment or neglect.
+
+ANY APPLICABLE IMPLIED WARRANTIES, INCLUDING WARRANTIES OF
+MERCHANTABILITY AND FITNESS, ARE HEREBY LIMITED TO NINETY
+DAYS FROM THE DATE OF PURCAHSE.  CONSEQUENTIAL BREACH OR
+INCIDENTAL DAMAGES RESULTING FROM A BREACH OF ANY APPLICABLE
+EXPRESS OR IMPLIED WARRANTIES ARE HEREBY EXCLUDED.
+
+Some states do not allow limitations on how long an implied
+warranty lasts or do not allow the exclusion or limitations
+of incidental or consequential damages, so the above limitations
+or exclusions may not apply to you.
+
+This warranty gives you specific legal rights and you may also
+have other rights which vary from state to state.
+
+STRATEGY HINTS
+
+1. Astro Battles - Start picking off the invaders from the edges.
+By destroying entire columns, the rate of descent is reduced.
+
+2. Laser Attack.  Kamikazes and Flying Gorfs should be destroyed
+at maximum possible range, especially when they power dive.
+
+3. Space Warp.  Attackers are easiest to destroy when they first
+emerge.  They are moving slower and the spiral movements is
+lighter.
+
+4. Flag Ship.  Create large holes in the force field arc before
+attempting to hit the reactor.  You'll have a better line of
+fire.
+
+CBS Toys, A Division of CBS Inc., Newark, NJ 07105
+2L-2614-0000
+
+
+
+
+This document obtained from the History of Home Video Games Homepage, ©1997-1998 
+by Greg Chance

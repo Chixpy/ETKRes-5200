@@ -1,0 +1,60 @@
+
+ ZAXXON
+
+ BY SEGA
+
+ Strap into the command position of a space-fighter craft.  You're
+ rocketing through space prepared for your ultimate encounter with a
+ deadly armored robot.
+
+ On your journey you can survive only if you can pinpoint your craft
+ through force fields, walls, and other deadly obstacles.
+
+ Draw upon your pilot skills to dodge the constant blitz of enemy
+ fire.  All of your skills will be needed to survive the challenges
+ of this ultimate space mission.
+
+ USING YOUR CONTROLS
+ -------------------
+
+ THE JOYSTICK CONTROLLER
+
+ For a single player game: Connect joystick to controller Jack #1
+ For two player game: Connect second joystick to controller Jack #2
+
+ If you want to play a two player game press * on Joystick #1.
+
+ To descend push your joystick forward
+ To ascent pull your joystick back
+
+ TO START GAME
+
+ Press start or the bottom right fire button on joystick to begin
+ game.
+
+ THE RESET KEY
+
+ Press RESET key to abort game and return to the title page.  Reset
+ will only work once the game has started.
+
+ THE PAUSE KEY
+
+ Press pause to pause game.  Press pause again to resume play.
+
+ HOW TO PLAY
+ -----------
+
+ WEAPONS AND OBSTACLES:
+
+ GUN EMPLACEMENTS
+ Beware of these guns as you fly through the Space Fortress.  Receive
+ 200 or 500 points for each gun you destroy.
+ Scoring for destruction is random.
+ Destroy them before they demolish you.
+
+ ENEMY PLANES
+ Enemy planes are parked on the ground
+
+ END
+
+ Typed by Keita Iida (keita@mindspring.com)

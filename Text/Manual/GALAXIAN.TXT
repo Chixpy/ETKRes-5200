@@ -1,0 +1,270 @@
+
+ GALAXIAN
+
+ BY ATARI, INC.
+
+ To insert your 5200 game cartridge, hold the cartridge so that the
+ name on the label faces you and reads right-side-up.  Then carefully
+ insert the cartridge into the slot in the center of the console.  Be
+ sure the cartridge is firmly seated, but do not force it.  The POWER
+ ON/OFF switch is located on the bottom right side of the ATARI 5200.
+ Press this switch to turn the power on AFTER inserting your game
+ cartridge.  See your Owners Manual for further information.
+
+ (C)1982 ATARI, INC.  ALL RIGHTS RESERVED
+
+ TABLE OF CONTENTS
+
+ 1. The Galaxian Invasion
+ 2. Game Objective
+ 3. Using The 5200 Controllers
+ 4. Trak-Ball Option
+ 5. Scoring
+ 6. Skill Levels
+ 7. Game Strategy
+
+ DEFEND THE PLANET!
+
+ 1. THE GALAXIAN INVASION
+
+ What an induction!  You no sooner join the Intergalactic Warrior
+ Fleet than the explosion hits.  Suddenly the planet is under attack.
+ Without prior training, you have to complete your first mission--
+ defending the planet.  On the job combat is the only way to learn, so
+ you have to go out there and do your duty.  Shaking in your boots,
+ you accept the assignment and board your intergalactic command ship.
+
+ You soon find out that this invasion has something to do with a
+ centuries-old interstellar war.  As a result of this war, the
+ Galaxian government lost many planets.  Now they are fighting to
+ reclaim their lost territories.  Knowing they have no right to your
+ planet, you're ready to put your life on the line and fight to the
+ bitter end.
+
+ The Galaxian invasion starts off with a bang.  Instantly, an entire
+ fleet of invaders descends toward the planet.  The command ship
+ suddenly becomes the target of a missile ambush.  The Galaxian fleet
+ is fast and strong.  They attack in waves, approaching faster and
+ faster with each wave.  They swoop downward, firing laser cannons.
+ The majority of them charge in single file; others blitz in groups.
+
+ Flagships never fly alone, for they are always flanked by protective
+ Escorts.  Their colorful uniforms make their ranking order easy to
+ identify.  Drones, the lowest rank, wear blue; Emissaries wear
+ purple; Hornets are outfitted in red; and Flagship Commanders, the
+ highest rank of all, wear yellow.
+
+ The Galaxian fleet is smart and experienced in battle.  They have
+ special radar that enables them to dodge intergalactic missiles.
+ Their warfare includes tricks to divert attention.  The Galaxian
+ ability to pull off unexpected surprises forces you to use foresight
+ and caution, plus cunning and skill.
+
+ Nevertheless, the initial attack is thwarted.  But the battle isn't
+ over yet.  They'll be back, stronger than ever.  Next time, you'll be
+ manning the command ship, again waiting courageously to defend the
+ planet and defeat the Galaxian fleet.  Use your accurate aim and
+ quick reflexes, as well as strategy and forethought.  A foolish move
+ could cost you the battle and the planet.
+
+ 2. GAME OBJECTIVE
+
+ Your game objective is to destroy the Galaxian fleet before it
+ destroys you.  In doing so, you score points--the player with the
+ most points wins.  Galaxian battle strategy is to attack in a
+ succession of accelerating waves; each wave fiercer than the last.
+ Waves are depicted with flags at the top, right corner of the screen
+ (see Figure 1 for flags).  One flag appears during the first wave,
+ two flags during the second wave, and so on.  There is a total of 32
+ waves in the GALAXIAN game; if you survive beyond wave 16, you're a
+ real pro.
+
+ You start the game with three intergalactic command ships--one at the
+ line of battle and two reserves at the top, center of the screen as
+ shown in Figure 1.  Slide your command ship right and left to dodge
+ Galaxian fire.  At the same time, fire intergalactic missiles to
+ protect your command ship.  You lose a command ship each time it is
+ hit by either a Galaxian missile or a collision with a Galaxian.
+ When all three command ships have been destroyed, the game is over.
+
+ The Galaxian fleet lines up in ranking order before individually
+ plunging down, bombarding your ship, and then flying back to the
+ lineup.  That is, if you don't shoot them first!  These creatures are
+ cagey, they'll tease you, diving down, firing, and then dodging your
+ intergalactic fire.  The excitement builds as the battle gets
+ tougher.  This game requires some quick evasive action and lots of
+ planned strategy.  The longer you survive, the more surprises you're
+ in for.  You never know what the Galaxian fleet has up their sleeves.
+ Be on the lookout for just about anything.
+
+      Figure 1
+
+ 3. USING THE 5200 CONTROLLERS
+
+ Use your 5200 controllers with this ATARI game cartridge.  Be sure to
+ plug the controller cables firmly into the jacks at the front of the
+ 5200 console.  Plug the controller into jack 1 for one-player games;
+ use jacks 1 and 2 for two-player games, or let both players use the
+ same controller.  To share a controller, simply pass the controller
+ between turns.
+
+ Before starting your first game, initiate the Galaxian fleet by
+ pushing the joystick all the way to the right and left.
+
+   [Photo of the 5200 controller.]
+      Figure 2
+
+ KEYPAD OVERLAYS
+
+ For your convenience, two keypad overlays are included with this
+ game.  Slip the tabs into the slots above and below the keypad on the
+ controller.  See your 5200 Owner's Manual for further details.
+
+       1           2           3
+    --------    --------    --------
+   |        |  |        |  |        |
+   |        |  |        |  |        |
+    --------    --------    --------
+       4           5           6
+    --------    --------    --------
+   |        |  |        |  |        |
+   |        |  |        |  |        |
+    --------    --------    --------
+       7           8           9
+    --------    --------    --------
+   |        |  |        |  |        |
+   |        |  |        |  |        |
+    --------    --------    --------
+      EASY         0       1-2 PLAYERS
+    --------    --------    --------
+   |        |  |        |  |        |
+   |        |  |        |  |        |
+    --------    --------    --------
+
+      Figure 3
+
+ Press the # controller button to choose a one-player game or a
+ two-player game.  Your choice is displayed in the center of the
+ screen as shown in Figure 4.
+
+ Press the * controller button to play the easiest version, a yellow
+ 0 appears in the upper left corner of the screen.  This easy game
+ variation may be helpful for children or first-time GALAXIAN players.
+ Game play begins immediately after the button is pressed.
+
+ Keypad buttons 0 through 9 indicate skill levels--0 for novice and 9
+ for expert.  Press the appropriate button to choose the level that is
+ right for you (see SKILL LEVELS, Section 6).  After the game number
+ is displayed on the upper, left corner of the screen (see Figure 4),
+ the game will begin immediately.
+
+   [Screenshot with "ONE PLAYER" in the middle of the playfield.]
+      Figure 4
+
+ Use the joystick to guide the command ship right and left across the
+ screen.  Push the joystick right to move right; push it left to move
+ left.  Press the bottom, right or bottom, left fire button to shoot
+ intergalactic missiles.  The top, fire buttons are not used.  See
+ Figure 5 for controller use.
+
+   [Diagram showing which directions you need to push the stick to
+   move the ship left or right.  You can probably figure it out
+   without benefit of the actual figure.]
+      Figure 5
+
+ Press the START button to start a game at level 0 or to restart a
+ game that has just ended.
+
+ Press RESET to reset the game.
+
+ Press PAUSE any time during game play to freeze the action.  Press
+ PAUSE again to release the freeze.
+
+ 4. TRAK-BALL OPTION (Future Accessory)
+
+ This GALAXIAN game cartridge offers a TRAK-BALL option.  An ATARI
+ TRAK-BALL may be purchased separately.  To play a GALAXIAN game with
+ a TRAK-BALL, plug the TRAK-BALL into jack 1 at the front of the 5200
+ console.  To select the number of players and game level, follow the
+ instructions in Section 3, USING THE 5200 CONTROLLERS.  You do not
+ need a separate TRAK-BALL for each player.  Simply pass the TRAK-BALL
+ from player to player as each turn comes up.
+
+ 5. SCORING
+
+ Point scoring depends upon the military rank of each Galaxian you
+ destroy (see Figure 6 and POINT VALUES TABLE).  You start the game
+ with three command ships.  A bonus command ship is earned after the
+ first 5000 points you score.  When it is your turn, your score
+ appears at the top, center of the screen.  Your opponent's score
+ moves to the bottom, right corner of the screen.
+
+   [Screenshot.  No clue why it's included.]
+      Figure 6
+
+ Point Values Table
+   Flagships   60 Points
+   Hornets     50 Points
+   Emissaries  40 Points
+   Drones      30 Points
+
+ Destroying a Flagship in flight earns you bonus points as follows:
+   Flagship with no Escorts                150 Points
+   Flagship with one Escort                200 Points
+   Flagship with two Escorts               300 Points
+   Destroy Both Escorts then the Flagship  800 Points
+
+ In one-player games your score is displayed at the top, center of the
+ screen.  The highest score is displayed at the bottom, left corner of
+ the screen, and remains on the screen until the power on the 5200
+ console is turned off.
+
+ As your skill improves and you survive beyond wave 10, the Galaxian
+ fleet may surprise you with some special screen graphics.  We won't
+ tell you what to expect, just that GALAXIAN is full of surprises!
+
+ 6. SKILL LEVELS
+
+ The GALAXIAN game includes 10 skill levels, 0 through 9, and one easy
+ version for beginners.
+
+ The easy version allows you to destroy the Galaxian fleet without
+ them firing back at you.  The only way you can lose a turn in this
+ version is by head-on collision with a Galaxian.
+
+ Games 0 through 9 offer varying degrees of challenge; Game 0 is
+ relatively easy and Game 9 is very difficult.  The Galaxian fleet
+ fires at you throughout these games.  In the harder games they fire
+ faster with more missiles.  In some games they fire in a noticeable
+ pattern, while in others they fire randomly.
+
+ All GALAXIAN games may be played by one or two players, each taking
+ turns until their command ship is destroyed.  In the case of a
+ two-player game using two 5200 controllers, the player using jack 1
+ is player 1.  In two-player games with one 5200 controller or a
+ TRAK-BALL, simply pass the controller between turns.
+
+ 7. GAME STRATEGY
+
+ * In Games 0 through 9, when a Flagship is destroyed in flight, the
+   rest of the fleet stops firing for a few seconds of mourning.
+   This is your big chance to get the escorts and any other warriors
+   that you can.  This may be the only time that they aren't firing
+   at you.
+
+ * It's a good idea to play a few games at the easy (the * button)
+   level when you're just learning to play GALAXIAN.  This will help
+   you develop skill and strategy.
+
+ * Always have a strategical escape planned to avoid patterns of
+   missile attacks.  Think fast and scan the screen for methods of
+   outsmarting the Galaxian fleet.
+
+ * Some members of the Galaxian fleet are incredibly difficult to
+   destroy, but with practice you'll even outsmart them!
+
+ END
+
+ Typed by Jay Tilton (tiltonj@erols.com)
+
+ for Atari Gaming Headquarters

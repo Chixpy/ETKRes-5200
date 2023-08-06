@@ -1,0 +1,132 @@
+
+ THE DREADNAUGHT FACTOR
+
+ BY ACTIVISION
+
+ by Tom Loughry
+
+ ON DEVASTATING DREADNAUGHTS: A GUIDE
+
+ OVERVIEW: Dreadnaughts dwarf stars. They are huge. They are rude,
+ intruding where they are least wanted. Dreadnaughts can destroy
+ fleets, planets, solar systems and entire galaxies.
+
+ OBJECTIVE: DISABLE AND DESTROY ALL DREADNAUGHTS. Failure will
+ result in the negation of this galaxy.
+ Your mission ends when you destroy the entire Dreadnaught convoy,
+ when any Dreadnaught reaches the Stargate with at least one
+ missile silo intact, or when all Novary Hyperfighters have been
+ destroyed.
+
+ IGNITION
+ *Insert cartridge. Turn power on.
+ *To select one of seven missions:
+ Atari Home Computers: Press Game Select until the number of the
+ desired mission appears onscreen.
+ 5200: Press Reset on left controller. Press 1-7 on controller pad.
+ *To begin:
+ Atari Home Computers: Press Start on console, then push Joystick
+ forward or press the firing button.
+ 5200: Press Start on left controller, then press any side button.
+ *Turn power off before removing the cartridge.
+
+ HYPERFIGHTING BASICS
+ Piloting:
+ *To accelerate: Push Joystick forward.
+ *To decelerate: Pull back on Joystick.
+ Weaponry:
+ Atari Home Computers: Press Joystick button to fire laser bolts.
+ To drop strontium bombs, press Joystick button three times.
+ 5200: Press either top side Joystick button to drop strontium
+ bombs.
+ Press either bottom side Joystick button to fire laser bolts.
+ Hyperfighter Reserves Status: You will begin each mission with
+ 10 Novary Hyperfighters. While fighting missions 1-4, 2 additional
+ Hyperfighters will be added to your squadron for each Dreadnaught
+ you destroy. Receive 4 additional Hyperfighters for each Dreadnaught
+ destroyed on missions 5-7.
+
+ CLASSIFIED PRIORITY ONE
+ What follows represents all existing intelligence on the Dreadnaught.
+ Read it carefully.
+ STATUS SCREEN. Consult your status screen before takeoff. Your Novary
+ Hyperfighter appears at the Stargate. Behind you are reserve
+ Hyperfighters, lined up in attack sequence in front of the Galactic
+ Unstable Energy Field.
+ At the top of the status screen you will see the total number of
+ Dreadnaughts destroyed on this mission, the outline of the
+ Dreadnaught you will attack, and that Dreadnaught's distance from the
+ Stargate, as measured in parsecs.
+
+ PLAN OF ASSAULT
+ Launch your Novary Hyperfighter from the Ground Zero Stargate.
+ Proceed on course for the Dreadnaught. Bomb or strafe Dreadnaught
+ targets. Once beyond the Dreadnaught, you will return to the Stargate
+ and prepare for another attack pass. The Dreadnaught advances on the
+ Stargate when an attack pass is completed.
+ SCORING DIRECT HITS. You earn points for destroying each Dreadnaught
+ target and prematurely detonating in-flight tracking missiles
+ launched from the Dreadnaught. Score bonus points for each
+ Dreadnaught you destroy.
+ STRONTIUM BOMBS destroy the following targets for these point values:
+ Energy Vent                      20
+ Engine                           25
+ Silo                             50
+ LASER BOLTS destroy the following Dreadnaught weapons for these point
+ awards:
+ WEAPON                        POINTS
+ Small Cannon                    1
+ Large Cannon                    5
+ Drone Launcher                  5
+ Tower                           5
+ Queen Launcher                 10
+ Bridge                         10
+ BOMBING PRIORITIES
+ *Destroy all BRIDGES to reduce Dreadnaught firing rate by 50 percent.
+ *Destroy each ENGINE to slow the Dreadnaught's approach velocity.
+ *SILOS house anti-matter missiles which can detonate the Unstable
+ Energy Field. Destroy them.
+ *In order to destroy a Dreadnaught, bomb all ENERGY VENTS.
+
+ MISSION VARIATIONS
+ Game Level         Difficulty     Number of Dreadnaughts
+ 1                    Basic                  1
+ 2                    Novice                 1
+ 3                 Intermediate              2
+ 4                  Challenge                5
+ 5                  Advanced                10
+ 6                   Expert                 15
+ 7                   YGTBK^                100
+ ^You've Got To Be Kidding
+ *Rate of fire increases as level of mission advances.
+
+ JOIN THE ACTIVISION "DREADNAUGHT DESTROYER" CLUB
+ Defeat the entire fleet of Dreadnaughts on mission level 4 or
+ higher and  you will earn galactic acclaim, a place in stellar
+ history, and a membership in the prestigious "Dreadnaught Destroyer"
+ Club.Send us a picture of your TV screen and we'll mail you the
+ Dreadnaught Destroyer emblem, along with our heartfelt thanks.
+ Be sure to write "The Dreadnaught Factor" on the bottom left corner
+ of the envelope.
+
+ TACTICAL TIPS FROM THE TOP
+ Tips from Tom Loughry, designer of The Dreadnaught Factor, and
+ Eric Nickell, adaptor of this version.
+ "Keep track of the Dreadnaught's distance from the Stargate. As
+ it gets closer, it's a good idea to slow down its velocity by
+ bombing the engines. If it gets really close, destroy all the
+ missile silos. That way, the Unstable Energy Field is safe
+ even if the Dreadnaught reaches the Stargate. Unless you lose
+ all your Hyperfighters, that is.
+ "Destroy those Dreadnaught weapons which give you the most
+ difficulty. But keep in mind that the only way to destroy a
+ Dreadnaught is by bombing all its energy vents. Don't waste
+ time or attack passes trying to destroy every target.
+ "Let us hear from you between missions. We'd like that. May
+ the grace of God be with you."
+
+ END
+
+ Typed by Robert "Ferg" Ferguson (wombat2@ix.netcom.com)
+
+ for Atari Gaming Headquarters

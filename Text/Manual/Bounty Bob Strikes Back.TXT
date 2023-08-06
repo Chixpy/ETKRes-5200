@@ -1,0 +1,262 @@
+
+ BOUNTY BOB STRIKES BACK
+
+ BY BIG FIVE SOFTWARE
+
+ LOADING
+ Always turn power off before inserting or removing any cartridges.
+ Firmly insert the cartridge with the label facing the front of the
+ unit.  Use the left slot for Atari 800 computers.  Insert the
+ cartridge label side up for the Atari 1200 computer.  Insert a
+ standard joystick into port number one.  A second joystick may be
+ used in port two for a second player.  If the game logo screen does
+ not appear after turning on the power then refer to your owner's
+ manual for the computer to make sure that everything is connected
+ properly.
+
+ SLIDES, LADDERS, AND FRAMEWORK
+ Bob's main goal in the mine is to "claim" every section of the
+ framework in each mine cavern.  He does this by simply walking over
+ each framework piece.  As he walks over a piece, it will turn
+ solid.  To get around the mine there are many slides and ladders
+ placed throughout.  When all framework sections have been claimed,
+ Bob advances to the next cavern.  Make sure that he claims all the
+ sections as the pieces where a slide begins are sometimes overlooked.
+
+ CONTROLLING BOUNTY BOB
+ The joystick controls the direction of movement for Bounty Bob.  The
+ trigger button controls his jumping.  After pressing the trigger
+ button to begin a jump the joystick may be pushed either left or
+ right for the desired jump direction.  Extremely long or short jumps
+ may be made by varying the delay between pressing the trigger button
+ and moving the joystick.  To climb ladders simply stop directly in
+ front of the ladder and push up or down to climb or descend the
+ ladder.  You may only exit a ladder from either the very top or very
+ bottom.  The only action required to use a slide is to walk over the
+ framework where the slide begins.  Gravity will do the rest!
+
+ If Bounty Bob walks off the edge of a piece of framework he will
+ fall until he hits something.  He can only survive short falls,
+ however.  Longer falls will cause death.
+
+ SPECIAL KEYS
+
+ Begin Game                               START
+ High Score/Main Title                    RESET
+ Options Screen                           "*" (from High Score or Main
+                                               Title)
+ Freeze/Unfreeze play (Must be enabled)   PAUSE
+
+ WARNING!
+ Once pause is activated it will remain until it is deactivated.
+ Burns on your television may result if pause is left on for an
+ extended period of time.  If pause is intended to be left on for a
+ while, shut off your television until the game is ready to be
+ resumed.
+
+ GRAIN ELEVATOR
+ It'll take you up but getting down will be up to you!  Jumping onto
+ the middle, and off from the edge will insure a safe trip.
+
+ SUPER ENERGY FOOD BARS
+ These little delicious goodies will pep you up for those extra long
+ leaps and bounds.  Better move fast after chomping one 'cause the
+ effects wear off quickly!
+
+ THE GRAVITY LIFT
+ What goes down must come up--after Bounty Bob gets off, of course!
+ This piece of equipment goes down faster than it goes back up, so
+ know where you want to get off before you get on!
+
+ HYDRAULIC LIFTS
+ Just hop on and you are instantly promoted to "Lift Commander."
+ Pushing up or down on the joystick gives you manual control of the
+ life while you're on it.  But once you get off, the lift's automatic
+ circuits take over and return it to ground level leaving you to
+ figure out how to get back on.
+
+ SUCTION TUBES
+ Since these tubes were originally designed to carry mail and memos
+ it's hard to imagine that good 'ol Bounty bob has found a way to use
+ them as shortcuts through the mine.  The air in some of the tubes
+ travels in only one direction.  Other tubes have diverter valuves to
+ channel the air either left, right, or off.  To operate the valuves
+ simply jump up in front of the control box whose number corresponds
+ to the tube you wish to adjust.  An indicator needle on each tube
+ shows the direction of air flow.  Some tubes are powerful enough to
+ suck you up from where you stand; other tubes you'll have to jump
+ directly in.
+
+ MOBILE SUCTION UNIT
+ This nifty contraption was the brain-child of Nuclear Ned.  He has
+ planned to get rich selling this as the vaccum cleaner of the 80's.
+ It's the only device of its kind that can be programmedto "search
+ and suck!"  It sucked up the dirt well enough; unfortunately it also
+ sucked up the furniture!  Bounty Bob has reprogrammed it so that
+ anytime he collects one of the mini-suction tubes it will search him
+ out and sucks him up!
+
+ THE ACID RAIN
+ You must beware of this radioactive liquid that drips from the
+ stalactities at the top of the mine (or are they stalagmites?)  It
+ seems that one of Yukon Yohan's companies began dumping radioactive
+ waste in a field without knowing that Nuclear Ned's mine was below.
+ They probably would have dumped it there even if they did know what
+ was below!  All this is unimportant to poor Bounty Bob who must
+ avoid these droppings if he wishes to stay alive.
+
+ THE CANNON
+ This old war relic was given to Nuclear Ned by his great, great,
+ great, great grandpappy "Sulfur Sylvester."  Sylvester, known to his
+ friends as "Sly," actually used this cannon in the war for
+ independence.  After one heavy battle there were many casualties.
+ Sly and his cannon, nicknamed "Olf Faithful," were called upon to
+ give a twenty-one gun salute for the men who had died.
+ Unfortunately the cannon malfunctioned and all they got was a
+ thirteen gun salute!
+
+ The moral of this story is never overload the cannon!  It can handle
+ a maximum of thirty tons ot TNT.  After loading the TNT use the
+ suction tube to enter the cannon.  Use the joystick to move the
+ cannon left and right.  Press the fire button to ignite the TNT.
+
+ TRANSPORTERS
+ Another one of Nuclear Ned's creations, these devices have the
+ capability to move Bob's molecules from one location to another.
+ These are only low power transporters and they have no ability to
+ beam Bounty Bob up to any passing Starships. (Good thing too:
+ imagine what would happen if Yukon Yohan overtook a starship!)
+ After entering the chamber, an indicator will flash on another
+ transporter.  When the indicator on the transporter you wish to go
+ to is flashing, push up or down on the joystick to energize!
+
+ UTILITY HOIST
+ The utility hoist is one of the few pieces of special equipment that
+ Nuclear Ned did not make.  He bought this from a traveling hoist
+ salesman as a birthday present for his young son, Knucklehead Ned.
+ Unfortunately, Knucklehead is no longer with us, at least in that
+ form.  You see, he fell off the hoist one day and landed in a
+ bunny's carrot stockpile.  He instinctively gnawed on some of the
+ contaminated carrots and poof!  He's now "Chuck" the mutant!  Make
+ sure that you don't repeat Knucklehead's--er, Chuck's mistake.  Hop
+ on to the hoistcarefully and it will automatically engage.  Move the
+ joystick to maneuver the hoist around.  Press the trigger button to
+ turn off the hoist.  To restart the hoist, press the spacebar on
+ home computers or the "*" key on the 5200.
+
+ PULVERIZERS
+ Ned salvaged some parts from a demolished aluminum recycling center
+ to make these contraptions.  He used them to squash the giant
+ mutated cockroaches that were somehow immune to bug spray.  He got
+ all of those big bugs but overheated the pulverizer control panel in
+ the process.  Now the pulverizers run rampant and present a constant
+ threat to Bounty Bob.  Move quickly through them or Bob will be
+ squashed flatter than a mutated cockroach!
+
+ MOVING PIECES
+ There are many different varieties of moving pieces in Ned's mine.
+ Ned ordered all of them through the Speedy Elevator and Escalator
+ mail-order catalog.  Ned was fascinated by the wide assortment so he
+ ordered one of each.  Some constantly move back and forth at varying
+ rates of speed.  Others stay parked at stopping areas until Bounty
+ Bob jumps on them.  All of them are very useful and are essential
+ for getting around the mine.  No special operations are required to
+ use them other than simply jumping on and jumping off.
+
+ MUTANT ORGANISMS
+ Back in the early days of the mine a variety of small, furry
+ creatures such as rabbits, gophers and weasels burrowed throughout
+ storing food for the cold months.  When the waste from Yukon Yohan's
+ dumping began to seep into the mine, all the store food became
+ contaminated.  As the unsuspecting little furry creatures began to
+ eat their winter food supplies they slowly started to mutate into
+ hideous forms that no pet store would ever display.  Since these
+ mutants are extremely radioactive any contact with them is fatal for
+ Bounty Bob.
+
+ TREATS
+ Scattered throughout the mine are many of Nuclear Ned's wordly
+ possessions that he had acquired over the years.  All of them
+ absorbed a minute level of radioactivity.  As Bounty Bob collects
+ these items the low-level radioactivity enters his body.  This makes
+ him immune to the harmful effects of the mutants for a short span of
+ time.  Additionally during this period the mutants sense this and
+ turn into a pleasant form in the hope that Bounty Bob will ignore
+ them.
+
+ HIGH SCORE FACTORY
+ In this screen you actually use machinery to "build" your name to be
+ displayed on the high score screen.  Upon entering this screen you
+ will see two bulldozers on lifts, a mini MSU (Mobile Suction Unit),
+ and a small portable nuclear power generator.  Pressing the joystick
+ left or right changes control from one bulldozer to another or to
+ the auxiliary command center.  Pressing up or down changes the level
+ you are on.  Press the trigger button to activate the function you
+ have selected.
+
+ DIFFICULTY
+ This parameter is adjusted in the OPTIONS screen.  In the "EASY"
+ mode, filled-in framework remains filled-in and dead mutants remain
+ dead from one life to the next.  Also, all mutants move at a slow
+ rate.  In the "MEDIUM" mode, the aliens move slightly faster.  In
+ the "HARD" mode, filled-in framework resets and dead mutants
+ resurrect from one life to the next.  Finally, in the "C'MON" mode,
+ the bonus timer starts with 1000 less.
+
+ BONUS TIMER
+ This four digit timer is located at the top of every level.  It
+ indicates how much time is left for Bounty bob to complete the
+ level.  When it counts below 1000, it will flash to indicated that
+ Bob is running out of air.  Bob's face will also flash as his tiny
+ lungs gasp for air.  When the timer reaches zero Bounty Bob will be
+ out of air and he will implode!
+
+ EMERGENCY HELP
+ It is possible in certain levels to be trapped in an area where no
+ escape, not even death, is possible.  Normally you would have to
+ wait for the bonus timer to count down.  If you find yourself in
+ this situation, type in Big Five's phone number (numbers only -- no
+ spaces or parentheses) on the keyboard.  This number can be found at
+ the bottom of the main title screen.  This will give you "special
+ help" to get you out of that situation!
+
+ GAME ADJUSTMENT SCREEN
+ Press OPTION to enter this mode on the Atari home computers.  On the
+ Atari 5200 system first press RESET to return to the high score
+ display or the main title screen and then press the "*" key.  There
+ are twelve different game parameters you can adjust.  The line you
+ are currently on is indicated by a solid strip of background color
+ and the flashing parameter setting.  To go to a different line,
+ press the joystick up or down.  To adjust the parameter setting
+ press the joystick left or right until the desired setting appears.
+ The last line labeled "SPECIAL CODE" is for exclusive use by Big
+ Five programming personnel.  After setting a number, Option (or "*"
+ on the 5200) is pressed to activate a special code sequence.
+
+ DEMO MODE
+ If the game is not being played and it is not in the pause mode the
+ program will cycle through the high score display screen, the main
+ title display screen, and a demonstration of level one.  Beginners
+ should watch this demo a few times to get an understanding of how to
+ play.
+
+ CREDITS
+ Programmed by Bill Hogue / Computer graphics designed by Curtis
+ Mikolyski and Bill Hogue / Music by Jeff Zinn
+ Poster and box graphic designed by Curtis Mikolyski / Poster and box
+ paintings by Kathy Swain
+ Mine History compiled by Bill Hogue and Curtis Mikolyski
+ Project supervision by Dos Cartwright / Travel arrangements courtesy
+ of ZinnAir Ltd.
+ Champagne supplied by Bob Travis / Corks launched by Jeff Konyu /
+ Corks retrieved by Nugget and Pokey
+ Conversion licenses available from International Computer Group,
+ Chatsworth CA
+ Made in USA
+ Copyright (C) 1984 by Big Five Software
+ Bounty Bob Strikes Back, Bounty Bob and Yukon Yohan are registered
+ trademarks of Big Five Software
+
+ END
+
+ Typed by Keita Iida (keita@mindspring.com)

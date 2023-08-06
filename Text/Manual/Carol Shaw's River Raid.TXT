@@ -1,0 +1,169 @@
+
+ RIVER RAID
+
+ BY ACTIVISION
+
+ River Raid Plan of Operation
+
+ Activision 5200 Series FZ-002-03
+
+ Page 1)
+
+ YOUR MISSION IS...to score as many points as possible by destroying
+ enemy battleships, helicopters, fuel depots, jets, land tanks, hot
+ air balloons, and bridges before your jet crashes or runs out of
+ fuel.
+
+ Initial Setup
+
+ 1. Insert cartridge into your Atari 5200 console with the power
+ OFF.  Then, turn power on.
+ 2. Plug in controller(s). Solo player uses left controller.
+ 3. Slip keypad overlay onto controller(s)
+ 4. Select game variation by pressing appropriate number on controller
+ keypad.  There are 8 variations (see chart).
+ 5. To begin or start a new game at any time, press the START key.
+ 6. To select a new game variation, press the RESET key. Then select
+ desired game.
+ 7. To start the action, press the lower RED BUTTON on either side of
+ your controller.
+ 8. Pause the action whenever you like by pressing the PAUSE key on
+ your controller. To resume the game, press the same key again or
+ press the red button on either side of your controller.
+ 9. Turn power OFF before removing RIVER RAID cartridge.
+
+ Page 2)
+
+ ORIENTATION
+
+ The River of No Return.  The river is divided into sections, with a
+ bridge at the end of each section.  You will encounter islands,
+ narrow channels, bays and lots of enemy air, land and water craft
+ moving in to block your path. Also, the farther down the river you
+ fly, the more harrowing things get.
+
+ The current bridge number is displayed on-screen and is an indication
+ of your progress up the river.  It is updated whenever a bridge is
+ destroyed.  Advanced pilots may start the game at later bridges,
+ bypassing the easier sections of the river.  Here are your options:
+
+ Game Variation Chart:
+ Game Number         Starting Bridge       Number of Players
+     1                       1                    ONE
+     2                       1                    TWO
+     3                       5                    ONE
+     4                       5                    TWO
+     5                      20                    ONE
+     6                      20                    TWO
+     7                      50                    ONE
+     8                      50                    TWO
+
+ Your jet fighter will bank to the left or rightm when you move
+ the control stick left or right.  To accelerate, push it forward.  To
+ slow down, pull it back.  There are a wide range of left/right and
+ forward speeds.  Remember:  Center your control stick before you
+ start moving to prevent a crash.  Press the lower red button on
+ either side of the controller to fire missiles (hold for continuous
+ fire).
+
+ Page 3)
+
+ Your Squadron: You'll begin with four jets (one active, three on
+ reserve).  With each 10,000-point increase, you're given an
+ additional jet.  You lose a jet when it runs out of fuel, or touches
+ anything except a fuel depot or the brown river bank.  River Raid
+ ends when all of your jets are lost.
+
+ Fuel Gauge: Always keep an eye and an ear on your fuel gauge.  Fuel
+ is used up at a constant rate, regardless of speed.  When your fuel
+ drops below 1/4 full, a warning siren sounds off to alert you.  To
+ refuel, fly over a fuel depot.  The slower you fly over it, the more
+ fuel you will receive. A bell will sound when you are refueling. This
+ sound changes to a higher pitch when your fuel tank is full.  If you
+ don't need fuel, you can blow up the fuel depot.  But keep in mind
+ that the farther down the river you fly, the fewer fuel depots you'll
+ find.
+
+ Land Tanks appear on the road at the first bridge.  Beginning with
+ bridge 7, they'll dodge up to the shoreline and commence shooting.
+ You can fly right through their line of fire, but avoid the
+ explosions they cause on the river.
+
+ Page 4)
+
+ Scoring
+
+ Target            Points
+ Battleship          30
+ Helicopter          60
+ Balloon             60
+ Fuel Depot          80
+ Enemy Jet          100
+ Helicopter Gunner  150
+ Bridge             500
+ Bridge with Tank   750
+
+ Join the Activision "River Raiders"
+
+ If you reach a score of 40,000 points or more, you are eligible for
+ the official rank of River Raider.  Just send us a picture of your
+ TV screen showing your score along with your name and address, and
+ we'll send you an official River Raider emblem.  Be sure to write
+ "River Raid, 5200" and your score on the front corner of the
+ envelope.
+
+ Page 5)
+
+ "How to raid the river..."
+
+ Tips from Carol Shaw.  Carol is a first class game designer and a
+ computer science scholar.  She's also a serious bicyclist, and can
+ often be found cycling through the wilds of her native California
+ coast.  Her most recent hit was Happy Trails for Intellivision.
+
+ "The River of No Return holds many special challenges and dangers
+ for would-be River Raiders.  You'll not only have to know your
+ assault jet, but you'll need to have a good idea of your basic flight
+ plan before you start.
+
+ By knowing the river, pinpointing the areas with the highest
+ concentration of enemy, AND the most fuel depots, you'll have a much
+ better chance of surviving.  Since the river is in sections, try
+ jotting down notes for each important section as flight aids.
+
+ Fuel is also a critical factor. When you're far up the river, fuel
+ is scarce.  Hence, flying to the next fuel depot should be your
+ top priority.
+
+ When you become really skilled, you'll find that you can actually
+ blow up the fuel depot right in the middle of refueling.  That way,
+ you can gain the points and some fuel at the same time.
+
+ Remember that a bridge with a tank on it is worth the most
+ points.  Practice timing your bridge approaches so you can fire
+ while a tank is crossing.
+
+ If you make it back to Allied territory and need some R and R, kick
+ back and drop me a note.  I'm always up for a high-flying tale."
+
+ Carol B. Shaw (signed)
+
+ Page 6)  Activision Warranty
+
+ Page 7)
+
+ Let us get to know you!  If you have any questions or comments
+ about our games or clubs, or want to be added to our mailing list,
+ drop us a note or call the "Game Hotline" at 1-800-633-GAME. In
+ California, call (415) 940-6044 or (415) 940-6045.
+
+ ACTIVISION
+
+ Activision, INC.  Drawer 7287, Mountain View, CA 94039
+ (C)1982, 1983 Activision FZ-002-03
+
+ END
+
+ Typed by Dan Reinholtz (sammy97@niu.edu)
+
+ for Atari Gaming Headquarters

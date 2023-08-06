@@ -1,0 +1,83 @@
+
+ ZONE RANGER
+
+ BY ACTIVISION
+
+                         HOW YOU GOT THERE
+                         -----------------
+
+ * Insert cartridge into your 5200 with power OFF.  Then, turn power
+   ON.
+
+ * Plug a joystick or controller into port one.
+
+ * Press the START button to begin.
+    * Press the # key first for two player version.  Players share
+      controller.
+
+ * Press the PAUSE button to pause.  Press again to continue.
+
+ * Press the RESET button to return to title screen.
+
+ * Pilot your cruise ship by moving the controller in the desired
+   direction.
+
+ * To fire, press either lower side button.
+
+ CRUISE SHIPS.  Begin with four and earn one more for every 1000
+ points earned.  Each ship has unlimited fire power.
+
+                         THE NASTIES!!
+                         -------------
+
+ They're everywhere.  Colliding with ANY of them will destroy your
+ ship, but a few of them demand special mention.
+
+ SATELLITES.  Destroy all sixteen satellites in any level to advance
+ to the next level.  Green and red communication beams link the
+ satellites together.  Don't let the red beams strike your ship!
+
+ KILLER ROCKS.  Silent, get-in-the-way stuff that just lumber about.
+ Relatively harmless...until you run into one.
+
+ REPAIRBOTS.  When the red alert sounds, enter any warp hole.  Then,
+ shoot the repairbot that's fixing to fix up a destroyed satellite.
+
+ BOOMERANGS.  The worst.  You'll find out.  Strictly higher level
+ material.
+
+                         ANY HELP OUT THERE?
+                         -------------------
+
+ WARP HOLES.  A momentary means of escape.  Enter and exit as you
+ please.
+
+ SONIC SPARKLERS.  Touch them and you'll be invincible for as long as
+ their music plays.
+
+ SUPER PORTAL.  Your only entry into The Inner Sanctum.
+
+ THE INNER SANCTUM.  Drop in for free help.  Go for the dots.
+
+ SKYWAY PATROL.  When you return from the Super Portal, come in
+ contact with the Skyway Patrol.  He'll knock off one satellite for
+ every dot you got.
+
+ SEVENTH DIMENSION.  Enter at your own risk.  Sure, you'll get more
+ points.  But you won't last as long (found in level one only.)
+
+                         DESIGNER NOTES:
+                         ---------------
+
+ "Just thought that I'd clue you in to what I've discovered out there.
+ Entering a Warp Hole may be an easy way to escape immediate danger.
+ But a word for the spacewise: it COULD be worse where you exit.
+ Also, in case you can't find the satellites, follow the path of the
+ beams.  Finally, touch the safety Sonic Sparklers whenever you can --
+ especially if you plan to tackle one of the vicious boomerangs."
+
+ -- Dan Thompson
+
+ END
+
+ Typed by Keita Iida (keita@mindspring.com)

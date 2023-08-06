@@ -1,0 +1,3 @@
+This is an updated version of the game Haunted House with a three dimensional perspective to the rooms.
+
+You enter a mansion with thirty or sixty rooms, depending of your selection. You are searching for treasure but beware of the ghosts and creeps that haunt the mansion. You can turn on a light in any rooms to find hidden items. Somewhere in the maze of rooms is a sword that will make you immune to most bad guys. Once you have the treasure, make your way to the south wall of the starting point to exit and win.

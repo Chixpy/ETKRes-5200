@@ -1,0 +1,128 @@
+
+ PITFALL
+
+ BY ACTIVISION
+
+ PITFALL HARRY'S GUIDE TO JUNGLE JOURNEYS
+
+ Activision 5200 series
+
+ Guide Pitfall Harry through a treacherous jungle maze.  He must leap
+ over obstacles and dodge dealy dangers while grabbing all the treasure
+ he can reach!
+
+ GETTING UNDERWAY
+
+ 1.  With power OFF, insert the game cartridge into your Atari 5200
+     console.  Turn power ON.
+
+ 2.  To begin a new game at any time, press the START key.
+
+ 3.  Use of Joystick Controller:
+     * To run right or left, lean Joystick in that direction.
+     * To jump over obstacles, press the lower red button on either
+       side of your controller.
+     * To climb up ladders, push the joystick forward; to decend, pull
+       back.
+     * To grab a swinging vine, press the lower red button while
+       running toward the vine.
+     * To jump from croc to croc across the swamp, press the upper red
+       button.
+     * To release the vine, pull the Joystick toward you.
+     * To pick up a tresure, run by it.
+
+ 4.  Pause the action by pressing PAUSE key.  To resume play, press any
+     numbered key on your controller pad.
+
+ 5.  Turn power OFF before removing cartridge.
+
+ 6.  Scoring.  You start each adventure with 2000 points.  If you fall
+     down a hole you will lose 100 points.  Rolling logs also cause
+     point loss; how much depends on how long contact is made with
+     them.
+
+     Finding treasure earns you points.  There ae eight of each type of
+     treasure in the game, 32 in all, worth a total of 112,000 points.
+     Collect them all without losing any points for falling down holes
+     or tripping on logs and you'll have earned a perfect score--
+     114,000!
+
+     MONEY BAG        SILVER BAR        GOLD BAR        DIAMOND RING
+     2000 points      3000 points       4000 points     5000 points
+
+ 7.  Time.  You have 20 minutes to complete each adventure.  Pitfall
+     Harry begins each game with three lives (see "Perils of Pitfall").
+     Game ends when time runs out or Harry loses all three lives.
+
+ THE PERILS OF PITFALL
+
+ Pitfall Harry's jungle Adventure involves great danger. Some hazards
+ slow him down, robbing you of points; others stop him cold.  The
+ "inconvenient" hazards are open holes in the ground and rolling logs
+ (see "Scoring").  The "catastrophic" hazards include scropions, fires,
+ cobras, crocodiles, swamps, quicksand and tar pits.  These obstacles
+ will not cost you any points, but they will cost Harry one of his
+ three lives.
+
+ JOIN "PITFALL HARRY'S EXPLORERS' CLUB"
+
+ Score 20,000 points or more on any one of your adventures with Harry
+ and you will be eligible to join this prestigious organization.  Just
+ send us a picture of your TV screen showing your score and we'll
+ present you with the special "Explorers' Club" membership emblem shown
+ below.
+
+ A FEW WORDS ABOUT JUNGLE EXPLORERS
+
+ Pitfall Harry aside, perhaps the best-known jungle explorer was David
+ Livingstone, a Scottish medical missionary who spent many years in
+ Africa.
+
+ In 1868, Livingstone lost contact with the outside world.  Henry M.
+ Stanley, a journalist who wrote for newspapers in New York and London,
+ mounted an expedition to locate Livingstone.  In 1871, after a
+ difficult and exausting search which often seemed destined to fail,
+ Stanley located the missing missionary.  He aproached him and uttered
+ the now-classic line, "Dr. Livingstone, I presume."
+
+ Livingstone and Stanley were only two of the Europeans who explored
+ the vast continent of Africa, and they were latecomers.  The earliest
+ written histories tell us that ancient Egyptians were exploring Africa
+ thousands of years ago!
+
+ HOW TO PURSURE YOUR FORTUNE WITH PITFALL HARRY
+
+ Tips from David Crane, designer of Pitfall!
+
+ David Crane is an award-winning Senior Designer at Activision.  He also
+ designed The Activision Decathlon, for the Atari Video Computer System.
+
+ "As you set off on your first adventure with Harry, you'll notice two important
+ features:  The logs always roll from right to left, and the "replacement"
+ Harrys (after Harry loses a life) drop from trees on the left side of the
+ screen.  So, to minimize the number of rolling logs to be jumped, and the
+ catastopic hazards to be re-tried, simply run to the left.
+
+ "Pitfall Harry's trip must be made through a maze of surface and underground
+ passages through the jungle.  To capture all 32 treasures in under
+ twenty minutes, Harry will have to use some of the underground passages.
+ I'd suggest that you make a map of the terrain each time you play.  Knowing
+ the jungle and planning the best route to all the treasures is the only way to
+ insure success time after time.
+
+ "Until you get really skilled at making Harry jump from coc to croc, you
+ might wait until the crocodiles jaws are closed, jump to the top of the first
+ croc's head, then wait for the jaws to open and close again before jumping
+ to the next one.  Soon, you'll be skipping across crocs like they were stepping
+ stones in a stream.
+
+ "If you find any writing materials deep in the jungle, drop me a line.
+ I'd love to hear how you and Harry are getting along."
+
+ Adapted by Beck-Tech.
+
+ END
+
+ Typed by Jeffry Johnston (jeffryj@azstarnet.com)
+
+ for Atari Gaming Headquarters

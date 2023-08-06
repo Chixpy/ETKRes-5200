@@ -1,0 +1,230 @@
+
+ REALSPORTS FOOTBALL PLAYBOOK -- VISITORS
+
+ BY ATARI
+
+ GAME PLAY
+
+ This PLAYBOOK contains all the offensive and defensive plays of ATARI
+ FOOTBALL.  It also summarizes some essential information, but it only
+ gives a bird's-eye vies of the game.  To get the most out of ATARI
+ FOOTBALL, study the manual for more details.
+
+ ONE-PLAYER VERSION
+ You play offense all the time.  Computer plays defense.  You must call
+ up both offensive and defensive plays with the appropriate controller
+ for each side.
+
+ TWO-PLAYER VERSION
+ Each person calls up a play and controls the movement of the odd-
+ colored playerwith the joystick.
+
+ Offensive picks its play in a two-step process:
+ 1.  Select a number (from 1 through 3) in response to the "PICK
+     FORMATION" cue on the scoreboard.
+
+ 2.  Select another number (from 1 through 6) in response to the "PICK
+     PLAY" cue.
+
+ Defense selects its play by pressing one of the numbers (from 1
+ through 6) in response to the "PICK PLAY" cue on the scoreboard:
+
+ 1.  For a tight line defense against the up-the-middle run and
+     medium-range plays
+ 2.  For a wide line defense that provides a good rush and coverage
+     against the medium-range pass
+ 3.  For a wide line defense against a long pass
+ 4.  For a 5-man line that provides the best blitzing capabilities and
+     the best field goal defense.
+ 5.  For short pass defense and goal line defense
+ 6.  For punt defense
+
+ FIRE BUTTONS
+ The functions of the fire buttons are:
+
+ UPPER
+ * To pass to receiver II
+ LOWER
+ * To pass to receiver I
+ * To kick a punt (Play 2-1)
+ * To hike the ball early (while on offense)
+ * To free-up the defensive control-player before the snap
+ * To transfer joystick control:
+   ON OFFENSE, to the intended receiver of a pass, while the ball is in
+   mid-flight;
+   ON DEFENSE, to the player closest to the ball carrier:
+ * After the ball carrier has crossed the line of scrimmage
+ * As soon as a pass is completed
+ * As soon as a pass is intercepted
+ * As soon as a punt is scooped up and being returned
+
+ You can only transfer joystick control once during any single play.
+
+ OFFENSIVE PLAYS
+
+ To maintain correct screen direction in calling plays:
+ VISITORS use this page to call plays during 1st and 3rd quarters;
+ HOME TEAM uses this page to call plays during 2nd and 4th quarters.
+
+ f=football o=offensive player d=defensive player +=path
+
+  1-1              1-2 Run          1-3
+  _____________    _____________    _____________
+ |             |  |             |  |             |
+ |    + I      |  |      I      |  |      I      |
+ |    +---o    |  |+---+---o    |  |    +---o    |
+ |        o    |  |        o    |  |   +'   o    |
+ |   +   fod   |  |       fod   |  |       fod   |
+ |   `+---o    |  |        o    |  |        o    |
+ |     II  o   |  |         o   |  |    II / o   |
+ |             |  |             |  |      +      |
+ |_____________|  |_____________|  |_____________|
+
+  2-1 Punt         2-2              2-3
+  _____________    _____________    _____________
+ |             |  |             |  |             |
+ |         o   |  |      I  o   |  |      I  o   |
+ |        o    |  |+---+---o    |  |    +---o    |
+ |             |  |             |  |   +'        |
+ |       fo d  |  |       fo d  |  |       fo d  |
+ |             |  |         o   |  |             |
+ |        o    |  |     +  o    |  |        o    |
+ |         o   |  |     +---o   |  |  II +---o   |
+ |_____________|  |______II_____|  |_____+_______|
+
+  3-1 Field Goal   3-2 Fake F.G.    3-3
+  _____________    _____________    _____________
+ |             |  |             |  |             |
+ |             |  |      I      |  |      I      |
+ |        o    |  |+---+---o    |  |+---+---o    |
+ |             |  |             |  |             |
+ |       fo d o|  |       fo d o|  |       fo d o|
+ |         o   |  |     II  o   |  |         o   |
+ |        o    |  |    +---o    |  |        o    |
+ |             |  |    +        |  |       +'II  |
+ |_____________|  |_____________|  |_____________|
+
+  1-4 Screen Pass  1-5 Run          1-6 Run
+  _____________    _____________    _____________
+ |             |  |             |  |             |
+ |             |  |      I      |  |             |
+ |        o    |  |    +---o    |  |        o    |
+ |     I  o    |  |   +'   o    |  |        o    |
+ |   +___fod   |  |       fod   |  |  II   fod   |
+ |+---+---o|   |  |        o    |  |+---+---o    |
+ |     II  o   |  |    +----o   |  |         o   |
+ |             |  |    + II     |  |             |
+ |_____________|  |_____________|  |_____________|
+
+  2-4 Screen Pass  2-5              2-6
+  _____________    _____________    _____________
+ |             |  |             |  |             |
+ |         o   |  |      I  o   |  |    + I  o   |
+ |        o    |  |+---+---o    |  |    +---o    |
+ |             |  |             |  |             |
+ |       fo d  |  |       fo d  |  |       fo d  |
+ |             |  |         o   |  | +           |
+ |        o    |  |     +  o    |  | `+-----o    |
+ |         o   |  |     +---o   |  |     II  o   |
+ |_____________|  |______II_____|  |_____________|
+
+  3-4 Screen Pass  3-5              3-6
+  _____________    _____________    _____________
+ |             |  |             |  |             |
+ |             |  |    I +      |  |      +      |
+ |        o    |  |       `o    |  |     I `o    |
+ |     I       |  |             |  |             |
+ |   +__+fo_d_o|  |       fo d o|  |       fo d o|
+ |    +----o   |  |     +---o   |  |    +----o   |
+ | II +   o    |  |  II +  o    |  | II |   o    |
+ |             |  |             |  |    +        |
+ |_____________|  |_____________|  |_____________|
+
+ (upside down text follows)
+ To maintain correct screen direction in calling plays:
+ VISITORS use this page to call plays during 2nd and 4th quarters;
+ HOME TEAM uses this page to call plays during 1st and 3rd quarters.
+
+ DEFENSIVE PLAYS
+
+ To maintain correct screen direction in calling plays:
+ VISITORS use this page to call plays during 1st and 3rd quarters;
+ HOME TEAM uses this page to call plays during 2nd and 4th quarters.
+
+  1 Run; Medium Pass               2 Rush; Medium Pass
+  _____________                    _____________
+ |             |                  |             |
+ |      o      |                  |       o     |
+ |    o        |                  |    o        |
+ |             |                  |             |
+ |   fod       |                  |   fod       |
+ |             |                  |             |
+ |    o        |                  |    o        |
+ |      o      |                  |       o     |
+ |_____________|                  |_____________|
+
+  3 Long Pass                      4 Blitz; F. Goal; Goal Line
+  _____________                    _____________
+ |             |                  |             |
+ |          o  |                  |             |
+ |   o         |                  |   o         |
+ |             |                  |   o         |
+ |  fo d       |                  |  fod        |
+ |             |                  |   o         |
+ |   o         |                  |   o         |
+ |          o  |                  |             |
+ |_____________|                  |_____________|
+
+  5 Short Pass; Goal Line          6 Punt
+  _____________                    _____________
+ |             |                  |             |
+ |    o        |                  |             |
+ |   o         |                  |   o         |
+ |             |                  |             |
+ |  fod        |                  |  fod      o>|
+ |             |                  |       o     |
+ |   o         |                  |   o         |
+ |    o        |                  |             |
+ |_____________|                  |_____________|
+
+ (upside down text follows)
+ To maintain correct screen direction in calling plays:
+ VISITORS use this page to call plays during 2nd and 4th quarters;
+ HOME TEAM uses this page to call plays during 1st and 3rd quarters.
+
+ HELPFUL HINTS
+
+ ON PASSING
+
+ Time the release of the ball to match up with the arrival of your
+ intended at one of the "cut-points" in his pattern.  After the
+ receiver completes his pattern, the defensive safety has a greater
+ chance of intercepting.
+
+ Press the lower fire button to pass to receiver I; press the upper
+ fire button to pass to receiver II.
+
+ FIELD GOAL COMPLETION TABLE
+ If the line of      Your chances of
+ scrimmage is:       completing a field
+                     goal are:
+ ----------------------------------------
+ 1 yard or less   >  99%
+ 2-5 yards        >  95%
+ 6-13 yards       >  92%
+ 14-17 yards      >  88%
+ 18-21 yards      >  85%
+ 22-25 yards      >  83%
+ 26-29 yards      >  80%
+ 30-33 yards      >  72%
+ 34-37 yards      >  69%
+ 38-41 yards      >  60%
+ 42-45 yards      >  52%
+ 46-49 yards      >  31%
+ 50 yards or more >   0%
+
+ END
+
+ Typed by Jeffry Johnston (jeffryj@azstarnet.com)
+
+ For Atari Gaming Headquarters

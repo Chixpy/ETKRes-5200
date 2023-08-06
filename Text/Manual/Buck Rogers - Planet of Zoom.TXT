@@ -1,0 +1,177 @@
+
+ BUCK ROGERS: PLANET OF ZOOM
+
+ BY SEGA
+
+ For the ATARI 5200 Game System
+ BUCK ROGERS: PLANET OF ZOOM
+ Official Arcade Version
+
+ SEGA VIDEO GAME CARTRIDGE
+
+ It's the 25th century.  You are Buck Rogers fighting the battle of
+ Planet Zoom.  This is a race against death!  Your Ultimate and most
+ powerful enemy is the deadly MOTHER SHIP!
+
+ There are five levels of increasing difficulty--each with four rounds
+ of challenging space combat.  Before you meet the MOTHER SHIP, your
+ pilot skills and nerve are tested against zapping ELECTRON POSTS,
+ ALIEN SAUCERS and smashing SPACE HOPPERS.  This is a battle of speed,
+ accuracy and endurance.  Your fuel consumption is crucial to your
+ survival.  If you deplete your fuel you crash into the surface of
+ Planet Zoom, destroying any one of your three battle ships.  The
+ faster you fly, the less fuel you burn.  You receive a full tank of
+ fuel if you destroy the MOTHER SHIP.  Be agressive but don't be
+ reckless.  This is "do or die" cosmic combat and it's the MOTHER SHIP
+ or YOU!
+
+ USING YOUR CONTROLLERS
+
+ You'll begin your battle with a fleet of three fighterships that you
+ navigate one at a time above the surface of Planet Zoom and into
+ space.  Use your joystick to control them.  Press the "START" key or
+ fire button to start the game.
+
+ JOYSTICK CONTROL.  Pushing your joystick forward will elevate your
+ fightership.  When it has reached maximum elevation, the forward
+ position will increase speed of flight.
+
+ Pulling the joystick back brings your ship lower until it skims the
+ surface of Planet Zoom.  Keeping the joystick pulled back will bring
+ your ship to its minimum speed.  The minimum speed increases with each
+ level of difficulty.
+
+ Pushing your joystick to the right will turn your ship to the right.
+ Pushing your joystick to the left will turn your ship to the left.  If
+ the joystick is angled up or down while turning right or left, your
+ ship will fly at that angle.
+ Push your fire button repeatedly for rapid fire.  Keep button
+ depressed for steady fire.
+ Push pause button to freeze game.
+ Push reset button to go to title.
+
+ HOW TO PLAY
+
+ The object of the game is to destroy the MOTHER SHIP before the MOTHER
+ SHIP and its deadly Electron Posts, Saucers and Space Hoppers destroy
+ YOU!
+
+ THE SCREEN.  Your screen shows the view as you skim over the surface
+ of Planet Zoom.  In the distance are mountain and beyond them,
+ outerspace and your battle with the MOTHER SHIP.
+
+ The upper edge of your screen shows your score.  Below your score is
+ your fuel gauge.  Your fuel is depleted slower the faster your
+ travel.  Your fuel gauge changes color to indicate fuel level:
+
+         GREEN . . . . . . . . . . . . . . . .More than 1/3 of a tank
+         YELLOW. . . . . . . . . . . . .Between 1/3 and 1/8 of a tank
+         FLASHING RED. . . . . . . . . . . . .Less than 1/8 of a tank
+
+ When your fuel is depleted, your ship will collide into the surface of
+ Planet Zoom, destroying that ship.  If that was your last ship, the
+ game is over.  If you run out of fuel before reaching the next round,
+ you return to the first round of that level minus one ship.
+ Below your fuel gauge is your enemy/obstacle display indicating the
+ number of Alien Saucers or Space Hoppers to be destroyed or the number
+ of Electron Posts to be passed through.
+
+ The surface of Planet Zoom changes color as your battle takes you to
+ more treacherous terrain with each level.
+
+ GAME PLAY.  Now you are ready to do battle on Planet Zoom.  The game
+ is divided into five skill levels.  Each level is made up of four
+ rounds of battle.  Each round you encounter a different combination of
+ enemies and aliens.  The combinations get more difficult as you
+ advance through each round of every level:
+
+ LEVEL 1:  BLUE
+ ROUND 1--10 Electron Posts
+ ROUND 2--15 Electron Posts and/or Alien Saucers
+ ROUND 3--20 Electron Posts, Alien Saucers and/or Space Hoppers
+ ROUND 4--The MOTHER SHIP and saucers
+
+ LEVEL 2:  BLUE/YELLOW
+ ROUND 1--15 Electron Posts firing forward (after round 1 Electron
+          Posts fire to the outside)
+ ROUND 2--20 Electron Posts and/or Alien Saucers
+ ROUND 3--25 Electron Posts, Alien Saucers and/or firing Space Hoppers
+ ROUND 4--The MOTHER SHIP with Alien Saucers
+
+ LEVEL 3:  GREEN/YELLOW
+ ROUND 1--20 Electron Posts
+ ROUND 2--25 Electron Posts and/or Alien Saucers
+ ROUND 3--30 Electron Posts, Alien Saucers and firing Space Hoppers
+ ROUND 4--The MOTHER SHIP with Alien Saucers
+
+ LEVEL 4:  NIGHT FLIGHT GRAY
+ ROUND 1--25 Electron Posts with Alien Saucers
+ ROUND 2--30 Electron Posts, Alien Saucers and firing Space Hoppers
+ ROUND 3--35 non-friring Electron Posts, Alien Saucers and firing Space
+          Hoppers
+ ROUND 4--The MOTHER SHIP with Alien Saucers
+
+ LEVEL 5:  DARK GREEN
+ ROUND 1--30 Electron Posts with Alien Saucers
+ ROUND 2--35 Electron Posts, Alien Saucers and firing Space Hoppers
+ ROUND 3--40 Electron Posts, Alien Saucers and firing Space Hoppers
+ ROUND 4--The MOTHER SHIP with Alien Saucers
+
+ The numbers of Electron Posts, Alien Saucers and Space Hoppers
+ indicates the combined total of enemies and aliens you must destroy or
+ Electron Posts you must pass through.  Your screen will show no more
+ than 19 enemies or aliens to be destroyed.
+
+ ENEMIES AND ALIENS
+
+ _|_ Electron Posts--explode on impact.  After level one they fire
+ _|_ Electron Pulsars toward the outside.  With each level they are
+ _|_ spaced closer together.
+
+  ___  Alien Saucers--will explode on impact and fly by with greater
+ <___> speed and frequency as levels of difficulty increase.
+
+ [~] Space Hoppers--will explode on impact with your ship.  After round
+ /|\ 1 they will fire at your ship.  As levels of difficulty increases,
+ ||| Space Hoppers will appear with greater speed and frequency.
+
+ The Mother Ship--This is your greatest challenge.  Her destruction is
+ your greatest victory.  No enemy is more cunning or powerful.  The
+ front is blue and the back is yellow.  The MOTHER SHIP can be
+ destroyed only by hitting it dead center.  Any other shots will
+ ricochet off and may destroy you!  As it approaches, the MOTHER SHIP
+ will fire at you.
+
+ SCORING
+
+ Alien Saucers . . . . . . . . . .200 points
+ Space Hopper. . . . . . . . . . .300 points
+ Electron Posts. . . . . . . . . .500 points
+ The MOTHER SHIPS. . . . . . . . .20,000 points plus full load of fuel
+ Every 20,000 points you receive an additional fightership.
+
+ STRATEGIC TIPS
+
+ * Fly as fast as you can without crashing.  The faster you fly, the
+   less fuel you consume.  You receive added points for added speed.
+ * If you fly outside the Electron Posts after level 1, you are likely
+   to be hit by Electron Pulsars.
+ * You are more vulnerable to attack by Alien Saucers when flying low.
+ * Saucers are more vulnerable as they fly past from behind.
+ * Enemies appear in waves.  Try to determine the rhythm of the waves.
+ * Be aggressive--if you're not, you'll use your fuel before you
+   encounter with the MOTHER SHIP.
+ * Don't be reckless--your fightership steers with super-sensitive
+   response.
+ * Over-steering may cause you to collide with Electron Posts, Alien
+   Saucers or Space Hoppers.
+
+ Copyright (C) 1983 SEGA ENTERPRISES INC.
+ BUCK ROGERS is a trademark of The Dille Faimly Trust.
+ ATARI and 5200 are trademarks of Atari, Inc.                7001-00502
+
+ END
+
+ Typed by Jeffry Johnston (jeffryj@azstarnet.com)
+
+ for Atari Gaming Headquarters

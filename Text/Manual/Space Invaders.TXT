@@ -1,0 +1,364 @@
+
+ SPACE INVADERS
+
+ BY ATARI, INC.
+
+ To insert your 5200 game cartridge, hold the cartridge so that the
+ name of the label faces you and reads right-side-up.  Then carefully
+ insert the cartridge into the slot in the center of the console unit.
+ Be sure the cartridge is firmly seated, but do not force it in.  The
+ POWER ON/OFF switch is located on the bottom right side of the ATARI
+ 5200.  Press this switch to turn the power on AFTER inserting your
+ game cartridge.  See your Owner's Manual for further information.
+
+ TABLE OF CONTENTS
+ -----------------
+
+ 1.  Earth Defense Corps
+ 2.  Game Play
+ 3.  Using the 5200 Controllers
+ 4.  Trak-Ball
+ 5.  Scoring
+ 6.  Game Variations
+ 7.  Strategy
+ 8.  Game Select Matrix
+ 9.  Your Best Game Scores
+
+ ATTACK!  COUNTER ATTACK!
+
+ 1.  EARTH DEFENSE CORPS
+ -----------------------
+
+ You are a recent enlistee in the Earth Defense Corps.  For the past
+ six weeks you've undergone grueling and intensive training.  Now you
+ stand at attention, nervously anticipating the most critical section
+ of your training: Attack/Counterattack!  In preparation for this task
+ you've read, reread and memorized the SPACE INVADERS manual.
+
+ "Okay, kid, you're on!" barks your commanding officer.
+
+ Quickly you climb into a laser tank.  A second enlistee follows you.
+ You each settle into deep, leather seats.  With a soft whirring
+ sound, the automatic hatch cover closes overhead.
+
+ As your eyes adjust to the dim light of the laser capsule, you begin
+ to make out the controls.  Mentally, you check off each knob, dial,
+ button, and display.  For the next several hours you and the other
+ enlistee with operate these controls to defend your planet in an
+ attack simulation.
+
+ The screen in front of you lights up.  A column of bomb-dropping
+ aliens advances toward you.  What next?  For a second your mind goes
+ blank.  Have you learned your lessons well?  No time to refer to the
+ manual now.  Your commanding officers are watching and it's your
+ show.
+
+ 2.  GAME PLAY
+ -------------
+
+ This is your mission manual.  Commit it to memory.  Your tasks are to
+ stop the invaders from landing on your territory; avoid enemy bombs;
+ and score as many points as possible.  In one-player games, the game
+ ends when you lose all your lives or when any invader lands on your
+ planet.  In two-player games, play ends for each player after three
+ or five enemy hits, or when the invaders touch down.
+
+ SPACE INVADERS offers 12 game variations (See section 6 -- GAME
+ VARIATIONS for a detailed description of each game).  Each game may
+ be played by one or two players, and you can start with three or five
+ lives, depending on the variation you select.
+
+ If you destroy all 48 space invaders before they touch your planet, a
+ new set of invaders will appear on the screen.  Each new set of
+ invaders starts from a position closer to your territory.
+
+ WAVES
+
+ There are four waves in a game.  Each wave begins with invaders
+ moving slowly toward you and dropping bombs.  As you progress from
+ one wave to another, the invaders move faster, fire more accurately,
+ and are worth more points.
+
+ After you have eliminated half of the aliens on the screen (24
+ invaders), the attack speed of the remaining invaders doubles and the
+ point value for these fast invaders also doubles. (For more about
+ SCORING, see Section 4).
+
+ You must clear the screen of invaders twice to move from Wave 1 to
+ Wave 2, from Wave 2 to Wave 3, and from Wave 3 to Wave 4.  Wave 4
+ continues to reset until all lives are lost or the invaders touch
+ down.
+
+ Periodically, an enemy command saucer will fly across the top of the
+ screen.  The saucer always cycles once from the left and twice from
+ the right.  If you hit this saucer, you score a variable number of
+ points, depending upon how many shots you have taken during that
+ wave. (See the COMMAND SAUCER SCORING TABLE in Section 4, for a
+ breakdown of saucer point values.)
+
+ SHIELDS
+
+ You begin each game with three shields.  Initially, you are safe
+ behind the shields.  But as you and the enemy hit the shields with
+ lasers and bombs, they become damaged, allowing laser beams from your
+ cannon and bombs from the enemy to pass through them.  As the space
+ invaders approach the shields in their descent toward you, the
+ shields disappear altogether.  Figure 1 shows a typical SPACE
+ INVADERS playfield, with attacking aliens, the command saucer, your
+ laser cannon, and shields.
+
+ LIVES
+
+ Each time you are hit by an invader's bomb, the game pauses
+ temporarily, and the number of turns (lives) you have left is
+ reduced.  Remaining lives are displayed at the bottom right side of
+ the screen, as shown in Figure 2.
+
+ 3.  USING THE 5200 CONTROLLERS
+ ------------------------------
+
+ Use one or two 5200 controllers with this ATARI game cartridge.  For
+ one-player games, plug the controller into controller jack 1 on your
+ console.  For a two-player game, plug the second controller into the
+ number 2 jack.  In two-player games, the player using the number 1
+ jack controls game selection and starts the game (See Figure 3.)
+
+ KEYPAD OVERLAYS
+
+ For your convenience, two keypad overlays are included with this
+ game.  Slip the tabs into the slots above an below the keypad on your
+ controller (See Figure 4).
+
+ PLAYER SELECTION
+
+ Press the right # key (or, on your overlay, the square marked 1-2
+ PLAYERS) to choose a one or two-player game.  The message PLAYER 1
+ appears on the lower left side of the screen below that player's
+ score, and the message PLAYER 2 appears on the right side of the
+ screen below his score.  You can always tell whose turn it is because
+ that player's display will flash on the screen. (See Figure 2).
+
+ GAME SELECTION
+
+ Press the left * key (on your overlay, the square marked GAME SELECT)
+ to cycle through Games 1 through 12.  The game number appears to the
+ right of the PLAYER 1 display, as shown in Figure 2.
+
+ START
+
+ Press START to begin the invasion.  The START key is deactivated
+ while a game is in progress and reactivated after all lives are lost.
+
+ RESET
+
+ Press the RESET key at any time to return to pregame-play mode.
+
+ PAUSE
+
+ To suspend a turn in progress, press the PAUSE key.  The action
+ immediately freezes in its present position on the screen.  To
+ continue play, press PAUSE again.
+
+ CONTROLLER ACTION
+
+ Move your joystick right or left to maneuver your laser cannon right
+ or left across the bottom of the screen.  Do this to avoid direct
+ hits by enemy bombs (which the invaders will continually drop from
+ the sky), and to aim your laser beams.
+
+ To fire your lasers, press either or both of the bottom red buttons
+ on the front right and left sides of the 5200 controller (See Figure
+ 3.)  You can fire lasers as long as you depress the fire button.
+ Your supply of laser beams is unlimited.
+
+ 4.  TRAK-BALL (Future Accessory)
+ --------------------------------
+
+ This SPACE INVADERS cartridge offers a TRAK-BALL option.  A TRAK-BALL
+ may be purchased seperately.  To play any of the game variations with
+ a TRAK-BALL, plug the TRAK-BALL into the number 1 jack on the front
+ of your 5200 console.  Follow the instructions in Section 3, USING
+ THE 5200 CONTROLLERS, for player and game selection.  You do not need
+ a seperate TRAK-BALL for each player.  Simply pass the TRAK-BALL back
+ and forth as each turn comes up.  The computer switches between
+ players and keeps each score automatically.
+
+ NOTE:  You cannot switch from a TRAK-BALL to a joystick (5200
+ controller) or mix the two types of controllers midgame; choose one
+ or the other.  If you decide to switch from TRAK-BALL to 5200
+ controller, or vice versa, unplug existing controller(s), plug in the
+ new, and press START.  The same game variation you previously played
+ will come on the screen.
+
+ TRAK-BALL ACTION
+
+ Move your TRAK-BALL right or left to maneuver your laser cannon in
+ the same direction across the bottom of the screen.  To fire lasers,
+ press the fire button on the TRAK-BALL.  See your Owner's Manual for
+ further details.
+
+ 5.  SCORING
+ -----------
+
+ YOu can score an infinite number of points in this game.  However,
+ since each score display has space for five digits only, a score will
+ be reset to zero after it passes 99999 points.  There are four waves
+ of invaders.  Initially, the space invaders attack from the top of
+ the screen and slowly advance down the screen toward your terrain.
+ After you have eliminated one-half of the invaders, the remaining 24
+ speed up and the point value for them doubles.  In each of the first
+ three waves you must clear two full screen of invaders to move to the
+ next wave.
+
+ Each time the invaders are reset on the screen they will start from a
+ position closer to your laser cannon.  This makes it increasingly
+ difficult for you to keep the aliens from landing on your territory.
+ The point value for hitting an invader doubles with each progressive
+ wave, as shown in Figure 5.
+
+ WAVE 4
+
+ When you get to wave 4, the invaders mutate before your eyes!  As the
+ invader changes from one form to another, it goes through a
+ crystalline stage (see Figure 6).  If hit during this crystalline
+ stage, the invader is not worth any points.
+
+ The scoring system for fourth wave invaders is based upon shape and
+ color.  As you can see in Figure 5, blue invaders are worth 10
+ points, green invaders are worth 15, and red invaders are worth 20
+ points.
+
+ On a black and white television, the invaders' shapes indicate their
+ point value.  Figure 7 gives a breakdown of point values for fourth
+ wave invaders.
+
+ Wave 4 continues to reset until all your lives are lost or an invader
+ lands on your planet.
+
+ (Figure 5 below - Invader Point Values)
+
+ Wave Number           1   2   3   4
+ Normal Attack Speed   2   4   8
+ Double Attack Speed   2   4   8
+ Blue Invader                     10
+ Green Invader                    15
+ Red Invader                      20
+
+ INVADER SAUCER
+ --------------
+
+ Throughout the game, enemy command saucers fly overhead on
+ reconnaissance missions.  The saucers always cycle once from the left
+ and twice from the right.  You can score extra points by shooting the
+ enemy saucers.  When you hit one, the point value for that saucer
+ lights up on the screen, as shown in Figure 8.
+
+ The scoring system for hitting a saucer is based upon how many shots
+ you have taken in the game.  For example, if you zap a saucer on the
+ first shot you get 20 points; but if you hit it in the fifteenth
+ shot, you earn 60 points.  Every time you take 15 shots, no matter
+ what you shoot at, the saucer score cycle starts over.  Also, when
+ you move into a new wave or lose a turn, the saucer scoring cycle
+ resets to start over at 1.  For a breakdown of the command saucer
+ scoring system, see TABLE 1.
+
+ (Table 1 below - Commander Saucer Scoring)
+
+ Shot Taken       1   2   3   4   5
+ Point Value     20  20  20  10  30
+
+ Shot Taken       6   7   8   9  10
+ Point Value     20  20  10  10  20
+
+ Shot Taken      11  12  13  14  15
+ Point Value     30  20  20  10  60
+
+ CLOSE ENCOUNTER
+
+ Every time you clear seven screen of invaders, the saucer hovers
+ over, picks up your laser cannon and flies off with it.  The screen
+ then resets so that the invaders advance from the top again.  After
+ this "Close Encounter", the shields reset and start over again.
+
+ 6.  GAME VARIATIONS
+ -------------------
+
+ Below is a description of each of the 12 games contained in this
+ cartridge.  For a quick reference guide, use the GAME SELECT MATRIX
+ in Section 8.
+
+ GAME 1:  A good choice for beginners, this easiest SPACE INVADERS
+ game offers slow enemy bombs and five lives for you.
+
+ GAME 2:  In this version the enemy bombs alternate between slow and
+ fast, and you have five lives (turns).
+
+ GAME 3:  You have five lives and all the enemy bombs are fast.
+
+ GAME 4:  With slow enemy bombs, this version is identical to Game 1,
+ except that you have three lives instead of five.
+
+ GAME 5:  The alien bombs alternate between slow and fast and you have
+ three lives.
+
+ GAME 6:  All the enemy bombs are fast and you have three lives.
+
+ GAME 7:  The enemy bombs are slow but, in this game, the invaders use
+ sophisticated radar to hom-in on you.  You'll find it's a real
+ challenge to avoid such smart bombs.  You have five lives.
+
+ GAME 8:  This version of SPACE INVADERS is like Game 2.  The enemy
+ bombs alternate between slow and fast and you have five lives.  As in
+ Game 7, the bombs will home-in on you.
+
+ GAME 9:  Try to dodge fast invader bombs that home-in on you.  You
+ have five lives.
+
+ GAME 10: The enemy bombs are slow but smart -- they home-in on you.
+ You have three lives.
+
+ GAME 11: Home-in bombs alternate between fast and slow.  You have
+ three lives.
+
+ GAME 12: The invaders' bombs are fast, they home-in, and you have
+ three lives.
+
+ 7.  STRATEGY
+ ------------
+
+ 1.  Try to hit invaders at the edges of the rows.  This will slow
+     them in their march toward you.
+
+ 2.  Use the shields to your advantage.  Hide behind them to avoid
+     enemy bombs, then rush out to blast the invaders.
+
+ 3.  Take advantage of the 60-point saucer by counting your shots.
+     One way to make the most of this is to shoot 14 invaders, then
+     wait for the saucer (behind a shield, if possible) and use your
+     fifteenth shot to hit the saucer, thereby gaining 60 points.
+
+ 8.  GAME SELECT MATRIX
+ ----------------------
+
+ Game Number             1   2   3   4   5   6   7   8   9  10  11  12
+
+ Five Lives              X   X   X               X   X   X
+ Three Lives                         X   X   X               X   X   X
+ Slow Enemy Bombs        X           X           X           X
+ Fast Enemy Bombs                X           X           X           X
+ Slow & Fast Enemy Bombs     X           X           X           X
+ "Home-In" Enemy Bombs                           X   X   X   X   X   X
+
+ 9.  YOUR BEST GAME SCORES
+ -------------------------
+
+ Name:             Date:    Score:
+ _______________   ______   ________
+ _______________   ______   ________
+ _______________   ______   ________
+ _______________   ______   ________
+ [snip]
+
+ END
+
+ Typed by Keita Iida (keita@mindspring.com)

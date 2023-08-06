@@ -1,0 +1,143 @@
+
+ JR. PAC-MAN
+
+ BY ATARI
+
+ Insert the 5200 game cartridge into your ATARI 5200 SuperSystem so
+ the label faces you and reads right-side-up.  Be sure the cartridge
+ is firmly seated in the center slot of the console, but do not force
+ it.  Then press the POWER switch on.  See your Owner's Manual for
+ further details.
+
+ KIDDING AROUND WITH JUNIOR
+
+ I may be young, but I'm no baby!  I'm a star just like my folks,
+ Pac-Man (tm) and Ms. Pac-Man (tm).  And I've got twice their energy!
+ Come play with me!  We'll race around giant playgrounds.  We'll chase
+ down magic candy and run from ghostly bullies who'll tickle me to
+ death if they catch me.  My playgrounds are full of challenging mazes
+ with corners and alleys to hide in.  I run faster than a speeding
+ roller skate, ducking behind barriers, dodging those mean bullies.  I
+ can even race from one side of a playground to the other.  That's a
+ lot of ground to cover!  But I've got to play a lot harder than my
+ folks to live up to the Pac-Man family name.  That's why this is a
+ whole new game!
+
+ GAME PLAY
+
+ On the playground maze, Jr. Pac-Man runs like mad, eating every dot
+ in sight while trying to avoid the four ghost bullies - Inky, Blinky,
+ Pinky, and Tim.  You start the game with five turns, and lose a turn
+ every time a bully catches Junior.  The game ends when you lose all
+ of your turns.  Have Junior eat a power pill when the ghost bullies
+ start closing in.  Suddenly, he's stronger than the bullies - they're
+ running from him!  Be aggressive and get them!  When you gobble a
+ ghost, the eyes float back to the re-incarnation chamber at the
+ center of the playground.  There they are re-incarnated and emerge to
+ chase Junior again.  Watch for a toy-shaped candy that tromps across
+ the playground.  It turns every dot it touches into a bigger dot
+ worth more points.  But have Junior eat it before it goes too far -
+ it can destroy the power pills!
+
+ USING THE CONTROLLERS
+
+ Plug your 5200 controller firmly into jack 1 for one-player games.
+ Plug a second controller into jack 2 for two-player games.  Use your
+ joystick to joyride throughout the maze. Jr. Pac-Man moves in the
+ same direction you move the joystick.  The maze scrolls when Junior
+ moves to the left or right edge of the screen.
+
+ GAME SELECTION
+
+ When the cartridge is inserted and the POWER is switched on, the game
+ selection screen will appear.  If you wish to see a demonstration of
+ the game, just wait a minute or two and the game demo will
+ automatically begin.   At the game selection screen, press the # key
+ to choose between a one- or two-player game.  Press the * key to
+ choose the skill level you desire.
+
+ To START, PAUSE, and RESET a game:
+
+ Press START to begin playing a Jr. Pac-Man game.
+
+ Press PAUSE to freeze all game play.  Press PAUSE again to resume
+ game play.  Press PAUSE and then START to start another game at the
+ same skill level.  Press PAUSE and then RESET to return to the game
+ selection screen.
+
+ SKILL LEVELS
+
+ When you graduate to each higher level, the playground is faster,
+ tougher, and even more challenging than the one before.  At the game
+ selection screen, use the "*" key to choose your skill level.
+
+ Teddy Bear     -     Easiest
+ Tricycle                |
+ Kite                    |
+ Drum                    |
+ Balloon                 |
+ Train                   |
+ Kitty                   |
+ Root Beer      -     Hardest
+
+ SCORING
+
+ Score points by having Jr. Pac-Man eat the bullies.  The more bullies
+ he eats per power pill, the more points you score.
+
+ Your score appears at the top of the screen.  The number of turns you
+ have left appears at the lower left. Your skill level appears at the
+ lower right.
+
+ POINTS
+
+ First ghost ................................. 200 points
+ Second ghost ................................ 400 points
+ Third ghost ................................. 800 points
+ Fourth ghost ............................... 1600 points
+
+ Teddy Bear ................................... 50 points
+ Tricycle .................................... 100 points
+ Kite ........................................ 200 points
+ Drum ........................................ 500 points
+ Balloon ..................................... 700 points
+ Train ...................................... 1000 points
+ Kitty ...................................... 2000 points
+ Root Beer .................................. 5000 points
+
+ Dot .......................................... 10 points
+ Dot touched by toy candy ..................... 50 points
+ Energy pill .................................. 50 points
+
+ At 10,000 points, you earn a bonus turn.
+
+ HELPFUL HINTS
+
+ * Don't let Jr. Pac-Man eat the power pills too early.  Wait until
+   the bullies gain on him, then have him tease them toward a pill,
+   quickly gobble it, and immediately chase them.
+
+ * Have Junior eat as many dots as he can before he eats the power
+   pills.  This gives him more clear paths for chasing bullies.  Dots
+   worth 10 points slow Jr. Pac-Man down.  Dots worth 50 points slow
+   him down even more.  So, when the bullies close in, have Junior
+   dash into a clear path to outrun them.
+
+ * Jr. Pac-Man turns corners faster than the ghost bullies.  When the
+   bullies are closing in, have him make lots of direction changes to
+   outrun them.
+
+ * Get to know the bullies' personalities.  Each one is unique, and
+   you can use that fact to your advantage.
+
+ * Allow the toy candies to transform as many dots as possible into
+   50-point dots.  But have Junior eat the candies before they destroy
+   the power pills.
+
+ * Pay attention to game sounds, such as the tromping sound of toy
+   candies.  They'll clue you to what's happening in parts of the maze
+   you can't see.
+
+ END
+
+ Typed by John Hardie (jhardie@pipeline.com)

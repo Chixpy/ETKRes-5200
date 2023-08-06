@@ -1,0 +1,311 @@
+
+ VANGUARD
+
+ BY ATARI, INC.
+
+ Insert your 5200 game cartridge so the label faces you and reads
+ right-side-up.  Be sure the cartridge is firmly seated in the center
+ of the console, but do not force it.  Then press the POWER switch on.
+ See your owner's manual for further details.
+
+ TABLE OF CONTENTS
+ -----------------
+
+ 1.  Fed up with Routine Space Flight?
+ 2.  Game Play
+ 3.  Using the 5200 Controllers
+ 4.  Scoring
+ 5.  Strategy
+
+ VANGUARD WANTS YOU!
+
+ 1.  FED UP WITH ROUTINE SPACE FLIGHT?
+ -------------------------------------
+
+ Looking for new frontiers to conquer?  Then Vanguard is looking for
+ YOU!  We seek courageous space pilots for exploration of Planet
+ Aterria.  Come fly through the tunnels of Aterria in the Vanguard
+ ship of tomorrow.  Be the first to enter the fabulous City oF Mystery
+ and face the great Gond.
+
+ High risk pay, five lives, bonuses!
+
+ Don't wait!  Sign up for high adventure today!
+
+ 2.  GAME PLAY
+ -------------
+
+ So you enlisted for adventure, did you?  Well, you've come to the
+ right place.  Your mission is to reach the City of Mystery at the
+ end of the tunnel and destroy the great Gond with your four-
+ directional laser guns.  Sound easy?  Wait and see.
+
+ First you have to make it through the seven tunnel zones without
+ getting smashed on the tunnel walls, crunched by enemy objects, or
+ zapped by missiles.  The more enemy objects you destroy, the more
+ points you earn, but the rougher it gets.  If you make it to the
+ City of Mystery and destroy Gond, you earn bonus points.  Then you
+ head into the next tunnel, which also leads to the City of Mystery
+ and Gond.  Then what?  Well, to quote an old Aterrian saying, "Life
+ is just one tunnel after another."
+
+ Now before you climb into your spaceship and enter the first tunnel,
+ take a look at the options.
+
+ OPTIONS
+
+ One or two players.  VANGUARD is set for a one-player game.  Press
+ the # key on the 5200 keypad to select a two-player game.
+
+ Single or Repeat Fire.  VANGUARD is set for Single Fire.  To select
+ Repeat Fire, press the * key on your keypad.
+
+ * Single Fire.  Press the red fire button (any red button) each time
+ you want to fire.
+
+ * Repeat Fire.  Hold in the red fire button and fire continuously.
+
+ Tunnel.  In order of difficulty, the tunnels are NOVICE, FIRST,
+ SECOND, and THIRD.  in the NOVICE tunnel the pace is slower, you
+ never run out of fuel, your enemies don't shoot, and there are no
+ barriers to trap you in the Stripe Zone.  VANGUARD is set for the
+ FIRST tunnel.  Press the 7 key to change tunnels.
+
+ Zone.  You can start the game in any zone except the City of Mystery.
+ VANGUARD is set for the first (Mountain) zone.  Press the 9 key to
+ change zones.
+
+ When you have selected your options, press the START button and enter
+ the tunnel.
+
+ LIVES
+
+ Your spaceship has five lives and earns a bonus life at 10,000 and
+ 50,000 points.  The number of lives remaining is shown at the top
+ left of the screen, along with the scores and fuel guage (Figure 1).
+
+ FUEL GUAGE
+
+ Keep an eye on your fuel guage as you fly through the tunnels.  You
+ use one notch each time you zap an enemy object.  It takes about 40
+ seconds to empty the fuel tanks.  Don't run out of fuel or you'll
+ crash.  You get a new supply of fuel with each new life.
+
+ NOTE:  You never run out of fuel in the Novice Tunnel.
+
+ TUNNEL MAP
+
+ Use your tunnel map (Figure 1) to see where you are in the tunnel and
+ where you're heading.  The blinking dot marks the location of your
+ spacehip.
+
+ LASER GUNS
+
+ Now try out the laser guns mounted forward, aft, and on either side
+ of your spaceship (Figure 2).  To fire the aft, starboard, or port
+ guns, move your joystick in the direction you want to fire and press
+ any one of the red fire buttons on your 5200 controller.  The forward
+ gun fires automatically when you press the fire button.  IMPORTANT!
+ Your spaceship moves faster when you are NOT firing.
+
+ TUNNEL TOUR
+
+ Ready for a short tour of the tunnel?  Then man your spaceship
+ controls, keep your finger on the fire button, and take off!
+
+ Mountain Zone (Figure 1).  This zone's no picnic!  First Mist copters
+ try to impact on your spaceship, then Harley rockets fire missiles
+ at you.  You can destroy Mists and Harleys with your lasers but you
+ have to dodge missiles, except when your spaceship is operating on
+ energy pod power.
+
+ Energy Pods.  When you fly through a pod marked E, your spaceship
+ becomes indestructible.  You can't fire lasers, but you can crash
+ into enemy objects and score points fast.  Pod power lasts only as
+ long as the Vanguard music plays.  When the music ends, a siren warns
+ you to stop crashing and start firing.
+
+ Rainbow Zone.  From the Mountain Zone you fly into a Rainbow Zone
+ sparkling with crystals.  The scenery's fantastic, but you'll
+ probably be too busy shooting Helm balloons to admire it.
+
+ Styx Zone.  Styx and stones can break your bones, so steer a tight
+ course through here.  It won't be easy with Harleys and Mists
+ shooting missiles at you in the narrow passageways.
+
+ Rainbow Zone 2.  Are you still with us?  Then down you go into
+ another Rainbow Zone.  Watch it!  Ammo balloons are attacking in
+ force.  Stay on top of them, and fire in all directions.  Whew!
+ What next?
+
+ Stripe Zone.  Better decide fast which route to follow in this zone.
+ Garime monsters jump out and stomp on your spaceship on the upper
+ route.  Barriers bar your way on the lower route.  You can pass
+ barriers if you shoot them at the top or bottom; shooting them in the
+ middle gets you nowhere.
+
+ Both routes lead past enemy bosses and Floating Paynes.  Lasers
+ destroy bases but not Paynes.  Sneak past Paynes while their arms
+ are retracting.
+
+ Take heart!  Energy pods grow along the lower route... If you can
+ only reach them in time.
+
+ NOTE: Barriers and Floating Paynes do not operate in the Novice
+ Tunnel.
+
+ Rainbow Zone 3.  Yes, another Rainbow Zone.  Finish off the Helm
+ balloons, then head into the Bleak Zone.
+
+ Bleak Zone.  Flying Kemlus snakes and spear-shaped Romeda ships call
+ this zone home.  Touch a Kemlus and he'll carry you through the
+ tunnel to the tune of 1090 bonus points.
+
+ But beware!  you only get three rides.  After the third ride, you
+ have to shoot to kill.
+
+ HINT!  Kemlus snakes revive if you touch the debris.  So you can
+ shoot a Kemlus and then ride it to score bonus points on top of
+ points.  Just be careful not to touch the debris after the third
+ ride.
+
+ A rain of Romeda ships follows the Kemlus snakes.  Shoot all the
+ Romedas you can, but be careful not to run into the debris; it's
+ deadly.  Watch out for Romedas in even-numbered tunnels.  Some of
+ them return your fire.
+
+ CITY OF MYSTERY
+
+ You can see that it isn't going to be easy to destroy Gond.  He's
+ well protected by the two barriers moving in opposite directions in
+ front of him (Figure 3).  Your lasers can hit him only when (and if)
+ the barriers move in sync and leave an opening you can fire through.
+ Keep on firing while you wait for a break.  Meanwhile, dodge missiles
+ aimed at the spacehips's starboard (right) side and watch out for the
+ lower barriers... they're creeping up on you.  Keep cool and don't
+ panic.  The more time it takes to hit Gond, the more bonus points you
+ earn.
+
+ NOTE:  Gond doesn't fire at you in the Novice Tunnel.
+
+ CONTINUE FEATURE
+
+ When you lose your last life, you can continue your mission from
+ wherever you are in the tunnel; you do not have to return to the
+ beginning.  To continue through the tunnel, press the O key on your
+ keypad or your red fire button when GAME OVER appears on your
+ screen.  The lives counter will reset to 5 and the score counter to
+ O.
+
+ If you're holding in the fire button when you lose your last life,
+ there will be no interruption in the game.  The lives and score
+ counters will restart but GAME OVER will not appear.
+
+ TWO-PILOT MISSIONS
+
+ If there are two of you, the pilot using the left controller has the
+ first command.  When he loses a life, the second pilot takes over.
+ Pilots alternate turns until one pilot loses his last life.  The
+ surviving pilot continues until he too loses his last life; then the
+ game ends.  Use the left controller to start a new game or continue
+ through the tunnel.
+
+ 3.  USING THE 5200 CONTROLLERS
+ ------------------------------
+
+ For solo missions, plug one 5200 controller into jack 1 at the front
+ of the console unit.  For two-pilot missions, plug another controller
+ into jack 2.
+
+ CONTROL KEYS
+
+ Press START to begin a game, PAUSE to freeze and unfreeze action, and
+ RESET to bring up the options display.
+
+ To interrupt a game and begin again, press PAUSE and then START.  To
+ interrupt a game and change options, press PAUSE and then RESET.
+
+ KEYPAD
+
+ *  # selects ONE or TWO PLAYER option.
+ *  * selects SINGLE or REPEAT FIRE option.
+ *  7 selects TUNNEL option.
+ *  9 selects ZONE option.
+ *  O selects Continue feature.
+
+ JOYSTICK
+
+ Use the joystick on your controller to steer your spaceship and
+ direct laser fire (see LASER GUNS, Section 2).  The joystick moves
+ the spaceship left, right, up, and down on the television screen
+ (Figure 4).  To move faster, push the joystick as far as it will go
+ in the direction you want to travel.
+
+ RED FIRE BUTTONS
+
+ Press any of the red buttons to fire your laser guns.
+
+ 4.  SCORING
+ -----------
+
+                         ENEMY OBJECT
+                         ------------
+
+ Mist ship              70 points
+ Harley rocket          50 points
+ Helm balloon           80 points
+ Ammo Balloon          100 points
+ Base              100-400 points
+ Garime Monsters   100-400 points
+ Barrier               800 points
+ Floating Payne    Can't be destroyed,
+                        no points
+ Kemlus snake      100-400 points
+ Romeda ship           100 points
+
+                         BONUSES
+                         -------
+
+ Bonus Lives                          At 10,000 and 50,000 points
+ Riding a Kemlus (three times only)   1090 points each time
+ Destroying Gond                      1000-8000 points
+
+ NOTE: The longer you wait to destroy Gond, the more points you earn.
+
+ 5.  STRATEGY
+ ------------
+
+ FIRING SLOWS YOU DOWN
+
+ Hold your fire whenever you eed a burst of speed to pass Paynes,
+ dodge missiles, or dive for energy pods.
+
+ MISTS AND HARLEYS
+
+ Keep the spaceship moving up and down to avoid missiles, and fire
+ vertically against the enemy's line of flight.
+
+ RAINBOW ZONES
+
+ Before entering a Rainbow zone, advance your spaceship to the middle
+ of the screen.  This will prevent you from crashing into the tunnel
+ walls as you enter.  To avoid getting zapped from above or below,
+ fire your starboard and port guns alternately.
+
+ STRIPE ZONE
+
+ Go for the energy pod first; then crash into as many high-scoring
+ targets as you can while pod power lasts.  When firing, fire on
+ approach.  Don't fire at Paynes.  You can't destroy them, and firing
+ slows them down.
+
+ CITY OF MYSTERY
+
+ To stay alive in the City of Mystery and earn lots of bonus points,
+ you have to dodge missiles.  Wait for the first missile to appear,
+ the quickly move to avoid it.  Keep changing your position while
+ firin at Gond.  If you're lucky, you'll hit Gond before he hits you.
+
+ END
+
+ Typed by Keita Iida (keita@mindspring.com)

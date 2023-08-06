@@ -1,0 +1,190 @@
+
+ PENGO
+
+ BY ATARI, INC.
+
+ Insert your 5200 (tm) game cartridge so the label faces you and reads
+ right side-up.  Be sure the cartridge is firmly seated in the center
+ slot of the console, but do not force it.  Then press the POWER
+ switch on.  See your owner's manual for further details.
+
+ GAME OBJECTIVE
+
+ As Pengo the Penguin, you race around the ice field rearranging huge
+ blocks of ice.  Your objectives: Destroy your opponents, the
+ Sno-Bees, before they sting you; and line up three diamond blocks
+ for a fortune in bonus points.
+
+ Use your joystick controller to move Pengo around the ice field.
+ Press the lower fire button to kick an ice block accross the
+ playfield or to crush an ice block that is trapped against the wall
+ or against another block.
+
+ Squash the Sno-Bees by pushing ice blocks into them or by running
+ Pengo over them when they are frozen.  Line up the three diamond
+ blocks by crumbling and kicking strategic ice blocks around the field
+ until all three diamond blocks adjoin.
+
+ Each round is completed when you destroy all the Sno-Bees or when the
+ last one escapes.  The game ends when you lose your last Pengo life.
+
+ GAME PLAY
+
+ You start the game with three, four, or five Pengo lives -- depending
+ on the skill level you select.  The ice blocks that flash for a few
+ seconds at the beginning of each round contain Sno-Bee eggs, which
+ can hatch as play progresses.  Memorize their positions and destroy
+ them as quickly as possible for bonus points.
+
+ The diamond blocks are indestructible.  Your task is to line them up
+ horizontally or vertically -- it doesn't matter in what direction.
+ You get 10,000 points for lining up the diamond blocks inside the
+ playfield -- really hard to do! -- and you get 5,000 points for
+ lining them up against a wall -- much easier!
+
+ Sno-Bees smash ice blocks to get at you.  If a Sno-Bee catches you,
+ it delivers a killing sting.  Kill the Sno-Bees first by: squashing
+ them with ice blocks, crushing them before they hatch, and stepping
+ on them or squashing them with ice blocks when they are frozen.
+
+ You can freeze Sno-Bees that are near one of the four ice field walls
+ by pressing the lower fire button to push Pengo against the wall
+ until it vibrates.  Any Sno-Bees touched by the vibrating wall will
+ temporarily freeze.  While frozen, step on the Sno-Bees or squash
+ them with an ice block.  Also, Sno-Bees are automatically frozen for
+ a few seconds after you align all three diamond blocks.  While they
+ are frozen, put the little nasties in permanent deep freeze by
+ squashing them with ice blocks or by stepping on them.
+
+ As a single round progresses, Sno-Bees get smarter.  The last
+ remaining Sno-Bee is the most dangerous.  It moves faster and
+ destroys blocks like lightning shattering ice cubes.  If you don't
+ destroy it within a few seconds, this Sno-Bee goes into hybernation,
+ thus ending the round.
+
+ The clock on the intermission screen after each round displays the
+ number of seconds it took you to complete that round.  If you cleared
+ the playfield of Sno-Bees in less than 60 seconds, you receive
+ special bonus points (see SCORING.)
+
+ USING THE CONTROLLERS
+
+ Plug one 5200 controller into jack 1 for a one-player game; plug a
+ second controller into jack 2 for two-player games.  The player
+ using jack 1 controls game selection and starts the game.
+
+ Use your joystick to maneuver Pengo across the ice field.  He moves
+ up, down, right, and left in the same direction you move the
+ joystick.
+
+ Press either or both bottom red fire buttons to kick ice blocks
+ across the field, to crumble ice blocks, and to make the wall
+ vibrate when Pengo stands near it.  The top red fire button does not
+ function in Pengo.
+
+ CONTROL KEYS
+
+ Press START to begin the game.  Press PAUSE to stop and restart the
+ action.  Press PAUSE, then RESET during game play to return to the
+ game options screen.
+
+ GAME OPTIONS
+
+ Press the # key on your controller to cycle through the three PENGO
+ skill levels: BEGINNER, INTERMEDIATE, and ADVANCED.  At the BEGINNER
+ level, you start the game with five Pengo lives and only two Sno-Bees
+ will buzz the ice field at any one time.  At the INTERMEDIATE level,
+ you start out with four lives and no more than three Sno-Bees appear
+ on the screen at one time.  You start the game with three lives at
+ the ADVANCED level, and as many as four Sno-Bees can gang up on you
+ simultaneously.
+
+ Press the O key on your controller to select a one-player or
+ two-player game.  The screen display will alternate between 1 PLAYER
+ and 2 PLAYERS.  In two-player games, players take turns each time a
+ Pengo life is lost.
+
+ SCORING
+
+ The first players's score appears at the top left of the screen and
+ the second player's score is displayed at top right.  The highest
+ score to date is displayed at top center.  You can score a total of
+ 99,999,999 points before the score rolls back to zero.  Point values
+ are listed below.
+
+ ACTIVITY                                  POINTS
+ ------------------------------------------------
+ Crumbling an ice block                        30
+
+ Squashing Sno-Bees between Ice Blocks
+
+ 1 Sno-Bee                                    400
+ 2 Sno-Bees at once                         1,600
+ 3 Sno-Bees at once                         3,200
+ 4 Sno-Bees at once                         6,400
+
+ Destroying a Frozen Sno-Bee by:
+
+ Stepping on it                               100
+ Squashing it between ice blocks              400
+
+ Crushing an Ice Block Containing a           500
+ Sno-Bee Egg
+
+ Lining up Diamond Blocks:
+
+ Against a wall                             5,000
+ Inside the ice field                      10,000
+
+ Time-Bonus Points for Destroying
+ Sno-Bees
+
+ Seconds                                   POINTS
+ 0  to 19                                   5,000
+ 20 to 29                                   2,000
+ 30 to 39                                   1,000
+ 40 to 49                                     500
+ 50 to 59                                      10
+ 60 or more                              No Bonus
+
+ TRAK-BALL OPTION
+
+ Atari 5200 PENGO offers a TRAK-BALL option.  A TRAK-BALL controller
+ may be purchased seperately.  To play the game with a TRAK-BALL, plug
+ it into jack 1 on your console.  Follow the instructions in this
+ section to select the number of players and game variations.  You do
+ not need a separate TRAK-BALL for each player.  Simply pass the
+ TRAK-BALL back and forth as each turn comes up.
+
+ HELPFUL HINTS
+
+ * Kill as many Sno-Bees as possible with a single ice block.  You'll
+ score lots of points and you'll get rid of the Sno-Bees quickly for
+ potential time-bonus points.
+
+ * Kicking and crumbling blocks in your path slows you down.  So if
+ Sno-Bees are chasing you and you come up against an ice block, don't
+ lose time by trying to destroy it, run around it!
+
+ * Try to put a block between you and pursuing Sno-Bees.  Then use
+ that block to crush the little nasties.
+
+ * For higher points, remember to crush Sno-Bees with ice blocks
+ rather than stepping on them.
+
+ * The best strategy for lining up diamond blocks is to make a wall
+ out of the regular ice blocks against which the diamond blocks can be
+ pushed.
+
+ * Each time you begin a new round, analyze the maze.  If it's easy
+ to line up the diamond blocks, do that first.  If the diamond blocks
+ are far apart and hard to align, kill the Sno-Bees first.
+
+ * Remember that regular ice blocks are worth 30 points each.  So,
+ after aligning the diamond blocks, start crushing the regular blocks
+ for extra points, but don't destroy them all before you kill off the
+ Sno-Bees!
+
+ END
+
+ Typed by Keita Iida (keita@mindspring.com)

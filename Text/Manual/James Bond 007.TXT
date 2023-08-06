@@ -1,0 +1,272 @@
+
+ JAMES BOND 007
+
+ BY PARKER BROTHERS
+
+ FOR ATARI 5200 GAME SYSTEM
+
+ SETTING THE CONSOLE CONTROLS
+ 1. Place the cartridge firmly into the cartridge slot.
+ 2. Plug one or two hand-held controllers into controller jacks
+    labeled "1" and "2".  Use the controller in the "1" jack for a
+    one-player game.
+ 3. Press the ON/OFF switch to ON.
+ 4. Press the # button to select a difficulty level; either NOVICE
+    or AGENT.
+ 5. Press the * button to select the number of players; either 1
+    or 2
+ 6. Press the START button to begin.
+
+ To the tune of the James Bond theme, you'll see the title of the
+ adventure as well as "GOOD LUCK, MR. BOND."  "Agent 1" (or 2) refers
+ to the first (or second player).  The number of avaliable vehicles
+ appears to the right.  As Mr. Bond steps into the vehicle, he gices
+ a brief demonstration of its capabilities, then speeds off to face
+ the first adventure.
+
+ At any time during the game, you may press either START or RESET to
+ begin again.
+
+ THE HAND HELD CONTROLLERS
+ The joystick on the hand-held controller maneuvers Bond's specially
+ designed multi-purpose craft.  The craft moves forward with a right
+ motion and slightly back with a left motion.  An up or down motion
+ causes the craft to jump or dive.  In either case, gravity or
+ buoyancy returns the craft to a water or land surface line.
+
+ THE PAUSE BUTTON
+ At any time during the game, you may freeze the action.  To do so,
+ simply press PAUSE.  To continue the action, press PAUSE again.
+
+ YOUR ITINERARY, MR. BOND
+ In this game, you are Bond.  James Bond, 007, the world's most famous
+ secret agent.  Renowned for your cool and confidence (not to mention
+ your biting wit), you've been selected by the British Secret Service
+ for four clandestine, utterly critical, and nearly impossible
+ missions.
+
+ These will be accomplished at the controls of a specially designed
+ multi-purpose craft that boasts extraordinary capabilities.  It has
+ the properties of a car, a plane, and a submarine.  And it's
+ equipped with the latest weaponry.  We think you'll find it more
+ than adequate.
+
+ In brief, Mr. Bond, this is what lies ahead.  First stop, Las Vegas
+ in Diamonds Are Forever.  No casinos, here.  Rather, you've got to
+ cross the desert in the dead of night.  A very romantic place,
+ indeed, when you're not being shot at.
+
+ We know you like a change of scenery, Bond, so the next stop is
+ Sardinia in The Spy Who Loved Me.  Stromberg's underwater laboratory
+ is your destination in this one.  We're confident you'll know just
+ what to do when you reach it.
+
+ In Moonraker, you'll recognise your old nemesis Hugo Drax and his
+ poison satellites.  From your position on the lake, you must stop the
+ satellites from ever reaching Earth.
+
+ We thought we'd top off the assignment with For Your Eyes Only.  This
+ one will take you below sea level to a sunken World War II fishing
+ trawler.  Could be the most hazardous mission of all.  We're only
+ thinging of you, Bond.  We know your fondness for the Greek islands.
+
+ Oh, about the details, read on.  We want you prepared for the
+ assault . . . armed frogmen, missiles, mines and the like.  Not to
+ worry.  Good luck, Bond.  And Bon Voyage!
+
+ DIAMONDS ARE FOREVER
+ Mission: Land on Seraffino's Oil Rig and Save Tiffany Case
+
+ There's lots of glitter in this adventure.  But all that glitters is
+ not fold . . . it's diamonds and Seraffino's got them!  Black market
+ jewelry scheme, you're thinking?  Wrong.  When attached to a
+ communications satellite, the stolen rocks can harness solar energy,
+ create a laser blast, and destroy targets on the Earth's surface.
+
+ Therefore, Bond, you simply must get Seraffino.  You'll find him on
+ an oil rig off the Pacific coast.  There, he controls the diamond
+ satellites' guidance system.
+
+ By the way, Bond, Seraffino's holding your . . . uh . . . assistant,
+ Tiffany Case.  We believe she's desperately in need of rescue.
+
+ The Desert
+   First, you must travel rugged desert terrain in the dead of night.
+   The desert is filled with treacherous craters that you must jump
+   over - or else crash!
+
+   As satellites pass overhead, they'll drop lasers.  Lasers can
+   destroy you on impact as well as create craters in your path.  Your
+   driving skills will be of the utmost importance in surviving the
+   lasers since it's impossible to destroy the satellites.
+
+   Craters occasionally fill with water.  You may glide over the water
+   as long as you jump back onto the land.
+
+ The Diamonds
+   Giant diamonds hang in the night sky.  Hit one with your fixed
+   angle shot to light you way (and score points).  And remember that
+   only by the light of a diamond will you be able to see Seraffino's
+   oil rig once you reach the ocean.
+
+ The Ocean
+   When you reach the ocean, continue to light the sky by hitting
+   diamonds.  Remember, you're looking for the oil rig.  Also, lobbing
+   flare bombs onto the ocean floor enables you to see Seraffino's
+   frogmen and get them before they get you.  (Watch out for fire from
+   behind.)  The satellites are still active, so beware.
+
+ The Oil Rig
+   Seraffino's oil rig will be silhouetted against the sky when you
+   hit a diamond.  When it appears, move your craft just to the left
+   of the rig, straight up over the top of the derrick, then down to
+   land on the helipad.  When this happends, you've gotten Seraffino
+   and saved Tiffany Case!
+
+ Important:
+   If after having sighted the oil rig you're unable to hit a diamond-
+   or if you notice that your shot disappears right after firing, this
+   means you're about to hit the rig.  Dive under it quickly and try
+   again to accomplish the mission on the next oil rig.
+
+ Completing of this mission brings you the next with your remaining
+ crafts.
+
+ THE SPY WHO LOVED ME
+ Mission:  Destroy Stromberg's Undersea Laboratory
+
+ Shipping magnate Karl Stromberg uses huge oil tankers to swallow
+ nuclear submarines right out of the water.  It just so happens he's
+ captured a British sub, not to mention you fellow agent, Anya
+ Amasova.  Stromberg must be stopped for good.  You'll find him in
+ his undersea laboratory off the coast of Sardinia.
+
+ Missiles
+   Stromberg has rigged the ocean floor with deadly missiles that rise
+   into the air, turn into mushroom mines, and fall back down again.
+   Avoid them, shoot them down, or bomb them out at the base.
+
+ The Oil Tankers
+   When you see one of Stromberg's oil tankers, dive under it.  From
+   the tanker, Stromberg's trigger-happy chopper pilots will track
+   you until their fuel runs out.  When this happens, they head back
+   to the tanker.  By the way, Bond, the helicopter is indestructible.
+
+ The Undersea Laboratory
+   When you see Stromberg's laboratory at the bottom of the screen,
+   lob a flare bomb onto it.  The explosion will release a capsule
+   that carries Anya Amasova.  Swoop down and touch the capsule and
+   your mission is accomplished.  Stromberg is destroyed and Anya is
+   saved.
+
+ Completion if this mission brings you he next with your remaining
+ crafts.
+
+ MOONRAKER
+ Mission: Destroy Three Spinning Satellites
+
+ Billionaire industrialist Hudo Drax has concocted the ultimate scheme
+ in international espionage:  the depopulation of the Earth in order
+ to recolonize it with his super-race.  The destruction will occur
+ from Drax's poison satellites that rotate through space.  As they
+ spin through the night, you must attack them from your craft's
+ position on, above, or beneath the lake's surface.  A deceptively
+ difficult task.
+
+ Space Shuttles
+   Another of Drax's brilliant but dastardly inventions is the
+   Moonraker fleet of space shuttles.  Launched from the ocean floor,
+   they will destroy you on impact.  And remember, when a space
+   shuttle rises into orbit at the top of the screen, it explodes.
+   If you're above water when it does, you'll explode too.  How to
+   handle a space shuttle?  Blow it out at the launch pad, dodge it
+   and submerge before it explodes or shoot it down.
+
+ Mini-Subs
+   Drax simply loves submarines and he has sent a fleet of them to
+   patrol the depths.  Mini-subs release deadly mines that float to
+   the surface.  Avoid them or destroy them or they'll destroy you.
+   And get those bothersome subs if you can, too.
+
+ Just one more thing, Bond.  Make sure you clear the terrain and watch
+ that uncomfortably shallow water.
+
+ Completion of this mission brings you the next with your remaining
+ crafts.
+
+ FOR YOUR EYES ONLY
+ Mission:  Retrieve Radio Equipment from a Sunken Fishing Trawler
+
+ A British surveillace ship has been sunk off the Greek mainland by a
+ WWII mine.  Somewhere amid the wreckage lies a top secret ultralow
+ frequency transmitter that launches ballistic missiles on command.
+ You must find it before it falls into the hands of enemy agent
+ Gonzalez.
+
+ Terrain
+   First, the shoreline requires expert piloting to avert the mountain
+   peaks that rise dangerously from the ocean floor.
+
+ Underwater Enemies
+   Only by the light of flare bombs can you see the enemies that lurk
+   in the darkened waters.  These include armed frogmen and the same
+   mine-releasing minisubs that Drax employs.  You've escaped them
+   before, you can do it again!
+
+ Helicopters
+   Occasionally, a helicopter comes onto the scene.  Sorry, old boy,
+   it's not one of ours.  The chopper's tracking system makes it a
+   deadeye shot.  And the radius around the gunfire explosion is a
+   killer.  Consider yourself warned.
+
+ The Sunken Fishing Trawler
+   When you see the sunken trawler, maneuver your craft onto the
+   circular radio antenna in the middle of the deck.  Do so, and
+   you've retrieved the radio equipment.  But if you hit any other
+   part of the trawler, you're sunk!
+
+ Completion of this mission ends the game.
+
+ END OF GAME
+ The game ends when you complete the last mission or when you lose
+ the last craft.  In either case, you'll see the final animated scene
+ along with your final score.  The following screen give you your
+ AGENT RATING.
+
+ To play again, simply press the RESET button, then the START button.
+
+ AGENT RATING
+ The British Secret Service rates each of its agents on his or her
+ performance at the end of each game.  Our rating method is computer-
+ analyzed and highly confidential.  (Enemy agents must never learn our
+ training secrets.)  The highest rating in Novice is 005, The highest
+ rating in AGENT is 007, of course!
+
+ TWO-PLAYER GAMES
+ In a two-player game, players alternate as Bond.  The LEFT player
+ goes first.  A player's score is displayed at the end of a turn.
+ When one player loses all his or her crafts, he or she is out of the
+ game.  The opponent may continue to play with his or her remaining
+ crafts.
+
+ SCORING
+ Your score is displayed after the loss of each craft.  Your final
+ score appears at the end of the game.
+
+ Targets                                       Points
+ Diamond                                           50
+ Frogman                                          200
+ Ocean floor missile                              100
+ Mushroom mine                                    100
+ Space shuttle                                    200
+ Poison satellite                                 500
+ Mini-sub                                         200
+ Mini-sub mine                                    100
+ Mission accomplished                           5,000
+ Each remaining craft at the end of the game    3,000
+
+ END
+
+ Typed by Grant LeTourneau (snapsnar@tezcat.com)
+
+ for Atari Gaming Headquarters

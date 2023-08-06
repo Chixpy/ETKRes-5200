@@ -1,0 +1,154 @@
+
+ GYRUSS
+
+ BY PARKER BROS.
+
+ Three billion miles is a long way from home. But there's no shorter
+ route from outer Neptune to Earth. As if that weren't enough...it's got
+ to be a shoot-out all the way. You alone in your rapid-firing spaceship,
+ swirling in a circular flight pattern...orbiting to the right...arcing to
+ the left...trying to mow down wave after wave of enemy plane formations,
+ rocketingmeteors and run-away satellites. Stops at Uranus, Saturn, Jupiter,
+ and Mars will mark your progression towards Earth. Each one's a short
+ visit, though. Then it's off again to the next planet--and the next wave
+ of enemies. Reach Earth in one piece and maybe you'll think twice about
+ leaving home. Then again...maybe not!
+
+ SETTING THE CONSOLE CONTROLS
+ 1. Place the cartridge firmly into the cartridge slot on your game unit.
+ 2. Plug the joystick controllers firmly into controller jacks #1 and #2.
+ For a one-player game, use the #1 jack.
+ 3. Turn the ON/OFF switch to ON. The title screen will appear showing the
+ planet Earth.
+ 4. Press START to begin a one-player game. Press * to begin a two-player game.
+
+ At any time during the game, you may press RESET to begin again. Also, you
+ may freeze the action by pressing PAUSE. To restart the action, press PAUSE
+ again.
+
+ THE JOYSTICK CONTROLLER
+ The joystick controls your spaceship's circular flight pattern through space.
+ Simply move the joystick in a circular motion to do so. Press any FIRE button
+ quickly to rapid-fire your spaceship's ammunition.
+
+ OBJECT
+ To make the journey from beyond Neptune to the sanctuary of Earth, defeating
+ enemy planes, avoiding meteors and satellites, and reaching interim planets
+ along the way.
+
+ PLAYING
+ At the start of the game, the screen shows:
+ - your score in the upper center
+ - the number of remaining spaceships in the upper left
+ - the stage number in the right corner
+ - your spaceship in the lower center
+
+ Warps
+ The first screen also tells you "2 WARPS TO NEPTUNE." A warp is one stage of
+ battle against the enemy planes that guard the planets of your destination.
+ It takes 2 warps to reach Neptune and 3 warps to reach each of the subsequent
+ planets. There will be a brief pause between each warp at which time your
+ spaceship speeds towards the next planet...and its next encounter. Also at
+ this time, the screen gives you teh remaining number of warps to go.
+
+ Enemy formations
+ Within each warp you'll face FOUR different formations of enemy planes. The
+ formations might emerge from the center of the screen where the planes band
+ together--or form off screen where they can create a surprise attack. In either
+ case, shoot down as many planes within the formation as you can and don't
+ let them hit your own ship. Planes fire missiles, too...your only option is
+ to avoid them...or be shot down.
+ After the last formation appears, all the planes NOT shot down will regroup
+ in the center and attack again. They will continue to do so until you've
+ eliminated the last one--unless, of course, one eliminates you first.
+
+ BUT PLANES ARE NOT ALL YOU NEED TO WORRY ABOUT. THERE ARE SWIRLING AND DEADLY
+ SATELLITES AND METEORS, TOO.
+
+ Satellites
+ There are two types of satellites. One type appears in threes--two that look
+ like giant molecules on either side of a glowing ball. Try to shoot them down
+ for points. SHOOT THE MIDDLE SATELLITE, AND YOUR SHIP WILL FIRE DOUBLE
+ BULLETS. THE SHIP WILL CONTINUE TO DO SO UNTIL IT GOES DOWN.
+ Electromagnetic wave-emitting pairs are the other type of satellite. Shoot
+ them down to break the wave that can cathc your spaceship and destroy it.
+ And rack up points while you're at it!
+
+ Meteors
+ Meteors are a third type of enemy to watch out for. Meteors look like giant
+ rocks and CANNOT be destroyed. So stay clear of them!
+
+ COME OUT ALIVE AFTER COMPLETING THE TWO OR THREE WARPS NECESSARY TO REACH
+ A PLANET, AND THAT PLANET APPEARS ON SCREEN. AFTER A BRIEF BREATHER, YOU'LL
+ ENTER THE CHANCE STAGE.
+
+ The Chance Stage
+ The Chance Stage occurs upon reaching a planet. During this stage, you get a chance
+ to rack up points. One at a time, four different enemy plane formations will
+ appear on screen...BUT THEY HAVE NO POWER TO DESTROY YOU. SO position yourself
+ for maximum firing accuracy. Bonus points are awarded for shooting down
+ an entire formation and Super Bonus points for wiping out all four formations.
+
+ WHEN THE CHANCE STAGE IS OVER, IT'S OFF TO THE NEXT PLANET AND THE NEXT
+ BARRAGE OF WARPS.
+
+ The Planets
+ In case you need to be reminded...the planets along your journey through our
+ solar system appear in this order: Neptune, Uranus, Saturn, Jupiter, Mars,
+ and Earth.
+
+ The Music
+ You're listening to Johann Sebastian Bach's "Toccata and Fuge in D Minor."
+
+ Bonus spaceships
+ Score 60,000 points and you're awarded with an additional spaceship. Every
+ 100,000 points thereafter awards you another one.
+
+ END OF GAME
+ The game ends when you lose your last spaceship. If you should reach Earth
+ with at least one remaining spaceship, you'll continue the game with Neptune
+ as the first stop once again.
+ To play again, press START for a one-player game; * for a two-player game.
+
+ TWO-PLAYER GAMES
+ In a two-player game, the left player goes first; players alternate turns.
+ Your turn ends when you lose a spaceship.
+
+ SCORING
+ Points accumulate at the top of the screen throughout your turn.
+
+ Targets                                        Points
+
+ Enemy plane.......................................100
+ Entire formation:
+ 1st..............................................1000
+ 2nd..............................................1500
+ 3rd..............................................2000
+ 4th..............................................2500
+
+ Molecular satellites:
+ 1st destroyed.....................................500
+ 2nd destroyed....................................1000
+ 3rd destroyed....................................1500
+ With double bullet fire:
+ 1st destroyed....................................1000
+ 2nd destroyed....................................1500
+ 3rd destroyed....................................2000
+
+ Electromagnetic satellite.........................200
+
+ During Chance Stage:
+ Enemy plane.......................................100
+ Entire formation:
+ in Stage 3.......................................1000
+ in Stage 7.......................................1500
+ in Stage 11......................................2000
+ in Stage 15......................................2500
+ in Stage 19......................................3000
+ Super Bonus for all four formations............10,000
+
+ END
+
+ Typed by T.J. Rappel (trappel@athenet.net)
+
+ for Atari Gaming Headquarters
