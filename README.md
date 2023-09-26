@@ -7,7 +7,7 @@ Icons, images, texts, videos, etc. for use with [Emuteca](https://github.com/Chi
 
 Use GIT to clone the repository or download it in zip:
 
-https://github.com/Chixpy/ETKRes-5200/archive/master.zip
+https://github.com/Chixpy/ETKRes-5200/archive/main.zip
 
 ## About Images
 
@@ -17,7 +17,7 @@ You can read more about media files in [Emuteca's Web Page](https://chixpy.githu
 
 Rule #1: No filters to screenshots.
 
-All images in .png format at original system resolution... ithe most common resolution without blank lines will be 316x192.
+All images in .png format at original system resolution... The most common resolution is 316x192.
 
 ### Front, Back, Spine, Manual, Media, Maps, Reviews, Ads, Other
 
